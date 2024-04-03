@@ -5,18 +5,18 @@ feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-15034
-source-git-commit: eb56f9ef10efa4155a6c96928048baaa966a5f92
+exl-id: b7acc009-f2b5-463b-b2ea-b0a9015587b8
+source-git-commit: 8b749e15925c2fab02ee84749e645ffbd8686fd0
 workflow-type: tm+mt
-source-wordcount: '38'
+source-wordcount: '39'
 ht-degree: 2%
 
 ---
 
 # 发现Adobe Firefly
 
-使用专为商业安全使用和创新而设计的生成式AI，探索Adobe Firefly创意的未来。 尝试Adobe Firefly [此处](https://firefly.adobe.com/).
+发现Adobe Firefly [创造力的未来](https://www.adobe.com/products/firefly/discover/how-ai-changes-creative-work.html) 生成式AI，专为商业安全使用和创新而设计。 尝试Adobe Firefly [此处](https://firefly.adobe.com/).
 
 <br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427606?quality=12&learn=on&hidetitle=true)
-
