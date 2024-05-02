@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-13379
 exl-id: 3c4244db-f46d-4682-ac5a-f1dd075bf15c
-source-git-commit: 6789f2b08b15dfb0133597f8ccb3f7d3f0a76499
+source-git-commit: 1fc995e8be33317f0d9200bb421fcff0f77a568c
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -60,11 +60,23 @@ Firefly是Adobe产品中提供的新一代创意生成式AI模型，最初侧重
       </a>
    </td>
    <td>
+      <a href="discover.md">
+         <img alt="发现Adobe Firefly" src="assets/discover.png" />
+      </a>
+   </td>
+   <td>
+      <a href="accelerate-ideas.md">
+         <img alt="加速创意构想" src="assets/accelerate-creative-ideation.png" />
+      </a>
+   </td>
+   <td>
       <a href="reusable-scenes.md">
          <img alt="为商品创建可重现的场景" src="assets/reusable-scenes.png" />
       </a>
    </td>
-   <td>
+</tr>
+<tr>
+  <td>
       <a href="custom-model-subject.md">
          <img alt="使用主体创建自定义模型" src="assets/custom-model-subject.png" />
       </a>
@@ -72,13 +84,6 @@ Firefly是Adobe产品中提供的新一代创意生成式AI模型，最初侧重
    <td>
       <a href="custom-model-style.md">
          <img alt="使用样式创建自定义模型" src="assets/custom-model-styles.png" />
-      </a>
-   </td>
-</tr>
-<tr>
-   <td>
-      <a href="discover.md">
-         <img alt="发现Adobe Firefly" src="assets/discover.png" />
       </a>
    </td>
    <td>
@@ -91,14 +96,14 @@ Firefly是Adobe产品中提供的新一代创意生成式AI模型，最初侧重
          <img alt="文字生成图片" src="assets/text-to-image.png" />
       </a>
    </td>
-   <td>
+</tr>
+<tr>
+ <td>
       <a href="text-effects.md">
          <img alt="文本效果" src="assets/text-effects.png" />
       </a>
    </td>
-</tr>
-<tr>
-  <td>
+   <td>
       <a href="gen-fill.md">
          <img alt="生成式填充" src="assets/generative-fill.png" />
       </a>
@@ -113,14 +118,14 @@ Firefly是Adobe产品中提供的新一代创意生成式AI模型，最初侧重
          <img alt="如何使用Firefly的示例" src="assets/examples.png" />
       </a>
    </td>
-   <td>
+</tr>
+<tr>
+  <td>
       <a href="enable-creative-efficiency.md">
          <img alt="提高创意效率" src="assets/enable-creative-efficiency.png" />
       </a>
    </td>
-</tr>
-<tr>
-   <td>
+  <td>
       <a href="generative-fill.md">
          <img alt="Photoshop中的生成式填充" src="assets/generative-fill-ps.png" />
       </a>
@@ -134,10 +139,5 @@ Firefly是Adobe产品中提供的新一代创意生成式AI模型，最初侧重
       <a href="generative-recolor.md">
             <img alt="Illustrator中的生成式重新着色" src="assets/firefly-recolor.png" />
       </a>
-   </td>
-   <td>
-      <img alt="间隔物" src="../assets/Gray_thumbnail.png" />
-      <div>
-      <br>
    </td>
 </table>
