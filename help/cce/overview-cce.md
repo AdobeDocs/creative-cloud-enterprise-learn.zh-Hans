@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6942
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
+source-git-commit: 64f061905203642776cd23e18a4a9f379a95fb83
 workflow-type: tm+mt
-source-wordcount: '1525'
+source-wordcount: '1394'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 作为企业创意人员，您必须与分散的团队协作，建立可扩展的流程，并遵守公司系统和指导原则。 这些教程帮助您从企业角度了解Creative Cloud的新功能。
 
-## 单击以查看产品教程（按字母顺序列出）
+## 选择要查看的产品（按字母顺序列出）教程
 
 ### Adobe Acrobat
 
@@ -46,63 +46,6 @@ ht-degree: 1%
   <td>
     <img alt="间隔物" src="../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
-    <br>
-  </td>
-</tr>
-</table>
-
-### Adobe Express(前身为Adobe Spark)
-
-<table style="table-layout:fixed">
-<tr>
- <td>
-   <a href="adobe-express-content-that-stands-out.md">
-      <img alt="Adobe Express：突出显示的内容" src="assets/Adobe-Express-content-that-stands-out.png" />
-   </a>
-    <div>
-   <a href="adobe-express-content-that-stands-out.md"><strong>Adobe Express：突出显示的内容</strong></a>
-    </div>
-    <em> 使用Adobe Express在几分钟内创建精美的图形、网页和视频故事</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
-      <img alt="在Adobe Spark中创建您的品牌" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
-   </a>
-    <div>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>在Adobe Spark中创建品牌(PDF)</strong></a>
-    </div>
-    <em>Adobe Spark可让您轻松定义品牌</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf">
-      <img alt="向Spark Page添加幻灯片" src="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.jpg" />
-   </a>
-    <div>
-   <a href="assets/AddingaGlideshowtoyourSparkPageAdobeBlog.pdf"><strong>向Spark Page添加幻灯片放映(PDF)</strong></a>
-    </div>
-    <em>Adobe Spark提供了一些令人惊叹且易于使用的布局组件，让您的Web故事栩栩如生</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf">
-      <img alt="在Adobe Spark中创建您的品牌" src="assets/CreatingYourBrandinAdobeSpark.jpg" />
-   </a>
-    <div>
-   <a href="assets/CreatingYourBrandinAdobeSpark.pdf"><strong>在Adobe Spark中创建品牌(PDF)</strong></a>
-    </div>
-    <em>Adobe Spark可让您轻松定义品牌</em>
-    <br>
-  </td>
-  <td>
-   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf">
-      <img alt="认识您的新制作艺术家：Adobe Spark Post" src="assets/MeetYourNewProductionArtistAdobeSparkPost.jpg" />
-   </a>
-    <div>
-   <a href="assets/MeetYourNewProductionArtistAdobeSparkPost.pdf"><strong>认识您的新制作艺术家：Adobe Spark Post(PDF)</strong></a>
-    </div>
-    <em>Adobe Spark会在您创建布局、定义颜色、导入图稿和排列合成中的元素时向您学习</em>
     <br>
   </td>
 </tr>
@@ -256,6 +199,11 @@ ht-degree: 1%
    <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>从Lightroom Web到InDesign(通过Creative Cloud)(PDF)</strong></a>
     </div>
     <em>通过Creative Cloud文件和图库，将您的创意从相机带到最终设计作品中</em>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔物" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
     <br>
   </td>
 </tr>
