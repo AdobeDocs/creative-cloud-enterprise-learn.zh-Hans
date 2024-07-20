@@ -1,5 +1,5 @@
 ---
-title: 利用Adobe快速创建鼓舞人心的情绪板 [!DNL Stock]
+title: 使用Adobe [!DNL Stock]立即创建鼓舞人心的情绪板
 description: 创建项目情绪板，向团队/客户传达信息、创意、视觉效果和调色板
 feature: Licensable Assets
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# 利用Adobe快速创建鼓舞人心的情绪板 [!DNL Stock]
+# 使用Adobe[!DNL Stock]立即创建鼓舞人心的情绪板
 
 创建项目情绪板，向团队/客户传达信息、创意、视觉效果和调色板。
 

@@ -1,5 +1,5 @@
 ---
-title: 使用美丽的渐变和Adobe创建凝聚的品牌图像 [!DNL Stock] Assets
+title: 使用漂亮的渐变和Adobe [!DNL Stock] 资源创建统一的品牌图像
 description: 通过在您的广告活动中组合颜色和渐变，用不同的图像营造品牌一致性
 feature: Licensable Assets
 role: User
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# 使用美丽的渐变和Adobe创建凝聚的品牌图像 [!DNL Stock] Assets
+# 使用漂亮的渐变和Adobe[!DNL Stock]资源创建统一的品牌图像
 
-用可编辑的矢量图将动画带入新闻稿图形中，以进行Adobe [!DNL Stock].
+使用可编辑的矢量将动画导入新闻稿图形中，以用于Adobe[!DNL Stock]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331809?hidetitle=true)

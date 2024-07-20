@@ -1,5 +1,5 @@
 ---
-title: 为Adobe添加手绘美学 [!DNL Stock] 图像
+title: 为Adobe [!DNL Stock] 图像添加手绘美学
 description: 使用适用于iPad的Photoshop，通过可为图像增添深度和维度的独特技巧来强化您的创意营销效果
 feature: Licensable Assets, Image Editing
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# 为Adobe添加手绘美学 [!DNL Stock] 图像
+# 为Adobe[!DNL Stock]图像添加手绘美学
 
 使用适用于iPad的Photoshop通过独特的技术为图像增添深度和维度，从而增添创意营销效果。
 

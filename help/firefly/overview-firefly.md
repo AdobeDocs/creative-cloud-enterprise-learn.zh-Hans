@@ -1,6 +1,6 @@
 ---
 title: Adobe [!DNL Firefly] 概述
-description: 掌握Adobe的最新动态 [!DNL Firefly]
+description: 在Adobe [!DNL Firefly]上获取最新信息
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe [!DNL Firefly] 概述
+# Adobe[!DNL Firefly]概述
 
 Firefly是Adobe产品中提供的新一代创意生成式AI模型，最初侧重于图像和文本效果的生成。 Firefly提供了构思、创建和沟通的新方法，同时显着改进了创意工作流程。
 

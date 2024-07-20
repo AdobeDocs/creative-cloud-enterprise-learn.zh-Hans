@@ -8,7 +8,7 @@ thumb: KT-11314.jpg
 exl-id: 02e1c735-1956-4cb4-a3c4-200b7ef1fc1d
 source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -23,4 +23,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->保存到CC Libraries中的Adobe Stock资源可以无缝添加到Microsoft PowerPoint和Word中。 有关如何下载和安装Adobe Creative Cloud加载项的说明，请参阅 [此处](https://helpx.adobe.com/creative-cloud/help/libraries-addin-microsoft-office.html) 或在Microsoft App Store中。 对于这两个应用程序，该过程都很简单，尤其是对于那些在Illustrator、InDesign或Photoshop中使用Adobe Stock有经验的用户。 有关更多信息，请访问 [浏览Microsoft Office 365中的Adobe Stock集成插件](https://helpx.adobe.com/stock/help/microsoft-office-plug-ins.html).
+>保存到CC Libraries的Adobe Stock资源可以无缝添加到Microsoft PowerPoint和Word中。 可在[此处](https://helpx.adobe.com/creative-cloud/help/libraries-addin-microsoft-office.html)或在Microsoft App Store中找到有关如何下载和安装Adobe Creative Cloud加载项的说明。 对于这两个应用程序，该过程都很简单，尤其是对于那些在Illustrator、InDesign或Photoshop中使用Adobe Stock有经验的用户。 有关详细信息，请访问[浏览Microsoft Office 365中的Adobe Stock集成插件](https://helpx.adobe.com/stock/help/microsoft-office-plug-ins.html)。

@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: e27874b7-ba02-46b7-a5e4-fe2485d9c148
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '319'
-ht-degree: 27%
+source-wordcount: '322'
+ht-degree: 9%
 
 ---
 
@@ -47,7 +47,7 @@ ht-degree: 27%
     <div>
     <a href="illustrator.md"><strong>Illustrator</strong></a>
     </div>
-    <em>矢量图和插图</em>
+    <em>矢量图形和插图</em>
     <br>
   </td>
 </tr>
@@ -79,7 +79,7 @@ ht-degree: 27%
     <div>
     <a href="rush.md"><strong>Rush</strong></a>
     </div>
-    <em>随时随地创建和分享在线视频</em>
+    <em>随时随地创建和共享在线视频</em>
     <br>
   </td>
 </tr>
@@ -91,7 +91,7 @@ ht-degree: 27%
     <div>
     <a href="xd.md"><strong>XD</strong></a>
     </div>
-    <em>设计和分享用户体验并为其创建原型</em>
+    <em>设计用户体验并为其创建原型</em>
     <br>
   </td>
   <td>
@@ -128,7 +128,7 @@ ht-degree: 27%
     <div>
     <a href="fresco.md"><strong>Fresco</strong></a>
     </div>
-    <em>重拾随时随地绘画和绘图的乐趣</em>
+    <em>重新发现随时随地绘图和绘画的乐趣</em>
     <br>
   </td>
   <td>
@@ -136,9 +136,9 @@ ht-degree: 27%
       <img alt="iPad 版 Illustrator" src="../assets/AIoniPad.jpg" />
     </a>
     <div>
-    <a href="illustratoripad.md"><strong>iPad 版 Illustrator</strong></a>
+    <a href="illustratoripad.md"><strong>iPad上的Illustrator</strong></a>
     </div>
-    <em>矢量图和插图</em>
+    <em>矢量图形和插图</em>
     <br>
   </td>
 </tr>
@@ -148,9 +148,9 @@ ht-degree: 27%
       <img alt="iPad 版 Photoshop" src="../assets/PSoniPad.jpg" />
     </a>
     <div>
-    <a href="photoshopipad.md"><strong>iPad 版 Photoshop</strong></a>
+    <a href="photoshopipad.md"><strong>iPad上的Photoshop</strong></a>
     </div>
-    <em>在桌面端和 iPad 上编辑、合成和创建精美的图像、图形和艺术作品</em>
+    <em>在桌面和iPad上编辑、合成和创建精美的图像、图形和艺术作品</em>
     <br>
   </td>
   <td>
@@ -177,7 +177,7 @@ ht-degree: 27%
     <div>
     <a href="aem.md"><strong>AEM Assets和Asset Link</strong></a>
     </div>
-    <em>新一代数字资产管理</em>
+    <em>新一代数字资源管理</em>
     <br>
   </td>
   <td>
@@ -185,7 +185,7 @@ ht-degree: 27%
       <img alt="Creative Cloud 桌面应用程序" src="../assets/CCDA.jpg" />
     </a>
     <div>
-    <a href="creativeclouddesktopapp.md"><strong>Creative Cloud 桌面应用程序</strong></a>
+    <a href="creativeclouddesktopapp.md"><strong>Creative Cloud桌面应用程序</strong></a>
     </div>
     <em>Creative Cloud桌面应用程序是您管理CC应用程序、服务和协作等的中心！</em>
     <br>
@@ -197,7 +197,7 @@ ht-degree: 27%
     <div>
     <a href="cclibraries.md"><strong>CC Libraries</strong></a>
     </div>
-    <em>让您的资源触手可及，项目符合品牌形象</em>
+    <em>让您的资源和您的项目保持随手可得</em>
     <br>
   </td>
 </tr>
@@ -209,7 +209,7 @@ ht-degree: 27%
     <div>
     <a href="indesignserver.md"><strong>InDesign Server</strong></a>
     </div>
-    <em>精密的InDesign工具搭配定制的自动化功能</em>
+    <em>复杂的InDesign工具与自定义的自动化功能配对</em>
     <br>
   </td>
  <td>
@@ -217,7 +217,7 @@ ht-degree: 27%
       <img alt="Adobe Stock" src="../assets/Stock.jpg" />
     </a>
     <div>
-    <a href="stock.md"><strong>Adobe [!DNL Stock]</strong></a>
+    <a href="stock.md"><strong>Adobe[!DNL Stock]</strong></a>
     </div>
     <em>高质量的数字图像、插图、视频、音频、模板等</em>
     <br>
@@ -239,9 +239,9 @@ ht-degree: 27%
       <img alt="创建您自己的人脸蒙版" src="../assets/faceMaskSplash.jpg" />
     </a>
     <div>
-    <a href="handsonproject.md"><strong>创建您自己的人脸蒙版</strong></a>
+    <a href="handsonproject.md"><strong>创建您自己的面罩</strong></a>
     </div>
-    <em>借助AdobeDesign to Print插件，您可以在数百种Zazzle产品上将设计可视化，并直接发布到其在线市场</em>
+    <em>借助Adobe设计到打印增效工具，您可以在数百种Zazzle产品上将设计可视化，并直接发布到其在线市场</em>
     <br>
   </td>
   <td>

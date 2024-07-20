@@ -1,5 +1,5 @@
 ---
-title: 通过组合Adobe创建吸引人的Web图形 [!DNL Stock] 带CSS的图像
+title: 通过将Adobe [!DNL Stock] 图像与CSS组合来创建吸引人的Web图形
 description: 通过在您的广告活动中组合颜色和渐变，用不同的图像营造品牌一致性
 feature: Licensable Assets
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# 通过组合Adobe创建吸引人的Web图形 [!DNL Stock] 带CSS的图像
+# 通过将Adobe[!DNL Stock]图像与CSS相结合，创建吸引人的Web图形
 
 通过在您的广告活动中组合颜色和渐变，用不同的图像营造品牌一致性。
 

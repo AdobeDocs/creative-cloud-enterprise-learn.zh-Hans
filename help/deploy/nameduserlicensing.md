@@ -7,8 +7,8 @@ feature: Deploy
 exl-id: 9dbdb057-6684-4750-bf9d-8af7a32bfe14
 source-git-commit: f17ea20ac8623dae0c681753b4bde250a1c9b06e
 workflow-type: tm+mt
-source-wordcount: '633'
-ht-degree: 2%
+source-wordcount: '615'
+ht-degree: 0%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 ## 关于指定用户许可
 
-[指定用户许可](https://helpx.adobe.com/enterprise/using/licensing.html) 是一种软件许可模式，允许将软件分配给个人而不是序列号或设备。 NUL通过高级用户身份管理为IT管理员提供企业级安全性，并允许使用Adobe Admin Console轻松部署和管理应用程序。
+[指定用户许可](https://helpx.adobe.com/enterprise/using/licensing.html)是一种软件许可模型，它允许将软件分配给个人而不是序列号或设备。 NUL通过高级用户身份管理为IT管理员提供企业级安全性，并允许使用Adobe Admin Console轻松部署和管理应用程序。
 
 ## 指定用户许可的优势：
 
@@ -32,7 +32,7 @@ ht-degree: 2%
 
 * 利用专家服务。
 
-  您与Adobe签署的企业定期许可协议允许通过电话或Web会议与Adobe专家一起进行30分钟的无限会议，以帮助解决任何问题。 要预约会话，请转到Admin Console中的“支持”选项卡，然后单击 **申请专家答疑**.
+  您与Adobe签署的企业定期许可协议允许通过电话或Web会议与Adobe专家一起进行30分钟的无限会议，以帮助解决任何问题。 要预约会话，请转到“Admin Console”中的“支持”选项卡，然后单击&#x200B;**请求Expert会话**。
 
 * 大量用户？ 没问题。
 
@@ -46,4 +46,4 @@ ht-degree: 2%
 
   通过利用NUL，您的用户将能够访问Adobe Creative Cloud和Adobe Document Cloud等生产力增强工具。 您可以执行很多操作：安全创建和签署文档；快速创建自定义PDF；在平板电脑上开始创作项目，然后再将其带到桌面上；通过Document Cloud与团队共享文档；以及在Adobe XD中处理新的团队项目。 我们基于云的服务使作为远程团队的共享资源和协作变得轻而易举。
 
-现代工作流程挑战需要现代解决方案。 让我们帮助您过渡到指定用户许可。 查看 [指定用户许可迁移指南](https://offers.adobe.com/content/dam/offer-manager/en/na/marketing/CCE/Adobe_Named_User_Licensing_Migration_Guide.pdf) 以开始您的过渡。
+现代工作流程挑战需要现代解决方案。 让我们帮助您过渡到指定用户许可。 查看[指定用户许可迁移指南](https://offers.adobe.com/content/dam/offer-manager/en/na/marketing/CCE/Adobe_Named_User_Licensing_Migration_Guide.pdf)以开始您的转换。

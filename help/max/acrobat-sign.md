@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 7b7defa1-d2fb-4908-a605-4696fceeb467
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '611'
+source-wordcount: '610'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
     <div>
    <a href="acrobat-sign.md#tutorial1"><strong>启动Acrobat共享审阅</strong></a>
     </div>
-    <em>邀请审阅人将其注释添加到PDF文档</em>
+    <em>邀请审阅人将其注释添加到PDF文档中</em>
     <br>
   </td>
   <td>
@@ -35,9 +35,9 @@ ht-degree: 0%
         <img alt="使用Adobe Sign创建在线劐免Forms" src="../assets/sign_webforms_palmer-kobey_thumbnail.jpg" />
     </a>
     <div>
-    <a href="acrobat-sign.md#tutorial2"><strong>使用Adobe Sign创建在线劐免Forms</strong></a>
+    <a href="acrobat-sign.md#tutorial2"><strong>使用Adobe Sign创建联机劐免Forms</strong></a>
     </div>
-    <em>快速将文档转换为在线表单并将其发布到在线，任何需要它们的人都可以填写和签署它们</em>
+    <em>快速将文档转换为在线表单并将其发布到在线，任何需要文档的人都可以填写并签署它们</em>
     <br>
   </td>
   <td>
@@ -57,9 +57,9 @@ ht-degree: 0%
       <img alt="使用Liquid Mode查看移动设备上的菜单" src="../assets/acrobat_liquidmode_enke_thumbnail.jpg" />
    </a>
     <div>
-   <a href="acrobat-sign.md#tutorial4"><strong>使用Liquid Mode查看移动设备上的菜单</strong></a>
+   <a href="acrobat-sign.md#tutorial4"><strong>使用Liquid Mode在移动设备上查看菜单</strong></a>
     </div>
-    <em>使用Liquid Mode增强移动设备PDF的阅读器体验</em>
+    <em>使用Liquid Mode增强移动设备上的PDF阅读器体验</em>
     <br>
   </td>
   <td>
@@ -69,7 +69,7 @@ ht-degree: 0%
     <div>
     <a href="acrobat-sign.md#tutorial5"><strong>从手机将文档扫描到PDF</strong></a>
     </div>
-    <em>使用Adobe Scan，轻松捕获文档、表单、名片和白板并将其转换为高质量的AdobePDF</em>
+    <em>使用Adobe Scan，可以轻松捕获文档、表单、名片和白板并将其转换为高质量的AdobePDF</em>
     <br>
   </td>
   <td>
@@ -96,8 +96,9 @@ ht-degree: 0%
 
 [![比较图像](../assets/ComparisonPDF_thumbnail_96.png)](../assets/Adobe_Review_and_Comment_Comparisons.pdf)
 
-**呈列方式：**
-Dan Armstrong，解决方案顾问（数字媒体） Rick Borstein，解决方案咨询高级经理（数字媒体）
+**演示者：**
+解决方案顾问Dan Armstrong （数字媒体）
+Rick Borstein，解决方案咨询高级经理（数字媒体）
 
 ## 使用Adobe Sign创建在线劐免Forms (5:19) {#tutorial2}
 
@@ -111,8 +112,9 @@ Dan Armstrong，解决方案顾问（数字媒体） Rick Borstein，解决方�
 * 将数字表单发布到您的网站，客户可以在其中从自己的设备访问这些表单
 * 已完成的表单会自动存档以供您记录
 
-**呈列方式：**
-Taylor Kobey，解决方案顾问（数字媒体） Emily Palmer，解决方案顾问（数字媒体）
+**演示者：**
+Taylor Kobey，解决方案顾问（数字媒体）
+解决方案顾问Emily Palmer （数字媒体）
 
 ## 使用Adobe Sign请求签名(3:21) {#tutorial3}
 
@@ -124,7 +126,7 @@ Taylor Kobey，解决方案顾问（数字媒体） Emily Palmer，解决方案�
 在本教程中，您将了解如何：
 * 利用您每天使用的工具发送数字文档以供签名
 
-**呈列方式：**
+**演示者：**
 Rick Borstein，解决方案咨询高级经理（数字媒体）
 
 ## 使用Liquid Mode在移动设备上查看菜单(2:57) {#tutorial4}
@@ -139,7 +141,7 @@ Rick Borstein，解决方案咨询高级经理（数字媒体）
 * 增强PDF布局
 * 动态添加功能以帮助您在手机和平板电脑上轻松阅读文档
 
-**呈列方式：**
+**演示者：**
 Emilie Enke，解决方案副顾问（数字媒体）
 
 ## 通过手机将文档扫描为PDF(5:53) {#tutorial5}
@@ -154,15 +156,15 @@ Emilie Enke，解决方案副顾问（数字媒体）
 * 自动识别并锐化手写或印刷文本，同时移除不需要的元素，如眩光和阴影
 * 在Acrobat Reader中打开扫描的PDF以添加注释和评论，并与您的团队一起审阅
 
-**呈列方式：**
+**演示者：**
 Emilie Enke，解决方案副顾问（数字媒体）
 
-![dc徽标](../assets/Doc-Cloud-256.png)
+![DC徽标](../assets/Doc-Cloud-256.png)
 
 **Acrobat和Adobe Sign资源**
 
-[学习和支持](https://helpx.adobe.com/support/document-cloud.html) 是其他教程的中心， [新增功能](https://helpx.adobe.com/acrobat/using/whats-new.html)，并提供指向社区论坛的链接。
+[学习和支持](https://helpx.adobe.com/support/document-cloud.html)是您获取其他教程、[新增功能](https://helpx.adobe.com/acrobat/using/whats-new.html)以及社区论坛链接的中心点。
 
-**2020年十月版**
+**2020年10月版**
 
 开始使用这些功能（以及更多功能！） 从Creative Cloud桌面应用程序下载最新更新。

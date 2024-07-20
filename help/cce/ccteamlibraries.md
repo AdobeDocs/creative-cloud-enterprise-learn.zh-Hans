@@ -1,6 +1,6 @@
 ---
-title: 为团队创建Creative Cloud库
-description: 了解如何使用适用于团队的Creative Cloud库在组或团队中共享资源
+title: 创建适用于团队的Creative Cloud Libraries
+description: 了解如何使用Creative Cloud Libraries团队版在组或团队内共享资源
 feature: Integrations
 role: User
 level: Beginner, Intermediate
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# 为团队创建Creative Cloud库
+# 创建适用于团队的Creative Cloud Libraries
 
-了解如何使用适用于团队的Creative Cloud库在组或团队中共享资源。 这些类型的库未绑定到个人用户帐户，而是属于团队。 您可以通过以下方式识别团队库 ![构建图像](assets/Smock_Building_18_N.png) 图标。
+了解如何使用Creative Cloud Libraries团队版在组或团队内共享资源。 这些类型的库未绑定到个人用户帐户，而是属于团队。 可以通过![生成图像](assets/Smock_Building_18_N.png)图标标识团队库。
 
 >[!TIP]
 >
->随时使用Creative Cloud库 — 您的组织必须保留创意资源的所有权。 一些示例包括：公司风格指南、共享项目和UI设计元素。
+>每当您的组织必须保留创意资源的所有权时，都可以使用Creative Cloud Libraries团队版。 一些示例包括：公司风格指南、共享项目和UI设计元素。
 
 <br> 
 

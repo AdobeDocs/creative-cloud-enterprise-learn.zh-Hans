@@ -1,5 +1,5 @@
 ---
-title: 使用Adobe创建独特的复合图像 [!DNL Stock] 和Photoshop for iPad
+title: 使用Adobe [!DNL Stock] 和Photoshop for iPad创建独特的复合图像
 description: 触手可及的Photoshop功能。 通过重新设计的触控界面，学习以全新的方式使用您最喜欢的Creative Cloud应用程序之一
 feature: Image Editing
 role: User
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# 使用Adobe创建独特的复合图像 [!DNL Stock] 和Photoshop for iPad
+# 使用Adobe[!DNL Stock]和Photoshop for iPad创建独特的复合图像
 
 触手可及的Photoshop功能。 通过重新设计的触控界面，学习以全新的方式使用您最喜欢的Creative Cloud应用程序。
 
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 [**下载快速参考PDF指南**](../quick-reference/GettoknowPhotoshopontheiPad.pdf)
 
-[![快速参考指南首页的图像](assets/GettoknowPhotoshopontheiPadPage1.png)](../quick-reference/GettoknowPhotoshopontheiPad.pdf)
+[![快速参考指南第一页的图像](assets/GettoknowPhotoshopontheiPadPage1.png)](../quick-reference/GettoknowPhotoshopontheiPad.pdf)

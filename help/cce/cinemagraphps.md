@@ -1,6 +1,6 @@
 ---
 title: 使用Photoshop创建影院
-description: 在本研讨会分步视频教程中，通过合并Adobe中的视频制作一张生动的照片 [!DNL Stock] 在Photoshop中使用巧妙的蒙版技术
+description: 在此分步研讨会视频教程中，通过将Adobe [!DNL Stock] 中的视频与Photoshop中的巧妙蒙版技术相结合，制作一张有生气的照片
 feature: Image Editing
 role: User
 level: Beginner, Intermediate
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # 使用Photoshop创建影院
 
-在本研讨会分步视频教程中，通过合并Adobe中的视频制作一张生动的照片 [!DNL Stock] 在Photoshop中使用巧妙的蒙版技术。
+在此分步研讨会视频教程中，通过将Adobe[!DNL Stock]中的视频与Photoshop中的巧妙蒙版技术相结合，制作一张动态照片。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331002?hidetitle=true)
 
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 [**下载快速参考PDF指南**](../quick-reference/CreatingCinemagraphswithPhotoshop.pdf)
 
-[![快速参考指南首页的图像](assets/CreatingCinemagraphswithPhotoshopPage1.png)](../quick-reference/CreatingCinemagraphswithPhotoshop.pdf)
+[![快速参考指南第一页的图像](assets/CreatingCinemagraphswithPhotoshopPage1.png)](../quick-reference/CreatingCinemagraphswithPhotoshop.pdf)

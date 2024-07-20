@@ -1,6 +1,6 @@
 ---
-title: 创建带Adobe的电子邮件动画 [!DNL Stock] 和Photoshop
-description: 通过Adobe让您的电子邮件呈现停止操作动画 [!DNL Stock] 和Photoshop
+title: 使用Adobe [!DNL Stock] 和Photoshop为电子邮件创建动画
+description: 使用Adobe [!DNL Stock] 和Photoshop为电子邮件添加停止操作动画
 feature: Licensable Assets, Image Editing
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# 创建带Adobe的电子邮件动画 [!DNL Stock] 和Photoshop
+# 使用Adobe[!DNL Stock]和Photoshop为电子邮件创建动画
 
-通过Adobe让您的电子邮件呈现停止操作动画 [!DNL Stock] 和Photoshop。
+使用Adobe[!DNL Stock]和Photoshop为您的电子邮件添加停止操作动画。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331838?hidetitle=true)

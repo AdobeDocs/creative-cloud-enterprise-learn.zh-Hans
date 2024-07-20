@@ -1,5 +1,5 @@
 ---
-title: 使用CC库
+title: 使用CC Libraries
 description: 了解如何与您的团队共享CC Library资源
 feature: Integrations
 role: User
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# 使用CC库
+# 使用CC Libraries
 
 了解如何与您的团队共享CC Library资源。
 

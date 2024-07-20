@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 5be50d97-3ff5-4b10-b186-109473c3bd32
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '203'
 ht-degree: 2%
 
 ---
@@ -27,7 +27,7 @@ Photoshop是世界上最好的图像处理和图形设计软件，让专业人�
     <div>
    <a href="photoshopipad.md#tutorial1"><strong>iPad上的Photoshop简介</strong></a>
     </div>
-    <em>观看界面教程，了解Photoshop中一些重新设计用于在Apple iPad上使用的功能</em>
+    <em>观看界面教程，了解Photoshop中一些重新设计用于Apple iPad的功能</em>
     <br>
   </td>
   <td>
@@ -56,15 +56,15 @@ Photoshop是世界上最好的图像处理和图形设计软件，让专业人�
 * 更沉浸式和自然的体验
 * 使用云文档实现无缝工作流
 
-**呈列方式：**
+**演示者：**
 解决方案顾问Dan Armstrong （数字媒体）
 
-![Photoshop on the iPad徽标](../assets/ps_appicon_96.png)
+![iPad徽标上的Photoshop](../assets/ps_appicon_96.png)
 
 **iPad资源上的Photoshop**
 
-[学习和支持](https://helpx.adobe.com/support/photoshop.html) 是其他教程和社区论坛链接的中心。
+[学习和支持](https://helpx.adobe.com/support/photoshop.html)是您获取其他教程和社区论坛链接的中心点。
 
-**2020年十月版**
+**2020年10月版**
 
 开始使用这些功能（以及更多功能！） 从Creative Cloud桌面应用程序下载最新更新。

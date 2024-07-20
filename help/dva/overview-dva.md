@@ -36,7 +36,7 @@ ht-degree: 0%
     <div>
    <a href="video-review-frame-io.md"><strong>使用Frame.io进行视频审阅</strong></a>
     </div>
-    <em>了解适用于Adobe Premiere Pro的Frame.io扩展如何让您无需离开时间轴即可集中和共享资源、接收实时注释、跟踪修订以及获得更快的批准</em>
+    <em>了解适用于Adobe Premiere Pro的Frame.io扩展如何让您在不离开时间轴的情况下，集中和共享资源、接收实时注释、跟踪修订以及获得更快的批准</em>
     <br>
   </td>
   <td>

@@ -19,25 +19,25 @@ ht-degree: 4%
 # 面向企业Tutorials的Creative Cloud {#cce-learning-hub}
 
 + [概述](overview.md)
-+ 企业Creative Cloud {#cceoverview}
++ 企业{#cceoverview}的Creative Cloud
    + [概述](cce/overview-cce.md)
-   + Tutorials {#ccetutorials}
+   + Tutorials{#ccetutorials}
       + [适用于内容创作者的Acrobat](cce/acrobat-content-creators.md)
-      + [使用CC库改进CC工作流](cce/cc-workflows-cc-libraries.md)
+      + [使用CC Libraries改进CC工作流](cce/cc-workflows-cc-libraries.md)
       + [驯服型焦虑](cce/taming-type-anxiety.md)
       + [Adobe Express：突出显示的内容](cce/adobe-express-content-that-stands-out.md)
       + [协作：创造力的未来](cce/collaboration-the-future-of-creativity.md)
-      + [为团队创建Creative Cloud库](cce/ccteamlibraries.md)
-      + [与Creative Cloud库团队版共享品牌资源](cce/sharecclibraries.md)
-      + [使用Adobe创建独特的复合图像 [!DNL Stock] 和Photoshop for iPad](cce/compositepsipad.md)
+      + [创建适用于团队的Creative Cloud Libraries](cce/ccteamlibraries.md)
+      + [与Creative Cloud Libraries团队版共享品牌资源](cce/sharecclibraries.md)
+      + [使用Adobe [!DNL Stock] 和Photoshop for iPad创建独特的复合图像](cce/compositepsipad.md)
       + [使用Photoshop创建影院](cce/cinemagraphps.md)
       + [解码图形格式的字母汤](cce/alphabetsoup.md)
       + [尝试iPad和iPhone上的Fresco](cce/frescoworkshop.md)
-   + 快速参考指南 {#ccerefguides}
+   + 快速参考指南{#ccerefguides}
       + [CCE参考线](quick-reference/overview-ref.md)
 + [!DNL Adobe Express] {#expressoverview}
    + [概述](express/overview-express.md)
-   + 操作方法教程 {#expresshowto}
+   + How-to教程{#expresshowto}
       + [概述](express/overview-express-how-to.md)
       + [主页上的内容](express/get-started.md)
       + [快速操作简介](express/quick-actions.md)
@@ -76,7 +76,7 @@ ht-degree: 4%
       + [如何使用调度程序进行过帐](express/schedule.md)
       + [编组对象](express/group-objects.md)
       + [创建多个页面](express/multiple-pages.md)
-      + [使用CC库](express/cc-libraries.md)
+      + [使用CC Libraries](express/cc-libraries.md)
       + [Google Drive集成](express/google-drive.md)
       + [优化抠图](express/refine-cutout.md)
       + [创建弯曲的文本](express/create-curved-text.md)
@@ -90,7 +90,7 @@ ht-degree: 4%
       + [创建模板](express/create-templates.md)
       + [保存和共享模板](express/share-templates.md)
       + [如何使用模板](express/use-templates.md)
-   + 用例教程 {#expressusecase}
+   + 使用案例教程{#expressusecase}
       + [概述](express/overview-express-use-case-tutorials.md)
       + [创建在线学习课程的促销视觉效果](express/promo-visual.md)
       + [制作年终视频](express/end-of-year-video.md)
@@ -109,9 +109,9 @@ ht-degree: 4%
       + [使用Firefly创建网络研讨会海报](express/create-webinar-poster.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [概述](firefly/overview-firefly.md)
-   + Tutorials {#firefly-tutorials}
-      + [概述 [!DNL Adobe Firefly]](firefly/overview-of-firefly.md)
-      + [Discover [!DNL Adobe Firefly]](firefly/discover.md)
+   + Tutorials{#firefly-tutorials}
+      + [ [!DNL Adobe Firefly]概述](firefly/overview-of-firefly.md)
+      + [发现 [!DNL Adobe Firefly]](firefly/discover.md)
       + [加速创意构想](firefly/accelerate-ideas.md)
       + [为商品创建可重复使用的场景](firefly/reusable-scenes.md)
       + [使用主体创建自定义模型](firefly/custom-model-subject.md)
@@ -121,67 +121,67 @@ ht-degree: 4%
       + [文本效果](firefly/text-effects.md)
       + [生成式填充](firefly/gen-fill.md)
       + [生成式重新着色](firefly/gen-recolor.md)
-      + [如何使用示例 [!DNL Firefly]](firefly/examples.md)
+      + [如何使用 [!DNL Firefly]的示例](firefly/examples.md)
       + [提高创意效率](firefly/enable-creative-efficiency.md)
-      + [横幅广告变体 [!DNL Photoshop]](firefly/web-banner-ad.md)
-      + [生成式填充 [!DNL Photoshop]](firefly/generative-fill.md)
-      + [生成式重新着色 [!DNL Illustrator]](firefly/generative-recolor.md)
-   + 网络研讨会 {#firefly-webinars}
+      + [ [!DNL Photoshop]中的横幅广告变体](firefly/web-banner-ad.md)
+      + [ [!DNL Photoshop]中的生成式填充](firefly/generative-fill.md)
+      + [ [!DNL Illustrator]中的生成式重新着色](firefly/generative-recolor.md)
+   + 网络研讨会{#firefly-webinars}
       + [尝试Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [概述](stock/overview-stock.md)
-   + Tutorials {#stocktutorials}
+   + Tutorials{#stocktutorials}
       + [令人惊叹的数字资产](stock/stunning-digital-assets.md)
       + [搜索Adobe [!DNL Stock] 许可历史记录](stock/searchstock.md)
-      + [为Adobe添加手绘美学 [!DNL Stock] 图像](stock/handdrawn.md)
+      + [为Adobe [!DNL Stock] 图像添加手绘美学](stock/handdrawn.md)
       + [通过蒙版和动画为排版增添风格](stock/flairtypography.md)
-      + [为Adobe制作动画 [!DNL Stock] Photoshop中的矢量插图](stock/animatevector.md)
-      + [以使用Adobe创建的视频开始您的年度报告 [!DNL Stock] 和Spark Video](stock/annualreport.md)
-      + [通过Adobe自定义动画，让创意变得栩栩如生 [!DNL Stock]](stock/customanimations.md)
-      + [更改Adobe [!DNL Stock] 图像颜色与您的故事相匹配](stock/changecolors.md)
-      + [使用Adobe为海报创建3D拼贴画 [!DNL Stock] 图像](stock/collage.md)
-      + [使用Adobe创建粗体标签 [!DNL Stock] 模板和Photoshop智能对象](stock/boldlabel.md)
-      + [使用Adobe创建公司准则信息图 [!DNL Stock]](stock/infographic.md)
-      + [使用Adobe创建产品功能比较表 [!DNL Stock]](stock/featurecomparison.md)
-      + [使用Adobe创建半超现实的合成 [!DNL Stock]](stock/surrealcomposite.md)
-      + [使用Adobe创建半超现实图案 [!DNL Stock]](stock/surrealpattern.md)
-      + [创建具有Adobe的交互式产品配置器 [!DNL Stock]](stock/productconfigurator.md)
-      + [使用Adobe创建交互式旅游照片 [!DNL Stock] 和XD](stock/interactivetourismphoto.md)
-      + [创建带Adobe的电子邮件动画 [!DNL Stock] 和Photoshop](stock/animationemail.md)
-      + [使用美丽的渐变和Adobe创建凝聚的品牌图像 [!DNL Stock] Assets](stock/brandgradients.md)
-      + [通过组合Adobe创建吸引人的Web图形 [!DNL Stock] 带CSS的图像](stock/webgraphics.md)
-      + [利用Adobe快速创建鼓舞人心的情绪板 [!DNL Stock]](stock/moodboard.md)
-      + [使用Adobe创建逼真的照片合成图像 [!DNL Stock] 图像](stock/realisticcomposite.md)
-      + [使用Adobe自定义加载屏幕动画 [!DNL Stock] 和XD](stock/loadingscreen.md)
-      + [自定义Adobe [!DNL Stock] 展现专业外观的演示文稿模板](stock/presentationtemplate.md)
-      + [自定义Adobe中的颜色 [!DNL Stock] 矢量插图](stock/customizecolors.md)
+      + [在Photoshop中为Adobe [!DNL Stock] 矢量插图制作动画](stock/animatevector.md)
+      + [以使用Adobe [!DNL Stock] 和Spark Video创建的视频开始您的年度报告](stock/annualreport.md)
+      + [通过Adobe [!DNL Stock]使用自定义动画让创意变得栩栩如生](stock/customanimations.md)
+      + [更改 [!DNL Stock] 图像的Adobe以匹配您的故事](stock/changecolors.md)
+      + [使用Adobe [!DNL Stock] 图像为海报创建3D拼贴画](stock/collage.md)
+      + [使用Adobe [!DNL Stock] 模板和Photoshop智能对象创建粗体标签](stock/boldlabel.md)
+      + [使用Adobe [!DNL Stock]创建公司准则信息图](stock/infographic.md)
+      + [使用Adobe [!DNL Stock]创建产品功能比较表](stock/featurecomparison.md)
+      + [创建具有Adobe [!DNL Stock]的半超现实合成](stock/surrealcomposite.md)
+      + [使用Adobe [!DNL Stock]创建半超现实图案](stock/surrealpattern.md)
+      + [创建具有Adobe [!DNL Stock]的交互式产品配置器](stock/productconfigurator.md)
+      + [使用Adobe [!DNL Stock] 和XD创建交互式旅游照片](stock/interactivetourismphoto.md)
+      + [使用Adobe [!DNL Stock] 和Photoshop为电子邮件创建动画](stock/animationemail.md)
+      + [使用漂亮的渐变和Adobe [!DNL Stock] 资源创建统一的品牌图像](stock/brandgradients.md)
+      + [通过将Adobe [!DNL Stock] 图像与CSS组合来创建吸引人的Web图形](stock/webgraphics.md)
+      + [使用Adobe [!DNL Stock]立即创建鼓舞人心的情绪板](stock/moodboard.md)
+      + [使用Adobe [!DNL Stock] 图像创建逼真的照片合成图像](stock/realisticcomposite.md)
+      + [使用Adobe [!DNL Stock] 和XD自定义加载屏幕动画](stock/loadingscreen.md)
+      + [自定义Adobe [!DNL Stock] 演示文稿模板以展现专业效果](stock/presentationtemplate.md)
+      + [自定义Adobe [!DNL Stock] 矢量插图中的颜色](stock/customizecolors.md)
 + Adobe3D和VR {#3doverview}
    + [概述](3di/overview-3di.md)
-   + Tutorials {#3dtutorials}
+   + Tutorials{#3dtutorials}
       + [3D设计和渲染](3di/substance-3d-stager.md)
       + [掌握CGI中3D光照的提示和技术](3di/mastering3dlighting.md)
       + [通过3D渲染和合成创建逼真的虚拟摄影](3di/photorealistic.md)
-      + [使用以下工具自定义和标记3D模型 [!DNL Dimension] 和Adobe [!DNL Stock]](3di/3ddimensionstock.md)
-+ Adobe视频 {#videooverview}
+      + [使用 [!DNL Dimension] 和Adobe [!DNL Stock]自定义3D模型并为其添加品牌](3di/3ddimensionstock.md)
++ Adobe视频{#videooverview}
    + [概述](dva/overview-dva.md)
-   + Tutorials {#videotutorials}
+   + Tutorials{#videotutorials}
       + [专业的动态图形模板](dva/motion-graphics-templates.md)
       + [使用Frame.io进行视频审阅](dva/video-review-frame-io.md)
-   + 快速参考指南 {#videorefguides}
+   + 快速参考指南{#videorefguides}
       + [视频参考线](dva/overview-dva-ref.md)
 + Adobe XD {#xdoverview}
    + [概述](xd/overview-xd.md)
-   + Tutorials {#xdtutorials}
-   + [轻松使用 [!UICONTROL 组件] 在Adobe XD中](xd/components.md)
-+ 部署和管理 {#deploy}
+   + Tutorials{#xdtutorials}
+   + [在Adobe XD中轻松使用[!UICONTROL 组件]](xd/components.md)
++ 部署和管理{#deploy}
    + [概述](deploy/overview-deploy.md)
    + [序列号过期](deploy/cceserial.md)
    + [指定用户许可](deploy/nameduserlicensing.md)
 + Adobe MAX {#max}
    + [概述](max/overview-max.md)
-   + Tutorials {#tutorials}
+   + Tutorials{#tutorials}
       + [概述](max/maxtutorials.md)
-      + 桌面产品 {#desktop-products}
+      + 桌面产品{#desktop-products}
          + [Acrobat &amp; Sign](max/acrobat-sign.md)
          + [[!DNL Dimension]](max/dimension.md)
          + [Illustrator](max/illustrator.md)
@@ -189,17 +189,17 @@ ht-degree: 4%
          + [Photoshop](max/photoshop.md)
          + [[!DNL Rush]](max/rush.md)
          + [XD](max/xd.md)
-      + 移动应用程序 {#mobile-apps}
+      + 移动应用程序{#mobile-apps}
          + [[!DNL Capture]](max/capture.md)
          + [Fresco](max/fresco.md)
          + [iPad 版 Illustrator](max/illustratoripad.md)
          + [iPad 版 Photoshop](max/photoshopipad.md)
-      + 集成 {#integrations}
+      + 集成{#integrations}
          + [AEM](max/aem.md)
          + [Creative Cloud 桌面应用程序](max/creativeclouddesktopapp.md)
          + [CC Libraries](max/cclibraries.md)
          + [InDesign Server](max/indesignserver.md)
          + [[!DNL Stock]](max/stock.md)
          + [企业管理](max/enterprise.md)
-      + 实际操作项目 {#project}
+      + 实际操作项目{#project}
          + [创建您自己的人脸蒙版](max/handsonproject.md)

@@ -1,6 +1,6 @@
 ---
-title: 自定义Adobe中的颜色 [!DNL Stock] 矢量插图
-description: 使用美观的插图为任何项目添加波兰效果。 在Adobe中查找完美的矢量 [!DNL Stock]，然后使用Adobe Illustrator将颜色与项目的调色板相匹配
+title: 自定义Adobe [!DNL Stock] 矢量插图中的颜色
+description: 使用美观的插图为任何项目添加波兰效果。 在Adobe [!DNL Stock]中查找完美的矢量，然后使用Adobe Illustrator将颜色与项目的调色板匹配
 feature: Licensable Assets, Vector Editing
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# 自定义Adobe中的颜色 [!DNL Stock] 矢量插图
+# 自定义Adobe[!DNL Stock]矢量插图中的颜色
 
-使用美观的插图为任何项目添加波兰效果。 在Adobe中查找完美的矢量 [!DNL Stock]，然后使用Adobe Illustrator将这些颜色与项目的调色板相匹配。
+使用美观的插图为任何项目添加波兰效果。 在Adobe[!DNL Stock]中查找完美的矢量，然后使用Adobe Illustrator将这些颜色与项目的调色板相匹配。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331826?hidetitle=true)

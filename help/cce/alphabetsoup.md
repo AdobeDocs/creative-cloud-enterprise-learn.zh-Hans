@@ -24,4 +24,4 @@ JPG、PNG、SVG、GIF和EPS文件通常用于设计，有些用于网页，有�
 
 [**下载快速参考PDF指南**](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)
 
-[![快速参考指南首页的图像](assets/DecodingthealphabetsoupofgraphicformatsPage1.png)](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)
+[![快速参考指南第一页的图像](assets/DecodingthealphabetsoupofgraphicformatsPage1.png)](../quick-reference/Decodingthealphabetsoupofgraphicformats.pdf)

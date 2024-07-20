@@ -1,6 +1,6 @@
 ---
-title: 与Creative Cloud库共享品牌推广资源
-description: 了解如何使用团队版Creative Cloud库为组或团队创建、使用和共享品牌推广资源
+title: 与Creative Cloud Libraries团队版共享品牌资源
+description: 了解如何使用Creative Cloud Libraries团队版为您的组或团队创建、使用和共享品牌推广资源
 feature: Integrations
 role: User
 level: Beginner, Intermediate
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# 与Creative Cloud库团队版共享品牌资源
+# 与Creative Cloud Libraries团队版共享品牌资源
 
-了解如何使用团队版Creative Cloud库为组或团队创建、使用和共享品牌推广资源。 “Creative Cloud库”团队版中的资源存储在中心位置，且未与个人用户帐户建立关联。 您可以通过以下方式识别团队库 ![构建图像](assets/Smock_Building_18_N.png) 图标。
+了解如何使用Creative Cloud Libraries团队版为您的组或团队创建、使用和共享品牌推广资源。 Creative Cloud Libraries团队版中的资源存储在中心位置，且未与个人用户帐户绑定。 可以通过![生成图像](assets/Smock_Building_18_N.png)图标标识团队库。
 
 >[!TIP]
 >
->随时使用Creative Cloud库 — 您的组织必须保留创意资源的所有权。 一些示例包括：公司风格指南、共享项目和UI设计元素。
+>每当您的组织必须保留创意资源的所有权时，都可以使用Creative Cloud Libraries团队版。 一些示例包括：公司风格指南、共享项目和UI设计元素。
 
 <br> 
 

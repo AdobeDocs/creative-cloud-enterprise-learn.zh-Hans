@@ -1,5 +1,5 @@
 ---
-title: 使用Adobe创建半超现实的合成 [!DNL Stock]
+title: 创建具有Adobe [!DNL Stock]的半超现实合成
 description: 通过将多个图像与颜色、运动和蒙版效果相结合，创建令人难忘的编辑图像
 feature: Licensable Assets
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# 使用Adobe创建半超现实的合成 [!DNL Stock]
+# 使用Adobe[!DNL Stock]创建半超现实合成
 
 通过将多个图像与颜色、运动和蒙版效果相结合，创建令人难忘的编辑图像。
 

@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 5a45d334-3581-4b85-acb6-57764efa6f0a
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '151'
 ht-degree: 8%
 
 ---
@@ -22,10 +22,12 @@ Creative Cloud桌面应用程序是您管理CC应用程序、服务和协作等�
 <tr>
  <td>
    <a href="creativeclouddesktopapp.md#tutorial1">
-      <img alt="探索CC桌面应用程序：您的Creative Cloud中心" src="../assets/ccda_overview_sokol_thumbnail.jpg" />
+      <img alt="探索CC桌面应用程序：您的中心 
+Creative Cloud" src="../assets/ccda_overview_sokol_thumbnail.jpg" />
    </a>
     <div>
-   <a href="creativeclouddesktopapp.md#tutorial1"><strong>探索CC桌面应用程序：您的Creative Cloud中心</strong></a>
+   <a href="creativeclouddesktopapp.md#tutorial1"><strong>浏览CC桌面应用程序：您的中心 
+Creative Cloud</strong></a>
     </div>
     <em>Creative Cloud桌面应用程序是您管理CC应用程序、服务和协作等的中心！</em>
     <br>
@@ -58,5 +60,5 @@ Creative Cloud桌面应用程序是您管理CC应用程序、服务和协作等�
 * 发现教程
 * 在 Behance 上共享您的作品。
 
-**呈列方式：**
+**演示者：**
 Patti Sokol，首席解决方案顾问（数字媒体）

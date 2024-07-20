@@ -8,31 +8,31 @@ keywords: 虚拟摄影， 100 Global MSV
 exl-id: 6c4b13c6-aab8-4df0-bb05-eb5d90aafbe4
 source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
-source-wordcount: '2367'
+source-wordcount: '2387'
 ht-degree: 0%
 
 ---
 
 # 通过3D渲染和合成创建逼真的虚拟摄影
 
-![几个使用Adobe设计的逼真的虚拟照片示例 [!DNL Dimension]](assets/Photorealistic_1.png)
+![示例拼贴画，展示使用Adobe[!DNL Dimension]](assets/Photorealistic_1.png)设计的逼真的虚拟照片
 
 看着上面的图片，如果您认为自己看到的一切都是真实的，那也是情有可原的。 随着逼真的3D图像渲染技术的进步，准确判断什么是真实的，什么是虚拟的，这比以往任何时候都更加困难。 在这种情况下，图像融合了真实事物、摄影技术和经过渲染的3D内容 — 而这正是各家公司正在大力投入的一种3D设计类型。
 
 ![詹姆斯·卡梅隆的《深渊》中的一幕，玛丽·马斯特兰托尼奥伸手触摸CGI深海怪物](assets/Photorealistic_2.jpg)
 
-这种将3D模型分层或“合成”到图像或视频中的技术并不新奇，实际上，它的起源可以追溯到早年使用视觉特效(VFX)的时代（最早可追溯到上世纪80年代）。 令人感到新奇和高兴的是，这项技术已经成为一项强大的工具， [Adobe [!DNL Dimension]](https://www.adobe.com/products/dimension.html) 以及一个有趣的摄影师新工作流程。
+这种将3D模型分层或“合成”到图像或视频中的技术并不新奇，实际上，它的起源可以追溯到早年使用视觉特效(VFX)的时代（最早可追溯到上世纪80年代）。 令人感到新奇和高兴的是，这项技术已经成为[Adobe [!DNL Dimension]](https://www.adobe.com/products/dimension.html)用户的强大工具，也为摄影师们提供了一个新鲜而有趣的工作流程。
 
 
-## 在Adobe中创建合成图像的技术 [!DNL Dimension]
+## 在Adobe[!DNL Dimension]中创建合成图像背后的技术
 
-![在Adobe中编辑金属球体模型的平面 [!DNL Dimension] 复合](assets/Photorealistic_3.png)
+![在Adobe[!DNL Dimension]复合图像中编辑金属球体模型的平面](assets/Photorealistic_3.png)
 
-Adobe [!DNL Dimension] 允许用户使用Adobe Sensei支持的匹配图像功能，直接在应用程序中将2D和3D元素无缝组合在一起。 以这种方式合成元素的主要好处是，它可以用现实中拍摄的背景图像来替换完全由3D实现的场景，从而加速推进创建逼真图像的过程。
+Adobe[!DNL Dimension]允许用户使用Adobe Sensei支持的匹配图像功能，直接在应用程序中将2D和3D元素无缝组合在一起。 以这种方式合成元素的主要好处是，它可以用现实中拍摄的背景图像来替换完全由3D实现的场景，从而加速推进创建逼真图像的过程。
 
-![Adobe中的“匹配图像”功能 [!DNL Dimension] 分析背景图像，并估计拍摄背景图像时，相机的焦距和位置](assets/Photorealistic_4.gif)
+![Adobe[!DNL Dimension]中的“匹配图像”功能可分析背景图像，并估算拍摄背景图像时，相机的焦距和位置](assets/Photorealistic_4.gif)
 
-“匹配图像”功能可以分析背景图像，并估算拍摄背景图像时，相机的焦距和位置。 然后在中创建3D相机 [!DNL Dimension] 场景中的元素，渲染3D元素的视角与背景图像相同，因此它们会合成在一起
+“匹配图像”功能可以分析背景图像，并估算拍摄背景图像时，相机的焦距和位置。 然后，在[!DNL Dimension]场景中创建一个3D相机，并使用与背景图像相同的透视来渲染3D元素，以便将它们合成在一起。
 
 但相机画面中未能捕捉到的所有东西呢？  图像拍摄的完整环境非常重要，因为它定义了其中所有内容的显示方式。 图像中的对象在反射其周围世界的光线，也包括相机后面的一切。 因此，要使分层的3D元素真正与图像的背景融合在一起，就需要充分反射拍摄该图像时的环境光照。
 
@@ -58,9 +58,9 @@ Ricoh Theta、Gopro MAX和Insta 360等相机可以拍摄360度全景照片。 Ri
 
 ### 选择位置
 
-寻找适合背景和光照的位置。 在构思背景时，想象一个场景的潜在用途可能会有所帮助。 例如，一条空旷的道路可用来摆放一辆3D汽车，而咖啡店里的一张桌子则可用来 [显示包装](https://www.adobe.com/products/dimension/packaging-design-mockup.html) 食物的。
+寻找适合背景和光照的位置。 在构思背景时，想象一个场景的潜在用途可能会有所帮助。 例如，一条空旷的道路可用来摆放一辆3D汽车，而咖啡店里的一张桌子则可用来[展示食品的包装](https://www.adobe.com/products/dimension/packaging-design-mockup.html)。
 
-![虚拟照片的4个位置场景与使用3D合成的相同场景的对比](assets/Photorealistic_8.png)
+![将虚拟照片的4个位置场景与使用3D合成的相同场景进行对比](assets/Photorealistic_8.png)
 
 在拍摄背景图像时，请务必牢记，3D元素将会合成到其中。 应留出空白焦点区域，以便为这些对象留出空间。 3D内容通常是最终合成图像中的主要焦点，因此背景本身不要过于突出，这一点非常重要。
 
@@ -120,7 +120,7 @@ Ricoh Theta、Gopro MAX和Insta 360等相机可以拍摄360度全景照片。 Ri
 
 ![办公空间360度HDR全景图，最低点可见阴影](assets/Photorealistic_17.png)
 
-最后，移除图像最低点处可见的阴影和三脚架腿，并调整图像的默认曝光以正确照亮场景。 可以使用Photoshop中的克隆工具删除细节。 调整曝光应与背景结合使用，具体操作如下： [!DNL Dimension]，因为HDR IBL的曝光值是3D对象的光照值。
+最后，移除图像最低点处可见的阴影和三脚架腿，并调整图像的默认曝光以正确照亮场景。 可以使用Photoshop中的克隆工具删除细节。 由于HDR IBL的曝光值是3D对象的光照值，因此应在[!DNL Dimension]中结合背景来调整曝光。
 
 ### 拍摄背景
 
@@ -132,40 +132,40 @@ Ricoh Theta、Gopro MAX和Insta 360等相机可以拍摄360度全景照片。 Ri
 
 结合背景设计画面和构图时，有很大的空间。 相机可以使用不同景深的高光圈或低光圈，可以使用长焦距或短焦距，还可以上下倾斜。 主要要求相机对准使用360相机拍摄环境照片的中心点。
 
-拍摄完成后，应对图像进行后期处理，使其尽量接近环境的颜色。 颜色和曝光应尽量保持中性且自然。 在使用Adobe将3D元素合成到图像之后，应应用任何风格化的外观 [!DNL Dimension].
+拍摄完成后，应对图像进行后期处理，使其尽量接近环境的颜色。 颜色和曝光应尽量保持中性且自然。 在将3D元素合成到Adobe为[!DNL Dimension]的图像中之后，应应用任何风格化的外观。
 
-## 在中组合合成图像 [!DNL Dimension]
+## 正在[!DNL Dimension]中组合合成图像
 
-随着这些元素的收集和完成，现在可以在Adobe中将它们组合到场景中 [!DNL Dimension]. 这非常简单，只需要将背景拖到场景中，而场景又将接着应用到背景中；然后，将HDR全景图添加到环境光图像位置。
+随着这些元素的收集和完成，现在可以在Adobe[!DNL Dimension]中将它们组合到场景中。 这非常简单，只需要将背景拖到场景中，而场景又将接着应用到背景中；然后，将HDR全景图添加到环境光图像位置。
 
 将背景图像拖放到画布的空白区域，或者在“场景”面板中选择“环境”，然后将图像添加到“背景”选项中。
 
-![可以从Adobe的“属性”菜单中选择虚拟照片的背景图像 [!DNL Dimension]](assets/Photorealistic_20.png)
+![可以从Adobe[!DNL Dimension]](assets/Photorealistic_20.png)的“属性”菜单中选择虚拟照片的背景图像
 
 选择“环境光”并将其添加到“图像”输入中，以添加HDR全景图。
 
-![可以从Adobe中的“场景”菜单将环境光源添加到虚拟照片的背景图像中 [!DNL Dimension]](assets/Photorealistic_21.png)
+![可以从Adobe[!DNL Dimension]](assets/Photorealistic_21.png)中的“场景”菜单将环境光源添加到虚拟照片的背景图像中
 
 然后，您可以在背景上使用“匹配图像”来匹配分辨率和长宽比以及相机视角。 由于我们使用拍摄的HDR全景图像来照亮场景，而不是从背景图像生成环境，因此可以取消选中“创建光线”选项。
 
-![在Adobe中使用“匹配图像”功能 [!DNL Dimension] 使用HDR全景中的环境光渲染3D金属球体图像](assets/Photorealistic_22.png)
+![使用Adobe[!DNL Dimension]中的“匹配图像”功能，使用HDR全景中的环境光渲染3D金属球体图像](assets/Photorealistic_22.png)
 
 现在，添加到场景中的对象将合成到背景中并产生逼真的效果，因为它们是由拍摄图像的环境所照亮的。
 
-为了快速评估HDR全景相对于背景的方向和曝光度，可使用免费资源面板中获取的一种金属材质的球体 [!DNL Dimension]，可以放置在场景中。 然后可以定位环境光的旋转，使反射看起来正确。 如果来自HDR全景的光照使球体曝光过度或曝光不足，则应增加或减少HDR全景的曝光以进行补偿。
+为了快速评估HDR全景相对于背景的方向和曝光，可以在场景中放置一个金属材质的球体，该球体可从[!DNL Dimension]的免费资源面板中获取。 然后可以定位环境光的旋转，使反射看起来正确。 如果来自HDR全景的光照使球体曝光过度或曝光不足，则应增加或减少HDR全景的曝光以进行补偿。
 
 ![一张逼真的金属球体的虚拟照片被合成到办公空间的背景图像中](assets/Photorealistic_23.png)
 
-为了快速评估HDR全景相对于背景的方向和曝光度，可使用免费资源面板中获取的一种金属材质的球体 [!DNL Dimension]，可以放置在场景中。 然后可以定位环境光的旋转，使反射看起来正确。 如果来自HDR全景的光照使球体曝光过度或曝光不足，则应增加或减少HDR全景的曝光以进行补偿。
+为了快速评估HDR全景相对于背景的方向和曝光，可以在场景中放置一个金属材质的球体，该球体可从[!DNL Dimension]的免费资源面板中获取。 然后可以定位环境光的旋转，使反射看起来正确。 如果来自HDR全景的光照使球体曝光过度或曝光不足，则应增加或减少HDR全景的曝光以进行补偿。
 
 ## 最终结果：一张逼真的合成图像
 
-![Adobe中虚拟产品照片的3D合成和渲染的延时摄影图像 [!DNL Dimension]](assets/Photorealistic_24.gif)
+![Adobe[!DNL Dimension]](assets/Photorealistic_24.gif)中虚拟产品照片的3D合成和渲染的延时摄影图像
 
-场景制作完成后，最终用户的工作流程就变得简单了。 只需拖放您自己的模型或 [Adobe [!DNL Stock] 3D](https://stock.adobe.com/3d-assets) 将内容直接放入图像中进行渲染，使渲染效果与拍摄照片时的一模一样。 这开辟了创作高度逼真的广告内容的新途径，或提供了在许多不同背景下迭代设计的新功能。
+场景制作完成后，最终用户的工作流程就变得简单了。 只需将您自己的模型或任何[Adobe [!DNL Stock] 3D](https://stock.adobe.com/3d-assets)内容直接拖放到图像中，就可以像在拍摄照片时一样对其进行渲染了。 这开辟了创作高度逼真的广告内容的新途径，或提供了在许多不同背景下迭代设计的新功能。
 
 ![3D厨具合成到厨房台面场景的逼真的虚拟照片](assets/Photorealistic_25.png)
 
-最终，现实与3D的融合取得了令人信服的效果，从而帮助最终用户轻而易举地实现目标，创作出极为逼真的图像。 你自己试试看 [免费 [!DNL Dimension] 场景](https://assets.adobe.com/public/3926726a-2a17-43d4-4937-6d84a4d29338) 我们创建此项目是为了演示工作流。
+最终，现实与3D的融合取得了令人信服的效果，从而帮助最终用户轻而易举地实现目标，创作出极为逼真的图像。 亲自尝试一下我们为演示这个工作流程而创建的一些免费的[场景 [!DNL Dimension] 吧。](https://assets.adobe.com/public/3926726a-2a17-43d4-4937-6d84a4d29338)
 
-[下载最新版本](https://creativecloud.adobe.com/apps/download/dimension) 的 [!DNL Dimension] 立即，开始创作逼真的图像。
+今天[下载[!DNL Dimension]的最新版本](https://creativecloud.adobe.com/apps/download/dimension)并开始构建逼真的图像。

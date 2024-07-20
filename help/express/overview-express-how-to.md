@@ -1,6 +1,6 @@
 ---
 title: Adobe [!DNL Express] 操作方法Tutorials
-description: 掌握Adobe的最新动态 [!DNL Express]
+description: 在Adobe [!DNL Express]上获取最新信息
 feature: Graphic Design, Image Editing, Integrations
 role: User
 level: Beginner, Intermediate
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 ---
 
-# Adobe [!DNL Express] 操作方法教程
+# Adobe[!DNL Express]操作方法教程
 
 使用由Adobe Firefly提供支持的生成式AI，开始创作令人惊叹的作品。 利用Adobe Express设计传单、TikTok、简历和作品集。
 
@@ -273,7 +273,7 @@ ht-degree: 1%
   </td>
   <td>
       <a href="cc-libraries.md">
-         <img alt="使用CC库" src="assets/cc-libraries.png" />
+         <img alt="使用CC Libraries" src="assets/cc-libraries.png" />
       </a>
   </td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: Adobe [!DNL Express] 概述
-description: 掌握Adobe的最新动态 [!DNL Express]
+description: 在Adobe [!DNL Express]上获取最新信息
 feature: Graphic Design, Image Editing, Integrations, Gen AI
 role: User
 level: Beginner, Intermediate
@@ -13,7 +13,7 @@ ht-degree: 10%
 
 ---
 
-# Adobe [!DNL Express] 概述
+# Adobe[!DNL Express]概述
 
 使用新的多功能Adobe Express应用程序设计作品集和TikTok视频、传单、简历、横幅、徽标等，以便快速轻松地创建内容。 利用由Adobe Firefly支持的生成式AI功能，创作引人注目的作品。
 
@@ -21,7 +21,7 @@ ht-degree: 10%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420225?quality=12&learn=on&hidetitle=true)
 
-## Adobe [!DNL Express] 教程
+## Adobe[!DNL Express]教程
 
 <table style="table-layout:fixed">
 <tr>

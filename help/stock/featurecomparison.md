@@ -1,5 +1,5 @@
 ---
-title: 使用Adobe创建产品功能比较表 [!DNL Stock]
+title: 使用Adobe [!DNL Stock]创建产品功能比较表
 description: 创建一个图形，比较产品定价计划，以便向潜在客户一目了然地提供他们所需的信息
 feature: Licensable Assets
 role: User
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# 使用Adobe创建产品功能比较表 [!DNL Stock]
+# 使用Adobe[!DNL Stock]创建产品功能比较表
 
 创建一个图形，比较产品定价计划，以便向潜在客户一目了然地提供他们所需的信息。
 

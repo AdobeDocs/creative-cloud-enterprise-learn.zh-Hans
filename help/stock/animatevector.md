@@ -1,6 +1,6 @@
 ---
-title: 为Adobe制作动画 [!DNL Stock] Photoshop中的矢量插图
-description: 用可编辑的矢量图将动画带入新闻稿图形中，以进行Adobe [!DNL Stock]
+title: 在Photoshop中为Adobe [!DNL Stock] 矢量插图制作动画
+description: 使用可编辑的矢量将动画导入新闻稿图形中，以进行Adobe [!DNL Stock]
 feature: Licensable Assets, Vector Editing
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# 为Adobe制作动画 [!DNL Stock] Photoshop中的矢量插图
+# 在Photoshop中为Adobe[!DNL Stock]矢量插图制作动画
 
-用可编辑的矢量图将动画带入新闻稿图形中，以进行Adobe [!DNL Stock].
+使用可编辑的矢量将动画导入新闻稿图形中，以用于Adobe[!DNL Stock]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331839?hidetitle=true)

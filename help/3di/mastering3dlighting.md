@@ -8,7 +8,7 @@ keywords: 3D光照，600全局MSV
 exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
 source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
 workflow-type: tm+mt
-source-wordcount: '2733'
+source-wordcount: '2722'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 与其他材质相比，某些材质对光照条件更为敏感。 以金属为例：铬制对象基本上可以反射周围的一切。 如果移动光线，使其变得更亮或更大，则所有这些信息都可以直接在镀铬表面上看见，其细节程度几乎与镜面一样，因此，它可以在不同的光照条件下呈现完全不同的效果。
 
-![停车场里一辆汽车的3D CGI场景，墙上还有霓虹灯牌。 光照从日光转变为由标志发出的霓虹灯LED](assets/Mastering3dlighting_1.gif)
+![停车场里一辆汽车的3D CGI场景，墙上还有霓虹灯牌。 光照从日光转变为从标志](assets/Mastering3dlighting_1.gif)发出的霓虹灯LED
 
 ## 如何使用3D光照创建有效的3D渲染
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 ![使用镜面球（具有金属质感的球体）查看和定向3D场景中的环境光](assets/Mastering3dlighting_4.gif)
 
-## Adobe中的光源类型 [!DNL Dimension]
+## Adobe[!DNL Dimension]中的光源类型
 
 ### 环境光照
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 ![照片、3D摄影棚场景和抽象3D场景的环境光示例](assets/Mastering3dlighting_5.jpg)
 
-当您在中创建新场景时 [[!DNL Dimension]](https://www.adobe.com/products/dimension.html)，将为您创建默认环境光。 这就是您能够立即看到场景中所有东西的原因。 Adobe [!DNL Dimension] 入门资源包括多种环境光，您可以立即试用。 此外， [Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type：3d]=1&amp;filters[3d_type_id][0]=2&amp;load_type=3d+lp) 提供了大量精选的环境光。
+在[[!DNL Dimension]](https://www.adobe.com/products/dimension.html)中创建新场景时，将为您创建默认环境光。 这就是您能够立即看到场景中所有东西的原因。 Adobe[!DNL Dimension]入门资源包括一定数量的环境光，您可以立即试用。 此外，[Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type：3d]=1&amp;filters[3d_type_id][0]=2&amp;load_type=3d+lp)提供了大量精选的环境光。
 
 环境光可以产生极为逼真的效果，并为您节省大量时间。 为了手动实现类似效果，您必须在3D空间中实际创建整个环境（包括各种光源），这是一项大工程。
 
@@ -68,13 +68,13 @@ ht-degree: 0%
 
 ![通过将摄影棚的3D场景渲染为等距柱状的32位图像来创建3D摄影棚环境光](assets/Mastering3dlighting_8.png)
 
-您还可以通过拍摄真实世界的照片来创建环境光。 这种方法需要360度相机(例如， [Ricoh Theta Z1](https://theta360.com/en/about/theta/z1.html))。 使用这种相机进行包围曝光，或者采用一系列不同的曝光值（从曝光不足到曝光过度），对同一环境进行多次拍摄。 然后，使用这些照片构建32位图像，通常称为HDR（高动态范围的简称）。 合成此类图像的一种方法是，使用Photoshop中的“合并到HDR”功能。 嵌入的曝光范围将成为强度属性。
+您还可以通过拍摄真实世界的照片来创建环境光。 此工作流程需要360度相机（例如，[Ricoh Theta Z1](https://theta360.com/en/about/theta/z1.html)）。 使用这种相机进行包围曝光，或者采用一系列不同的曝光值（从曝光不足到曝光过度），对同一环境进行多次拍摄。 然后，使用这些照片构建32位图像，通常称为HDR（高动态范围的简称）。 合成此类图像的一种方法是，使用Photoshop中的“合并到HDR”功能。 嵌入的曝光范围将成为强度属性。
 
-![使用摄影环境光进行照明的3D场景示例](assets/Mastering3dlighting_9.jpg)
+![使用摄影环境光照明的3D场景示例](assets/Mastering3dlighting_9.jpg)
 
 ![使用包围曝光和Photoshop中的“合并到HDR Pro”功能，创建摄影环境光](assets/Mastering3dlighting_10.jpg)
 
-在这两种情况下，光源（及其强度）都会“晒制”到这些图像中，并在使用后发光 [!DNL Dimension].
+在这两种情况下，光源（及其强度）都会“晒制”到这些图像中，并且一旦在[!DNL Dimension]中使用，它们便会发光。
 
 虽然通过这些方法，您已经获得了需要的所有光照、反射和细节，但3D应用程序仍允许您继续在3D空间中对它们进行编辑，使您可以调整光照的旋转，以及更改整体强度和颜色。
 
@@ -86,11 +86,11 @@ ht-degree: 0%
 
 使用定向光可以全面控制光照设置。 使用这些光线照亮场景的方式与传统摄影时的方式相同，您可以分别控制每种光线，从而构建自己的虚拟摄影光照。 最常用的光照设置之一是“三点光”系统。
 
-[!DNL Dimension] 有一个叫作“将光线对准一个点”的便捷操作，通过这个操作，您只需单击和拖动3D对象，就可以控制旋转和高度。 这样，您就可以动态地定向光线。 这些参数也可以手动调整。
+[!DNL Dimension]有一个叫作“将光线对准一个点”的便捷操作，通过这个操作，您只需单击和拖动3D对象，就可以控制旋转和高度。 这样，您就可以动态地定向光线。 这些参数也可以手动调整。
 
 您可以更改定向光的颜色和强度，以及调整光源的形状 — 使光源呈圆形或矩形、拉伸光源或扩大光源。 最后，您可以柔化光源的边缘。
 
-![修改Adobe中定向光的形状 [!DNL Dimension]](assets/Mastering3dlighting_12.gif)
+![修改Adobe[!DNL Dimension]](assets/Mastering3dlighting_12.gif)中定向光的形状
 
 如果光源小于对象，则阴影将变得更加锐利，且轮廓更加清晰，这是因为光线无法穿过被照亮的对象。 较大的光源会产生较为柔和的阴影，因为在这种情况下，光线从对象的四周射入（在下图中用红色标记），从而形成一系列阴影。 来自对面方向的光线柔化了这些阴影。
 
@@ -102,15 +102,15 @@ ht-degree: 0%
 
 日光是一种特殊类型的定向光。 设置日光的过程与设置常规定向光的过程非常相似，然而日光会随着高度的变化自动改变颜色；当它接近地平线时（高度的角度值变低），它将逐渐变暖以模拟日落。 颜色也可以通过使用预设进行更改。 同时，混浊度也会影响阴影的柔和度。
 
-![在Adobe中操控照射在3D汽车模型上的日光的光照属性 [!DNL Dimension]](assets/Mastering3dlighting_15.gif)
+![在Adobe[!DNL Dimension]](assets/Mastering3dlighting_15.gif)中操控照射在3D汽车模型上的日光的光照属性
 
-![月球的3D场景，日光是月球上的唯一光源](assets/Mastering3dlighting_16.jpg)
+![月亮上的3D场景，日光是月球上的唯一光源](assets/Mastering3dlighting_16.jpg)
 
-我们能够使用环境光来模拟天空，并且可以使用任何具有天空特征的环境光。 现在，我们必须把阳光(用太阳光 [!DNL Dimension])，在环境光中捕获的太阳。 一种快速的方法是创建一个球体，并为其指定一种金属材质；这将为我们提供环境的实时反射，因此我们可以使用“将光线对准一个点”来将日光与太阳对齐。
+我们能够使用环境光来模拟天空，并且可以使用任何具有天空特征的环境光。 现在，我们必须将[!DNL Dimension]中拍摄的日光与在环境光中拍摄的太阳进行对齐。 一种快速的方法是创建一个球体，并为其指定一种金属材质；这将为我们提供环境的实时反射，因此我们可以使用“将光线对准一个点”来将日光与太阳对齐。
 
 如果环境光呈现出阴天的天空特征，则可以使用混浊度属性，更紧密地匹配这些条件。
 
-![在Adobe中处理3D汽车模型上天空环境光照的混浊度属性 [!DNL Dimension]](assets/Mastering3dlighting_17.gif)
+![在Adobe[!DNL Dimension]](assets/Mastering3dlighting_17.gif)中，操控照射在3D汽车模型上的天空环境光的混浊度属性
 
 将日光和天空环境光配对之后，您可以使用“全局旋转”属性让它们一起旋转。
 
@@ -124,7 +124,7 @@ ht-degree: 0%
 
 您可以使用变换工具，通过上下缩放发光对象来控制阴影的柔和度。 使其变大也会增加光线强度。
 
-![改变对象光线的大小以增加光线量并柔化阴影](assets/Mastering3dlighting_19.gif)
+![更改对象光线的大小将会增加光线量并柔化阴影](assets/Mastering3dlighting_19.gif)
 
 不同于我们之前介绍的光线类型，这些光线除了纯色之外，还可以利用纹理。 可以将纹理附加到其材质的基色上，并通过“发光度”滑块控制光线强度。
 
@@ -140,27 +140,27 @@ ht-degree: 0%
 
 该设置包括三种光源：
 
-1. **主光：** 该光源作为主要光源，大致从相机的方向发光
+1. **主光：**&#x200B;用作主源，它大致从相机的方向发光
 
    ![主光照亮3D耳机模型的示例](assets/Mastering3dlighting_22.jpg)
 
-1. **轮廓光：** 方向与主光相反，用于暴露对象的暗色轮廓。
+1. **轮廓光：**&#x200B;方向与主光相反，用于暴露对象的暗色轮廓。
 
    ![轮廓光照亮3D耳机模型的示例](assets/Mastering3dlighting_23.jpg)
 
-1. **补光：** 强度较低，可填充较暗的区域，用在前两种光线无法到达的区域。
+1. **辅光：**&#x200B;强度较低，可填充较暗的区域，用在前两种光线无法到达的区域。
 
    ![辅光照亮3D耳机模型的示例](assets/Mastering3dlighting_24.jpg)
 
-有两种方法可以在以下位置创建3点光照 [!DNL Dimension]  — 使用定向光（将定向光单独添加到场景中或使用“三点光”预设）或通过发光对象进行照明。
+在[!DNL Dimension]中创建“三点光”的方法有两种：使用定向光（将三种光分别添加到场景中或使用“三点光”预设）或通过发光对象。
 
-![3D场景中的“三点光”设置示例](assets/Mastering3dlighting_25.jpg)
+![3D场景中的3点光源设置示例](assets/Mastering3dlighting_25.jpg)
 
 ![来自3D光照设置的柔光箱被分解为外框、灯具和屏幕](assets/Mastering3dlighting_26.jpg)
 
 ### 创意光照
 
-![Vladimir Petkovic创作的题为“Pipe Dreams”的3D艺术品](assets/Mastering3dlighting_27.jpg)
+![Vladimir Petkovic创作的题为“Pipe Dreams”的3D图稿](assets/Mastering3dlighting_27.jpg)
 
 创意光照用于不以物理准确度为主要目标的场景， 例如各种抽象和超现实场景，因此我们的想像力可以自由翱翔而不受现实边界的限制。
 
@@ -182,26 +182,26 @@ ht-degree: 0%
 
 设置这种光线最简单的方法是使用带有发光材质的平面。 在本例中，我们使用三个平面，它们覆盖了这个房间的所有开口。
 
-![演示如何在3D客厅内部放置主光和辅光以照亮场景的示意图](assets/Mastering3dlighting_30.jpg)
+![演示如何在3D客厅内部放置主光和辅光以照亮场景的插图](assets/Mastering3dlighting_30.jpg)
 
 光线的强度由平面材质的“发光度”属性控制。 您可以添加颜色甚至纹理，用来投射有趣的阴影。 使用发光材质还可以使光线强度衰减，这对于室内光照非常重要。
 
-![环境光、环境光和主光，以及环境光、主光和辅光照亮3D客厅场景的示例](assets/Mastering3dlighting_31.gif)
+![环境光、环境光和主光，以及环境、主光和辅光照亮3D客厅场景的示例](assets/Mastering3dlighting_31.gif)
 
 ### 户外光照
 
-![森林地板上的一棵树桩的场景，CGI电线和锻带缠绕在一起，用户外3D光照照明](assets/Mastering3dlighting_32.jpg)
+![森林地面的树桩与CGI电线和锻带交织在一起，并运用户外3D光照进行照明的场景](assets/Mastering3dlighting_32.jpg)
 
 创建户外光照非常简单，可以归纳为使用“太阳和天空”光照系统（请参见上文）。 正确匹配日光与基于天空的环境光至关重要 — 需要注意方向和混浊度的值。
 
 场景本身在其中起着重要作用。 为了产生引人注目的效果，您可以使用场景中的对象作为催化剂，与光线相互作用。 在上图所呈现的森林中，对象（各种植物、木头和树）放置的位置相互靠近。
 
-![3D森林场景中的对象指出光线将如何与环境交互](assets/Mastering3dlighting_33.png)
+![3D森林场景中的对象指示光线将如何与环境交互](assets/Mastering3dlighting_33.png)
 
 这意味着当光线在对象之间反射时，将会有许多复杂的光线追踪交互。 阴影点会显得很暗（如预期的那样），而暴露的区域则保持明亮。
 
-![使用Adobe中的全局旋转 [!DNL Dimension] 在3D场景中重新定位“太阳和天空”光照系统](assets/Mastering3dlighting_34.gif)
+![使用Adobe[!DNL Dimension]中的全局旋转在3D场景中重新定位“太阳和天空”光源系统](assets/Mastering3dlighting_34.gif)
 
 希望这篇概述文章阐明了在各种情况下掌握3D光照的重要性。 您应该已经做好准备，可以开始创作更加引人入胜的作品了。
 
-祝您有一段愉快的“光照”之旅！ 下载 [最新版本](https://creativecloud.adobe.com/apps/download/Dimension) 今天的Dimension。
+祝您有一段愉快的“光照”之旅！ 立即下载[最新版本](https://creativecloud.adobe.com/apps/download/Dimension)的Dimension。

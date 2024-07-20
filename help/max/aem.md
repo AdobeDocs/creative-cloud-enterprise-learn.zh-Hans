@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: 1c14d3e8-2d4b-45a2-9a4a-efc044f2af1e
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '383'
-ht-degree: 1%
+source-wordcount: '363'
+ht-degree: 0%
 
 ---
 
@@ -60,7 +60,7 @@ Adobe Experience Manager是业界领先的、面向企业和中型企业的数�
 * 直接从您的设计程序中轻松上传资源
 * 将DAM中的资源签出并签入到您的设计程序以进行实时更新
 
-**呈列方式：**
+**演示者：**
 Eric Rowse，高级解决方案顾问（数字媒体）
 
 ## AEM中托管的InDesign文件(3:16) {#tutorial2}
@@ -75,7 +75,7 @@ Eric Rowse，高级解决方案顾问（数字媒体）
 * 安全创建变体，无需担心破坏源文件
 * 文档字段已预先格式化，允许快速编辑或更改内容
 
-**呈列方式：**
+**演示者：**
 Eric Rowse，高级解决方案顾问（数字媒体）
 
 <table style="table-layout:fixed">
@@ -87,7 +87,7 @@ Eric Rowse，高级解决方案顾问（数字媒体）
     <div>
    <a href="https://www.adobe.com/marketing/experience-manager.html"><strong>Adobe Experience Manager</strong></a>
     </div>
-    <em>满足您的内容和数字资产管理需求的强大组合</em>
+    <em>满足您的内容和数字资产管理需求的强大组合框</em>
     <br>
   </td>
   <td>
@@ -97,7 +97,7 @@ Eric Rowse，高级解决方案顾问（数字媒体）
     <div>
    <a href="https://www.adobe.com/marketing/experience-manager-assets.html"><strong>AEM Assets</strong></a>
     </div>
-    <em>新一代数字资产管理</em>
+    <em>新一代数字资源管理</em>
     <br>
   </td>
   <td>
@@ -105,7 +105,7 @@ Eric Rowse，高级解决方案顾问（数字媒体）
       <img alt="InDesign Server：查找合作伙伴" src="../assets/AEM_Thumbnail.jpg" />
    </a>
     <div>
-   <a href="https://www.adobe.com/marketing/experience-manager-assets/benefits.html"><strong>AEM Assets：优势</strong></a>
+   <a href="https://www.adobe.com/marketing/experience-manager-assets/benefits.html"><strong>AEM Assets：优点</strong></a>
     </div>
     <em>让您的数字资源为您服务</em>
     <br>
@@ -117,8 +117,8 @@ Eric Rowse，高级解决方案顾问（数字媒体）
 
 **Asset Link和AEM资源**
 
-[学习和支持](https://helpx.adobe.com/support/experience-manager.html) 是您获取其他教程、新增功能以及指向社区论坛的链接的中心。
+[学习和支持](https://helpx.adobe.com/support/experience-manager.html)是您获取其他教程、新增功能以及社区论坛链接的中心点。
 
-**2020年十月版**
+**2020年10月版**
 
 开始使用这些功能（以及更多功能！） 从Creative Cloud桌面应用程序下载最新更新。

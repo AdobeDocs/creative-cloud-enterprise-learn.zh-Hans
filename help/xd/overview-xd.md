@@ -24,9 +24,9 @@ Adobe XD是一款用户体验设计和原型设计工具，用于设计网站、
       <img alt="轻松使用Adobe XD中的组件" src="assets/Componentsxd.jpg" />
    </a>
     <div>
-   <a href="components.md"><strong>在Adobe XD中轻松使用[！UICONTROL Components]</strong></a>
+   <a href="components.md"><strong>轻松使用Adobe XD中的[！UICONTROL组件]</strong></a>
     </div>
-    <em>了解如何使用[！UICONTROL Components]为您提供前所未有的灵活性，以在设计工作流程中应用速度和一致性</em>
+    <em>了解如何使用[！UICONTROL组件]为您提供前所未有的灵活性，以便向设计工作流程应用速度和一致性</em>
     <br>
   </td>
   <td>
@@ -34,7 +34,7 @@ Adobe XD是一款用户体验设计和原型设计工具，用于设计网站、
       <img alt="使用嵌套符号控制多个XD画板" src="assets/ControlMultipleXDArtboardswithNestedSymbols.jpg" />
    </a>
     <div>
-   <a href="assets/ControlMultipleXDArtboardswithNestedSymbols.pdf" target="_blank"><strong>使用嵌套符号控制多个XD画板(PDF)</strong></a>
+   <a href="assets/ControlMultipleXDArtboardswithNestedSymbols.pdf" target="_blank"><strong>控制多个带有嵌套符号的XD画板(PDF)</strong></a>
     </div>
     <em>符号提供了一种绝佳的方法来创建可在项目中的画板上多次应用的可重复使用的图稿和文本</em>
     <br>
@@ -44,19 +44,19 @@ Adobe XD是一款用户体验设计和原型设计工具，用于设计网站、
       <img alt="使用XD和Adobe创建可缩放的电子商务照片 [!DNL Stock]" src="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.jpg" />
    </a>
     <div>
-   <a href="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.pdf" target="_blank"><strong>使用XD和Adobe创建可缩放的电子商务照片 [!DNL Stock] (PDF)</strong></a>
+   <a href="assets/CreateaZoomableeCommercePhotowithXDandAdobeStock.pdf" target="_blank"><strong>使用XD和Adobe[!DNL Stock]创建可缩放的电子商务照片(PDF)</strong></a>
     </div>
     <em>将高分辨率摄影与Adobe XD的自动制作动画功能相结合，可为您的网站设计更吸引人的体验</em>
     <br>
   </td>
   <td>
    <a href="assets/CreatingaRotatingProductInterfaceforECommercewithAdobeXD.pdf" target="_blank">
-      <img alt="使用Adobe XD创建电子商务的旋转产品界面" src="assets/CreatingaRotatingProductInterfaceforECommercewithAdobeXD.jpg" />
+      <img alt="使用Adobe XD为E-Commerce创建旋转式产品界面" src="assets/CreatingaRotatingProductInterfaceforECommercewithAdobeXD.jpg" />
    </a>
     <div>
-   <a href="assets/CreatingaRotatingProductInterfaceforECommercewithAdobeXD.pdf" target="_blank"><strong>使用Adobe XD创建电子商务的旋转产品界面(PDF)</strong></a>
+   <a href="assets/CreatingaRotatingProductInterfaceforECommercewithAdobeXD.pdf" target="_blank"><strong>使用Adobe XD为E-Commerce创建旋转产品界面(PDF)</strong></a>
     </div>
-    <em>设计一个界面，提供产品的旋转视图，然后您可以将设计转换为交互式原型，准确显示体验在Web或移动设备上的运行方式</em>
+    <em>设计一个可旋转查看产品的界面，然后可以将设计转换为交互式原型，准确显示体验在Web或移动设备上的运行方式</em>
     <br>
   </td>
 </tr>
@@ -66,7 +66,7 @@ Adobe XD是一款用户体验设计和原型设计工具，用于设计网站、
       <img alt="使用XD设计和制作交互式测验原型" src="assets/DesignandPrototypeanInteractiveQuizwithXD.jpg" />
    </a>
     <div>
-   <a href="assets/DesignandPrototypeanInteractiveQuizwithXD.pdf" target="_blank"><strong>利用XD设计交互式测验并制作其原型(PDF)</strong></a>
+   <a href="assets/DesignandPrototypeanInteractiveQuizwithXD.pdf" target="_blank"><strong>使用XD设计交互式测验并制作其原型(PDF)</strong></a>
     </div>
     <em>设计用户在项目期间将遇到的反馈</em>
     <br>
@@ -98,7 +98,7 @@ Adobe XD是一款用户体验设计和原型设计工具，用于设计网站、
     <div>
    <a href="assets/MobileWebExperienceswithXD.pdf" target="_blank"><strong>使用XD设计移动Web体验(PDF)</strong></a>
     </div>
-    <em>了解使用Adobe XD的Russell Brown MAX Madness移动Web画廊的幕后设计流程</em>
+    <em>使用Adobe XD幕后了解Russell Brown MAX Madness移动Web画廊的设计流程</em>
     <br>
   </td>
 </tr>
@@ -110,7 +110,7 @@ Adobe XD是一款用户体验设计和原型设计工具，用于设计网站、
     <div>
    <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank"><strong>使用Adobe XD为移动Web体验制作原型(PDF)</strong></a>
     </div>
-    <em>体验设计需要策略、设计和功能原型，而Adobe XD为您提供执行所有操作的强大功能</em>
+    <em>体验设计需要策略、设计和功能原型，而Adobe XD可以让您完成所有这些工作</em>
     <br>
   </td>
   <td>
@@ -118,7 +118,7 @@ Adobe XD是一款用户体验设计和原型设计工具，用于设计网站、
       <img alt="使用外部文本和图形增强XD中的重复网格" src="assets/PrototypeaMobileWebExperiencewithAdobeXD.jpg" />
    </a>
     <div>
-   <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank"><strong>使用外部文本和图形增强XD中的重复网格(PDF)</strong></a>
+   <a href="assets/PrototypeaMobileWebExperiencewithAdobeXD.pdf" target="_blank"><strong>用外部文本和图形(PDF)增强XD中的重复网格</strong></a>
     </div>
     <em>将重复网格与外部文本和图形相结合，以提高您的工作效率</em>
     <br>
@@ -128,7 +128,7 @@ Adobe XD是一款用户体验设计和原型设计工具，用于设计网站、
       <img alt="MAX与Adobe XD的疯狂背后" src="assets/BehindtheScenesofMAXMadnesswithAdobeXD.jpg" />
    </a>
     <div>
-   <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf" target="_blank"><strong>MAX与Adobe XD(PDF)的幕后花絮</strong></a>
+   <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf" target="_blank"><strong>MAX与Adobe XD的幕后花絮(PDF)</strong></a>
     </div>
     <em>提供优化的移动Web体验确实能让您的用户产生共鸣</em>
     <br>

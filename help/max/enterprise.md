@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: 1b8f0957-b1f9-4bae-9466-a1dcf585071a
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 3%
+source-wordcount: '133'
+ht-degree: 4%
 
 ---
 
@@ -56,7 +56,7 @@ ht-degree: 3%
 * 使用本机Creative Cloud集成节省时间和资金
 * 在Adobe Admin Console中集中管理所有字体
 
-**呈列方式：**
+**演示者：**
 
 Todd Burke，首席解决方案顾问（数字媒体）
 

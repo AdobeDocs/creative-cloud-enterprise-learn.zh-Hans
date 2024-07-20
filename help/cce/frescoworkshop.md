@@ -24,4 +24,4 @@ ht-degree: 0%
 
 [**下载快速参考PDF指南**](../quick-reference/Frescoworkshop.pdf)
 
-[![快速参考指南首页的图像](assets/FrescoworkshopPage1.png)](../quick-reference/Frescoworkshop.pdf)
+[![快速参考指南第一页的图像](assets/FrescoworkshopPage1.png)](../quick-reference/Frescoworkshop.pdf)

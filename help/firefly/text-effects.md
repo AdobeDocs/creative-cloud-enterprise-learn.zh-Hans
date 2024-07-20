@@ -15,7 +15,7 @@ ht-degree: 1%
 
 # 文本效果
 
-了解如何使用简单的文本提示为项目创建独特且鼓舞人心的文本。 文本效果可让您增强创造力并为项目创建非凡的文本。 尝试Adobe Firefly [此处](https://firefly.adobe.com/).
+了解如何使用简单的文本提示为项目创建独特且鼓舞人心的文本。 文本效果可让您增强创造力并为项目创建非凡的文本。 尝试Adobe Firefly[此处](https://firefly.adobe.com/)。
 
 <br> 
 

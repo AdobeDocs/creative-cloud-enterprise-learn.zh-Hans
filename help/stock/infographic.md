@@ -1,6 +1,6 @@
 ---
-title: 使用Adobe创建公司准则信息图 [!DNL Stock]
-description: 合并来自Adobe的各种资源 [!DNL Stock] 以具有视觉吸引力的信息图形式传达指南
+title: 使用Adobe [!DNL Stock]创建公司准则信息图
+description: 合并Adobe [!DNL Stock] 中的各种资源，以具有视觉吸引力的信息图表的形式传达准则
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# 使用Adobe创建公司准则信息图 [!DNL Stock]
+# 使用Adobe[!DNL Stock]创建公司准则信息图
 
-合并来自Adobe的各种资源 [!DNL Stock] 以具有视觉吸引力的信息图形式传达指南。
+合并Adobe[!DNL Stock]中的各种资源，以具有视觉吸引力的信息图表的形式传达准则。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331811?hidetitle=true)

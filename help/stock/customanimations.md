@@ -1,6 +1,6 @@
 ---
-title: 通过Adobe自定义动画，让创意变得栩栩如生 [!DNL Stock]
-description: 使用Adobe [!DNL Stock] Photoshop中的图像、纹理、图案和自定义动画
+title: 通过Adobe [!DNL Stock]使用自定义动画让创意变得栩栩如生
+description: 在Photoshop中使用Adobe [!DNL Stock] 图像、纹理、图案自定义动画
 feature: Licensable Assets, Image Editing
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# 通过Adobe自定义动画，让创意变得栩栩如生 [!DNL Stock]
+# 通过Adobe[!DNL Stock]使用自定义动画让创意变得栩栩如生
 
-使用Adobe [!DNL Stock] Photoshop中的图像、纹理、图案和自定义动画。
+在Photoshop中使用Adobe[!DNL Stock]图像、纹理、图案自定义动画。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331806?hidetitle=true)

@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 1e621e3a-ce7b-4cb1-8fdb-2f20e70be017
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Adobe Fresco是一个跨平台的应用程序，它使用基于画笔的方法�
     <div>
    <a href="fresco.md#tutorial1"><strong>使用Adobe Fresco绘图简介</strong></a>
     </div>
-    <em>使用AdobeFresco中强大的选择和颜色编辑工具来显着更改图像，以满足您的企业品牌推广需求</em>
+    <em>使用AdobeFresco中强大的选择和颜色编辑工具来大幅更改图像以符合您的公司品牌推广需求</em>
     <br>
   </td>
   <td>
@@ -37,7 +37,7 @@ Adobe Fresco是一个跨平台的应用程序，它使用基于画笔的方法�
     <div>
    <a href="fresco.md#tutorial2"><strong>创建纹理图稿 — Fresco到Illustrator</strong></a>
     </div>
-    <em>在Adobe Fresco中绘制纹理，了解如何在Illustrator中使用它们</em>
+    <em>在Adobe Fresco中绘画和绘制纹理，并了解如何在Illustrator中使用它们</em>
     <br>
   </td>
   <td>
@@ -61,7 +61,7 @@ Adobe Fresco是一个跨平台的应用程序，它使用基于画笔的方法�
 * 使用适用于iPhone的新Fresco应用程序随时随地创建
 * 将您的作品导出为多种格式，以便在其他移动应用程序和桌面应用程序中使用
 
-**呈列方式：**
+**演示者：**
 Liz Tanonis，解决方案顾问（数字媒体）
 
 ## 创建纹理图稿 — Fresco到Illustrator (4:10) {#tutorial2}
@@ -76,15 +76,15 @@ Liz Tanonis，解决方案顾问（数字媒体）
 * 使用Illustrator中的“图像描摹”工具将图稿转换为矢量
 * 在Illustrator中将手工纹理应用于矢量图稿
 
-**呈列方式：**
+**演示者：**
 Liz Tanonis，解决方案顾问（数字媒体）
 
 ![Fresco徽标](../assets/fr_appicon_96.png)
 
 **Fresco资源**
 
-[学习和支持](https://helpx.adobe.com/support/adobe-fresco.html) 是其他教程的中心， [新增功能](https://helpx.adobe.com/fresco/using/whats-new.html)，并提供指向社区论坛的链接。
+[学习和支持](https://helpx.adobe.com/support/adobe-fresco.html)是您获取其他教程、[新增功能](https://helpx.adobe.com/fresco/using/whats-new.html)以及社区论坛链接的中心点。
 
-**2020年十月版**
+**2020年10月版**
 
 开始使用这些功能（以及更多功能！） 从Creative Cloud桌面应用程序下载最新更新。

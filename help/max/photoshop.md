@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Photoshop是世界上最好的图像处理和图形设计软件，让专业人�
     <div>
    <a href="photoshop.md#tutorial1"><strong>编辑图像以匹配您的营销活动</strong></a>
     </div>
-    <em>使用Adobe Photoshop中强大的选择和颜色编辑工具来显着更改图像，以满足您的企业品牌推广需求</em>
+    <em>使用Adobe Photoshop中强大的选择和颜色编辑工具来显着更改图像，以满足您的公司品牌推广需求</em>
     <br>
   </td>
   <td>
@@ -61,7 +61,7 @@ Photoshop是世界上最好的图像处理和图形设计软件，让专业人�
 * 画笔可以是不同的形状，以获得更好的效果
 * Adobe Sensei有助于利用人工智能执行普通任务
 
-**呈列方式：**
+**演示者：**
 高级解决方案顾问A.J Wood （数字媒体）
 
 ## 选择并替换天空(2:16) {#tutorial2}
@@ -76,15 +76,15 @@ Photoshop是世界上最好的图像处理和图形设计软件，让专业人�
 * 天空替换会将其输出保存为图层组，其中包含每个蒙版、调整和图像，以供进一步优化
 
 
-**呈列方式：**
+**演示者：**
 高级解决方案顾问A.J Wood （数字媒体）
 
 ![Photoshop徽标](../assets/ps_appicon_96.png)
 
 **Photoshop资源**
 
-[学习和支持](https://helpx.adobe.com/support/photoshop.html) 是其他教程的中心， [新增功能](https://helpx.adobe.com/photoshop/using/whats-new.html)，并提供指向社区论坛的链接。
+[学习和支持](https://helpx.adobe.com/support/photoshop.html)是您获取其他教程、[新增功能](https://helpx.adobe.com/photoshop/using/whats-new.html)以及社区论坛链接的中心点。
 
-**2020年十月版**
+**2020年10月版**
 
 开始使用这些功能（以及更多功能！） 从Creative Cloud桌面应用程序下载最新更新。

@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 exl-id: 68b2cb27-22b4-4be0-a4b1-210c208778ec
 source-git-commit: c54f203aa1e3dddbfd973b1cc668b56b7f54d9b1
 workflow-type: tm+mt
-source-wordcount: '500'
+source-wordcount: '510'
 ht-degree: 0%
 
 ---
@@ -28,9 +28,10 @@ ht-degree: 0%
 * Adobe Experience Manager (AEM) Assets是一种数字资源管理(DAM)解决方案，可与Adobe Creative Cloud集成以帮助DAM用户与创意团队合作，从而简化内容创作过程中的协作
 * Adobe InDesign Server是一个版面和合成引擎，可通过集成到其他系统中来为自动化出版解决方案提供支持
 
-**呈列方式：**
+**演示者：**
 
-Eric Rowse，高级解决方案顾问（数字媒体） Derek Lu，首席解决方案顾问（概念验证）
+Eric Rowse，高级解决方案顾问（数字媒体）
+首席解决方案顾问Derek Lu （概念验证）
 
 ## 新常态下的新工具(29:57)
 
@@ -45,11 +46,13 @@ WFH带来了挑战，但也迫使创意人员及其公司尝试新的工具和�
 * 在iPad上的Illustrator中创建和共享损坏的图标以匹配品牌推广
 * 在iPad上使用Illustrator随时随地合成来自Fresco和iPadPhotoshop的图稿，为我们的社交媒体渠道创建内容
 
-**呈列方式：**
+**演示者：**
 
-Dave Weinberg，高级解决方案顾问（数字媒体） Liz Tanonis，解决方案顾问（数字媒体） Emilie Enke，解决方案顾问（数字媒体）
+Dave Weinberg，高级解决方案顾问（数字媒体）
+Liz Tanonis，解决方案顾问（数字媒体）
+解决方案顾问Emilie Enke （数字媒体）
 
-## 使用CC Libraries进行协作(27:58)
+## 使用CC Libraries的协作(27:58)
 
 >[!VIDEO](https://video.tv.adobe.com/v/328199?hidetitle=true)
 
@@ -61,9 +64,10 @@ Dave Weinberg，高级解决方案顾问（数字媒体） Liz Tanonis，解决�
 * 在所有创意应用程序中轻松找到所需的资源
 * 使整个组织中的传播者能够在保持控制的同时创建品牌化体验
 
-**呈列方式：**
+**演示者：**
 
-Ashley Dvorin，高级解决方案顾问（数字媒体） Emily Palmer，解决方案顾问（数字媒体）
+Ashley Dvorin，高级解决方案顾问（数字媒体）
+解决方案顾问Emily Palmer （数字媒体）
 
 ## 关于演示资源：本地
 

@@ -1,6 +1,6 @@
 ---
-title: 自定义Adobe [!DNL Stock] 展示模板，外观专业但引人注目
-description: 使用Adobe中的图像和模板，在几分钟内创建精美的风格化演示文稿 [!DNL Stock] 和一些容易操作的特效
+title: 自定义Adobe [!DNL Stock] 演示文稿模板，使其外观专业但引人注目
+description: 使用Adobe [!DNL Stock] 中的图像和模板以及一些易于操作的特殊效果，只需几分钟即可创建精美的风格化演示文稿
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
@@ -13,8 +13,8 @@ ht-degree: 0%
 
 ---
 
-# 自定义Adobe [!DNL Stock] 展示模板，外观专业但引人注目
+# 自定义Adobe[!DNL Stock]演示文稿模板，使其外观专业但引人注目
 
-使用Adobe中的图像和模板，在几分钟内创建精美的风格化演示文稿 [!DNL Stock] 和一些容易做的特殊效果。
+使用Adobe[!DNL Stock]中的图像和模板和一些易于操作的特殊效果，只需几分钟即可创建精美的风格化演示文稿。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331837?hidetitle=true)

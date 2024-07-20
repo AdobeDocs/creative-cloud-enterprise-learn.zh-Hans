@@ -1,6 +1,6 @@
 ---
 title: 通过蒙版和动画为排版增添风格
-description: 利用Adobe中的元素让文本栩栩如生 [!DNL Stock] 以及After Effects的动画样式
+description: 利用Adobe [!DNL Stock] 中的元素和After Effects中的动画样式，让您的文本栩栩如生
 feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
@@ -15,6 +15,6 @@ ht-degree: 0%
 
 # 通过蒙版和动画为排版增添风格
 
-利用Adobe中的元素让文本栩栩如生 [!DNL Stock] 以及After Effects的动画样式。
+利用Adobe[!DNL Stock]中的元素和After Effects中的动画样式，让您的文本栩栩如生。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331807?hidetitle=true)

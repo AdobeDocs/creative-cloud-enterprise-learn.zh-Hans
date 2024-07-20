@@ -7,8 +7,8 @@ level: Beginner, Intermediate
 exl-id: e68a8d5b-3dca-4ac8-87d1-b31dbe0e13ce
 source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 3%
+source-wordcount: '233'
+ht-degree: 2%
 
 ---
 
@@ -22,22 +22,22 @@ ht-degree: 3%
 <tr>
  <td>
    <a href="cclibraries.md#tutorial1">
-      <img alt="创建CC库" src="../assets/libraries_create_dvorin_thumbnail.jpg" />
+      <img alt="创建CC Libraries" src="../assets/libraries_create_dvorin_thumbnail.jpg" />
    </a>
     <div>
-   <a href="cclibraries.md#tutorial1"><strong>创建CC库</strong></a>
+   <a href="cclibraries.md#tutorial1"><strong>创建CC Libraries</strong></a>
     </div>
-    <em>使用Adobe Creative Cloud Libraries，您可以管理、整理和访问您喜爱的Creative Cloud应用程序中的徽标、颜色等</em>
+    <em>使用Adobe Creative Cloud Libraries，您可以在常用的Creative Cloud应用程序中管理、整理和访问您的徽标、颜色等</em>
     <br>
   </td>
    <td>
    <a href="cclibraries.md#tutorial2">
-      <img alt="共享CC库" src="../assets/libraries_share_dvorin_thumbnail.jpg" />
+      <img alt="共享CC Libraries" src="../assets/libraries_share_dvorin_thumbnail.jpg" />
    </a>
     <div>
-   <a href="cclibraries.md#tutorial2"><strong>共享CC库</strong></a>
+   <a href="cclibraries.md#tutorial2"><strong>共享CC Libraries</strong></a>
     </div>
-    <em>更高效地工作，确保创意一致性，并轻松地与您的团队保持同步</em>
+    <em>提高工作效率，确保创意一致性，并轻松与团队保持同步</em>
     <br>
   </td>
   <td>
@@ -59,7 +59,7 @@ ht-degree: 3%
 * 让您的资源触手可及，项目符合品牌形象
 * 新增！ 与Adobe XD完全集成
 
-**呈列方式：**
+**演示者：**
 Ashley Dvorin，高级解决方案顾问（数字媒体）
 
 ## 共享CC Libraries (4:14) {#tutorial2}
@@ -73,15 +73,15 @@ Ashley Dvorin，高级解决方案顾问（数字媒体）
 * 让您的资源触手可及，项目符合品牌形象
 * 直接从您喜爱的应用程序轻松协作处理项目
 
-**呈列方式：**
+**演示者：**
 Ashley Dvorin，高级解决方案顾问（数字媒体）
 
 ![CC Libraries徽标](../assets/cc_appicon_96.png)
 
-**CC库资源**
+**CC Libraries资源**
 
-[学习和支持](https://helpx.adobe.com/creative-cloud/help/libraries.html) 是您获取其他教程、新增功能以及指向社区论坛的链接的中心。
+[学习和支持](https://helpx.adobe.com/creative-cloud/help/libraries.html)是您获取其他教程、新增功能以及社区论坛链接的中心点。
 
-**2020年十月版**
+**2020年10月版**
 
 开始使用这些功能（以及更多功能！） 从Creative Cloud桌面应用程序下载最新更新。

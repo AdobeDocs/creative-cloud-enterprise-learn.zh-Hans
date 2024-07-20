@@ -15,7 +15,7 @@ ht-degree: 1%
 
 # 使用主体创建自定义模型
 
-了解如何在Firefly中构建自定义模型，以使用特定主题为公司品牌创作全新的图像。 自定义模型允许您大规模创建相关的个性化内容。 尝试Adobe Firefly [此处](https://firefly.adobe.com/).
+了解如何在Firefly中构建自定义模型，以使用特定主题为公司品牌创作全新的图像。 自定义模型允许您大规模创建相关的个性化内容。 尝试Adobe Firefly[此处](https://firefly.adobe.com/)。
 
 <br> 
 
@@ -23,4 +23,4 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->了解有关 [自定义模型的安全体系结构和数据流](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/creative-cloud/adobe-firefly-custom-models-security-fact-sheet.pdf).
+>详细了解[自定义模型的安全架构和数据流](https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/creative-cloud/adobe-firefly-custom-models-security-fact-sheet.pdf)。

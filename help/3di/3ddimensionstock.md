@@ -1,6 +1,6 @@
 ---
-title: 使用以下工具自定义和标记3D模型 [!DNL Dimension] 和Adobe [!DNL Stock]
-description: 在[！DNL]中自定义和标记3D模型 [!DNL Dimension]] 使用材质、环境属性、光照和摄影为任何设计项目创建照片级逼真图像
+title: 使用 [!DNL Dimension] 和Adobe [!DNL Stock]自定义3D模型并为其添加品牌
+description: 使用材质、环境属性、光照和摄影在[！DNL [!DNL Dimension]] 中自定义和标记3D模型，为任何设计项目创建逼真的图像
 feature: 3D
 role: User
 level: Beginner, Intermediate
@@ -12,12 +12,12 @@ ht-degree: 0%
 
 ---
 
-# 使用以下工具自定义和标记3D模型 [!DNL Dimension] 和Adobe [!DNL Stock]
+# 使用[!DNL Dimension]和Adobe[!DNL Stock]自定义3D模型并为其添加品牌
 
-在中自定义和标记3D模型 [!DNL Dimension] 使用材质、环境属性、光照和摄影为任何设计项目创建照片级逼真的图像。
+使用材质、环境属性、光照和摄影在[!DNL Dimension]中自定义和标记3D模型，为任何设计项目创建逼真的图像。
 
 >[!VIDEO](https://video.tv.adobe.com/v/331005?hidetitle=true)
 
 单击PDF文件图标以下载本教程的快速参考指南。
 
-[![PDF文件图标](../assets/acrobat_PDF_96.png)](../quick-reference/SkiptheShootGettheShot.pdf)
+[![PDF的文件图标](../assets/acrobat_PDF_96.png)](../quick-reference/SkiptheShootGettheShot.pdf)

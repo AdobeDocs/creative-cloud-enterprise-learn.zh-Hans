@@ -15,7 +15,7 @@ ht-degree: 2%
 
 # 加速创意构想
 
-了解如何快速可视化商业活动的想法并探索相关概念。 加速创意构思使公司能够快速制作高质量的内容。 尝试Adobe Firefly [此处](https://firefly.adobe.com/).
+了解如何快速可视化商业活动的想法并探索相关概念。 加速创意构思使公司能够快速制作高质量的内容。 尝试Adobe Firefly[此处](https://firefly.adobe.com/)。
 
 <br> 
 

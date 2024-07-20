@@ -5,7 +5,8 @@ feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14828
-source-git-commit: d7b0469735ceb9259f585bacb524a231a34de880
+exl-id: 08e566b6-b1fa-4834-b17a-5ea55dc16877
+source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 # 如何共享和下载
 
-了解以下载和共享不同文件格式(例如PNG、JPEG或PDF)项目的选项。 将项目发布到Web并生成链接以便轻松访问，或者安排媒体并将其直接共享到社交媒体平台，其中包含针对每个平台自定义帖子的选项。
+了解以下载和共享不同文件格式(例如PNG、JPEG或PDF)项目的选项。 Publish将项目发布到Web并生成链接以便轻松访问，或者利用选项直接将媒体安排和共享到社交媒体平台，以便为每个平台自定义帖子。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426936?quality=12&learn=on&hidetitle=true)
 
