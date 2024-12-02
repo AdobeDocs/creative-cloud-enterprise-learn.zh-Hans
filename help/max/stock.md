@@ -1,5 +1,5 @@
 ---
-title: “[!DNL Stock]”
+title: '[!DNL Stock]'
 description: 通过企业版Adobe [!DNL Stock] ，创意团队可访问超过2亿张图像、视频、模板、插图、音频文件和3D资源
 feature: Licensable Assets
 role: User
@@ -88,4 +88,4 @@ Victoria Torres，[!DNL Stock]解决方案顾问（数字媒体）
 
 **2020年10月版**
 
-开始使用这些功能（以及更多功能！） 从Creative Cloud桌面应用程序下载最新更新。
+通过从Creative Cloud桌面应用程序下载最新更新，开始使用这些功能（以及更多功能！）。

@@ -1,6 +1,6 @@
 ---
-title: “[!DNL Dimension]”
-description: “[!DNL Dimension]可让您轻松构建品牌可视化效果、插图、产品模型、包装设计和其他创意作品”
+title: '[!DNL Dimension]'
+description: '[!DNL Dimension]可让您轻松构建品牌可视化效果、插图、产品模型、包装设计和其他创意作品'
 feature: 3D
 role: User
 level: Beginner, Intermediate
@@ -64,4 +64,4 @@ Jim Babbage，高级解决方案顾问（数字媒体）
 
 **2020年10月版**
 
-开始使用这些功能（以及更多功能！） 从Creative Cloud桌面应用程序下载最新更新。
+通过从Creative Cloud桌面应用程序下载最新更新，开始使用这些功能（以及更多功能！）。
