@@ -1,21 +1,21 @@
 ---
-title: 如何使用模板
-description: 您的品牌独一无二，使用模板可帮助您保持品牌形象
+title: 轻松实现品牌与模板的一致性
+description: 了解如何在整个组织中快速、高效地创建品牌内容
 feature: Graphic Design
 role: User
 level: Beginner
 jira: KT-14887
 exl-id: 00b8d83a-630f-48a1-a87f-c6f43ad5f992
-source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
+source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
-# 如何使用模板
+# 轻松实现品牌与模板的一致性
 
-您的品牌独一无二，使用模板可帮助您保持品牌形象。
+了解如何在整个组织中快速、高效地创建品牌内容。 本教程将逐步介绍如何创建可立即共享和本地化的全新品牌内容。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427099?quality=12&learn=on&hidetitle=true)
 
@@ -24,20 +24,35 @@ ht-degree: 0%
 <table style="table-layout:fixed">
 <tr>
     <td>
-            <a href="lock-layers.md">
-                <img alt="如何以及为何锁定图层" src="assets/lock-layers.png" />
-            </a>
+        <a href="lock-layers.md">
+            <img alt="如何以及为何锁定图层" src="assets/lock-layers.png" />
+        </a>
+        <div>
+            <a href="lock-layers.md"><strong>如何锁定图层和锁定图层的原因</strong></a>
+            </div>
+            <em>了解锁定模板的各种元素为何重要</em>
+            <br>
     </td>
     <td>
          <a href="create-templates.md">
-            <img alt="创建模板" src="assets/create-template.png" />
+            <img alt="最大化效率：创建可重复使用的模板" src="assets/create-template.png" />
          </a>
-    </td>
-    <td>
-            <a href="share-templates.md">
-                <img alt="保存和共享模板" src="assets/share-templates.png" />
-            </a>
-    </td>
+         <div>
+         <a href="create-templates.md"><strong>最大化效率：创建可重复使用的模板</strong></a>
+         </div>
+         <em>了解如何使用模板为您的组织带来品牌一致性、效率、专业性和成本节约</em>
+         <br>
+   </td>
+   <td>
+         <a href="share-templates.md">
+            <img alt="保存和共享模板" src="assets/share-templates.png" />
+         </a>
+         <div>
+         <a href="share-templates.md"><strong>保存和共享模板</strong></a>
+         </div>
+         <em>了解如何保存模板并将其共享到团队的品牌套件或库中</em>
+         <br>
+   </td>
     <td>
       <img alt="间隔物" src="../assets/Whitespacer.png" />
       <div>

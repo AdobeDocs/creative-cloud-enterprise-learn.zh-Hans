@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-14885
 exl-id: f7aba5fa-40dd-48f2-afe3-d65ecc9a666c
-source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
+source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -25,18 +25,33 @@ ht-degree: 0%
 <tr>
    <td>
          <a href="create-templates.md">
-            <img alt="创建模板" src="assets/create-template.png" />
+            <img alt="最大化效率：创建可重复使用的模板" src="assets/create-template.png" />
          </a>
+         <div>
+         <a href="create-templates.md"><strong>最大化效率：创建可重复使用的模板</strong></a>
+         </div>
+         <em>了解如何使用模板为您的组织带来品牌一致性、效率、专业性和成本节约</em>
+         <br>
    </td>
    <td>
          <a href="share-templates.md">
             <img alt="保存和共享模板" src="assets/share-templates.png" />
          </a>
+         <div>
+         <a href="share-templates.md"><strong>保存和共享模板</strong></a>
+         </div>
+         <em>了解如何保存模板并将其共享到团队的品牌套件或库中</em>
+         <br>
    </td>
    <td>
          <a href="use-templates.md">
-            <img alt="如何使用模板" src="assets/use-templates.png" />
+            <img alt="轻松实现品牌与模板的一致性" src="assets/use-templates.png" />
          </a>
+         <div>
+         <a href="use-templates.md"><strong>轻松实现品牌与模板的一致性</strong></a>
+         </div>
+         <em>了解如何在整个组织中快速、高效地创建品牌内容</em>
+         <br>
    </td>
    <td>
       <img alt="间隔物" src="../assets/Whitespacer.png" />
