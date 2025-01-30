@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-14887
 exl-id: 00b8d83a-630f-48a1-a87f-c6f43ad5f992
-source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
+source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 0%
          <div>
          <a href="create-templates.md"><strong>最大化效率：创建可重复使用的模板</strong></a>
          </div>
-         <em>了解如何使用模板为您的组织带来品牌一致性、效率、专业性和成本节约</em>
+         <em>了解如何使用模板为您的组织带来品牌一致性、效率和成本节约</em>
          <br>
    </td>
    <td>

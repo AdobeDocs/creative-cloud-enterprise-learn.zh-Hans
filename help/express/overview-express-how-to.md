@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-13994
 exl-id: f2cc51b1-b0be-4ca7-9723-92d851250463
-source-git-commit: 55946f53633e679f1c7242e54fe07b41b1e626a3
+source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '360'
 ht-degree: 1%
 
 ---
@@ -355,24 +355,44 @@ ht-degree: 1%
 <table style="table-layout:fixed">
 <tr>
    <td>
-         <a href="lock-layers.md">
+        <a href="lock-layers.md">
             <img alt="如何以及为何锁定图层" src="assets/lock-layers.png" />
-         </a>
-   </td>
-   <td>
+        </a>
+        <div>
+            <a href="lock-layers.md"><strong>如何锁定图层和锁定图层的原因</strong></a>
+            </div>
+            <em>了解锁定模板的各种元素为何重要</em>
+            <br>
+    </td>
+    <td>
          <a href="create-templates.md">
-            <img alt="创建模板" src="assets/create-template.png" />
+            <img alt="最大化效率：创建可重复使用的模板" src="assets/create-template.png" />
          </a>
+         <div>
+         <a href="create-templates.md"><strong>最大化效率：创建可重复使用的模板</strong></a>
+         </div>
+         <em>了解如何使用模板为您的组织带来品牌一致性、效率和成本节约</em>
+         <br>
    </td>
    <td>
          <a href="share-templates.md">
             <img alt="保存和共享模板" src="assets/share-templates.png" />
          </a>
+         <div>
+         <a href="share-templates.md"><strong>保存和共享模板</strong></a>
+         </div>
+         <em>了解如何保存模板并将其共享到团队的品牌套件或库中</em>
+         <br>
    </td>
    <td>
          <a href="use-templates.md">
-            <img alt="如何使用模板" src="assets/use-templates.png" />
+            <img alt="轻松实现品牌与模板的一致性" src="assets/use-templates.png" />
          </a>
+         <div>
+         <a href="use-templates.md"><strong>轻松实现品牌与模板的一致性</strong></a>
+         </div>
+         <em>了解如何在整个组织中快速、高效地创建品牌内容</em>
+         <br>
    </td>
 </tr>
 </table>

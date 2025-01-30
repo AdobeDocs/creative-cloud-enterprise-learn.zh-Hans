@@ -6,7 +6,7 @@ role: User
 level: Beginner, Intermediate
 jira: KT-13380
 exl-id: 3c144e1a-f823-4551-b705-aa9dbca548f2
-source-git-commit: 319704f89f9bae809313e53cbd6d45158f146b76
+source-git-commit: 4485af9f7684ab028b5d135a9dfdaad98fa47b65
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 3%
@@ -27,7 +27,7 @@ ht-degree: 3%
 
 >[!TAB 最大化效率：创建可重复使用的模板]
 
-了解如何使用[模板](create-templates.md)为您的组织带来品牌一致性、效率、专业性和成本节约
+了解如何使用[模板](create-templates.md)为您的组织带来品牌一致性、效率、专业性和成本节约。
 
 >[!ENDTABS]
 
