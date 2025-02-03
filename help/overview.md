@@ -5,9 +5,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 level: Beginner, Intermediate, Experienced
 exl-id: d0223157-24aa-486b-806a-fc6f6a36d7cf
-source-git-commit: b19c63ed79c7baabb40dc0272de4578a73ef6e2b
+source-git-commit: e3a0f88410bba532ef108f64c41946031478ca7f
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '260'
 ht-degree: 11%
 
 ---
@@ -262,92 +262,3 @@ ht-degree: 11%
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-<!-- COMMENT -->
-<table style="table-layout:fixed">
-<tr>
-   <td>
-      <a href="cce/overview-cce.md">
-         <img alt="企业教程Creative Cloud" src="assets/CCecard.png" />
-      </a>
-      <div>
-          <a href="cce/overview-cce.md"><strong>Creative Cloud企业教程</strong></a>
-          </div>
-          <em>从企业角度了解Creative Cloud最新版本中的新功能</em>
-          <br>
-   </td>
-   <td>
-      <a href="express/overview-express.md">
-         <img alt="Adobe Express" src="assets/Expresscard.png" />
-      </a>
-      <div>
-          <a href="express/overview-express.md"><strong>Adobe Express</strong></a>
-          </div>
-          <em>开始创建出色的内容</em>
-        <br>
-   </td>
-   <td>
-      <a href="firefly/overview-firefly.md">
-         <img alt="Firefly" src="assets/Fireflycard.png" />
-      </a>
-      <div>
-          <a href="firefly/overview-firefly.md"><strong>Firefly</strong></a>
-          </div>
-          <em>全面了解Adobe产品中的生成式AI模型</em>
-        <br>
-   </td>
-   <td>
-      <a href="stock/overview-stock.md">
-         <img alt="Adobe Stock" src="assets/Stockcard.png" />
-      </a>
-      <div>
-          <a href="stock/overview-stock.md"><strong>Adobe Stock</strong></a>
-          </div>
-          <em>高品质的数字图像、插图、视频、音频、模板等</em>
-        <br>
-   </td>
-</tr>
-<tr>
-  <td>
-      <a href="3di/overview-3di.md">
-         <img alt="Adobe3D和VR" src="assets/3Dcard.png" />
-      </a>
-      <div>
-          <a href="3di/overview-3di.md"><strong>Adobe3D和VR</strong></a>
-          </div>
-          <em>为品牌塑造、产品图片和包装设计创建逼真的3D图像</em>
-        <br>
-   </td>
-   <td>
-      <a href="dva/overview-dva.md">
-         <img alt="Adobe视频" src="assets/Videocard.png" />
-      </a>
-      <div>
-          <a href="dva/overview-dva.md"><strong>Adobe视频</strong></a>
-          </div>
-          <em>通过视频让您的想法变为现实</em>
-        <br>
-   </td>
-   <td>
-      <a href="xd/overview-xd.md">
-         <img alt="Adobe XD" src="assets/XDcard.png" />
-      </a>
-      <div>
-          <a href="xd/overview-xd.md"><strong>Adobe XD</strong></a>
-          </div>
-          <em>设计用户体验并为其创建原型</em>
-        <br>
-   </td>
-    <td>
-      <a href="max/overview-max.md">
-         <img alt="Adobe MAX" src="assets/Maxcard.png" />
-      </a>
-      <div>
-          <a href="max/overview-max.md"><strong>Adobe MAX</strong></a>
-          </div>
-          <em>了解有关MAX 2020企业版会话的所有信息</em>
-        <br>
-   </td>
-</tr>
-</table>
-<!-- END COMMENT -->
