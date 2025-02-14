@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: a6239fe87239003e2730d402d8ae1c2cda52bd87
+source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
 workflow-type: tm+mt
-source-wordcount: '803'
+source-wordcount: '806'
 ht-degree: 4%
 
 ---
@@ -87,7 +87,7 @@ ht-degree: 4%
       + [如何添加音频](express/add-audio-video.md)
       + [如何导出视频](express/export-video.md)
       + [如何以及为何锁定图层](express/lock-layers.md)
-      + [创建模板](express/create-templates.md)
+      + [最大化效率：创建可重复使用的模板](express/create-templates.md)
       + [保存和共享模板](express/share-templates.md)
       + [如何使用模板](express/use-templates.md)
    + 使用案例教程{#expressusecase}
