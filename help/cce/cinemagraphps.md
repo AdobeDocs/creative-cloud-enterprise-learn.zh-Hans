@@ -16,7 +16,7 @@ ht-degree: 0%
 
 在此分步研讨会视频教程中，通过将Adobe[!DNL Stock]中的视频与Photoshop中的巧妙蒙版技术相结合，制作一张动态照片。
 
->[!VIDEO](https://video.tv.adobe.com/v/331002?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410685?hidetitle=true&captions=chi_hans)
 
 <br> 
 

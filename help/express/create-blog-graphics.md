@@ -17,4 +17,4 @@ ht-degree: 1%
 
 了解如何在Adobe Firefly的支持下使用文本到图像，为Web、博客和社交活动创建独特的图形内容。 本教程使用新的[Adobe Express](https://www.adobe.com/express/)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422408?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3441374?quality=12&learn=on&hidetitle=true&captions=chi_hans)

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 了解如何在整个组织中快速、高效地创建品牌内容。 本教程将逐步介绍如何创建可立即共享和本地化的全新品牌内容。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427099?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436139?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 ## 此系列中的其他视频
 

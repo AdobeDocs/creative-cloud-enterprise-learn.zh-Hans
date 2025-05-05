@@ -17,7 +17,7 @@ ht-degree: 0%
 
 了解如何在几秒钟内根据文本描述为社交帖子、海报、传单和卡片生成可编辑的模板。 在下载或共享之前，您可以编辑设计、更改字体并进一步标记项目。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427022?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438133?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 ## 此系列中的其他视频
 

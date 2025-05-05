@@ -17,7 +17,7 @@ ht-degree: 0%
 
 了解如何通过添加音频（包括Express提供的免版税素材库音频文件）来创建吸引人且令人难忘的项目。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426983?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433919?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 ## 此系列中的其他视频
 

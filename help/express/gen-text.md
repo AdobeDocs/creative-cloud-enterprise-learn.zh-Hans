@@ -17,7 +17,7 @@ ht-degree: 0%
 
 了解如何使用由Adobe Firefly支持的文本效果创建有影响力的设计。 使用文本提示，您可以生成卓越的文本效果，并对其进行优化和装饰。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427021?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438828?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 ## 此系列中的其他视频
 

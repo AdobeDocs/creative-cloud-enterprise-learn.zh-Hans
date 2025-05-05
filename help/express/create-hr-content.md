@@ -15,4 +15,4 @@ ht-degree: 1%
 
 了解如何快速创建与公司品牌一致的多渠道HR内容。 快速提供多渠道内容，让您可以与更多员工进行沟通，帮助他们及时了解最新新闻。 本教程使用新的[Adobe Express](https://www.adobe.com/express/)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434597?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3434607?quality=12&learn=on&hidetitle=true&captions=chi_hans)

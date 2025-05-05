@@ -44,7 +44,7 @@ Acrobat和Creative Cloud企业版应用程序都将开始从过期前60天开始
 
 以下信息概述了最终用户体验。 下面是一段简短的视频，随后将回顾最终用户体验。
 
->[!VIDEO](https://video.tv.adobe.com/v/331746?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3441288?hidetitle=true&captions=chi_hans)
 
 **过期前**
 

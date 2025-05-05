@@ -17,7 +17,7 @@ ht-degree: 0%
 
 了解如何在设计项目中使用画板和图层。 针对不同的社交渠道添加、删除、复制、重新排序画板和调整画板大小。 您还可以更改图层栈叠中元素的顺序。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420214?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447075?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 ## 此系列中的其他视频
 

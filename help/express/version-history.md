@@ -17,7 +17,7 @@ ht-degree: 0%
 
 了解如何访问版本历史记录以及查看和复制项目的早期版本。 标记关键开发点以轻松返回项目进展中的特定时间。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426937?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438707?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 ## 此系列中的其他视频
 

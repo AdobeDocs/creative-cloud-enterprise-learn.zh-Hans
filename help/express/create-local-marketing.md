@@ -17,4 +17,4 @@ ht-degree: 1%
 
 了解如何使用Adobe Firefly支持的文本到图像创建Adobe Express，以通过全球酒店营销活动创建本地化内容。 本教程使用新的[Adobe Express](https://www.adobe.com/express/)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422426?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443594?quality=12&learn=on&hidetitle=true&captions=chi_hans)

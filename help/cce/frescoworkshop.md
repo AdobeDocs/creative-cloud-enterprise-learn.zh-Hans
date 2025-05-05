@@ -18,7 +18,7 @@ ht-degree: 0%
 
 在这个15分钟的动手研讨会中，使用Adobe Fresco探索数字绘图和绘画的整个新世界。 快速学习使用图层和剪贴蒙版，将绘画和纹理匹配到基本形状。 与设计师/开发人员Chris Converse一起使用Fresco和Adobe Stock重新创建部分静物插图。
 
->[!VIDEO](https://video.tv.adobe.com/v/333804?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410418?hidetitle=true&captions=chi_hans)
 
 <br> 
 

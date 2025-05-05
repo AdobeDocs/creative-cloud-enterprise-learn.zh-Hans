@@ -17,4 +17,4 @@ ht-degree: 1%
 
 了解如何在Adobe Express中使用Adobe Firefly支持的文本到图像功能，为社交媒体创建促销活动。 本教程使用新的[Adobe Express](https://www.adobe.com/express/)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420533?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430568?quality=12&learn=on&hidetitle=true&captions=chi_hans)

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 了解如何使用网格制作照片拼贴、情绪板和引人注目的海报。 有40种不同的网格布局可供您使用自己的图像或Adobe Stock照片进行自定义。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426934?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3440002?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 ## 此系列中的其他视频
 

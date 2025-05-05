@@ -17,4 +17,4 @@ ht-degree: 0%
 
 了解如何使用关键词搜索专业设计的模板，从而快速创建新闻稿。 更改徽标和文本副本后，您可以邀请同事协作并添加自己的内容。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427120?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439213?quality=12&learn=on&hidetitle=true&captions=chi_hans)

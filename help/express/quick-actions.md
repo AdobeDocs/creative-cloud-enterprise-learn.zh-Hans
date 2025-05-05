@@ -17,7 +17,7 @@ ht-degree: 0%
 
 快速操作可节省时间，并为日常创意工作提供基本的编辑工具。 快速操作的示例包括合并和修剪视频、去除背景、调整图像和视频的大小、将视频转换为gif以及编辑PDF。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426925?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446314?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 ## 此系列中的其他视频
 

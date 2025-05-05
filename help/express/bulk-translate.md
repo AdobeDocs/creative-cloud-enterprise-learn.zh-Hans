@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >在共享或下载之前，请务必检查翻译的准确性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427023?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438278?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 ## 此系列中的其他视频
 

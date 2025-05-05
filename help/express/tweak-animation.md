@@ -17,7 +17,7 @@ ht-degree: 0%
 
 了解如何调整动画的设置以提高效果。 您可以编辑动画的持续时间、个性、速度和强度，以创建特定效果。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426977?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3438531?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 ## 此系列中的其他视频
 

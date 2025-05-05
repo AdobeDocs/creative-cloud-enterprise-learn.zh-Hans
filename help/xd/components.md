@@ -16,7 +16,7 @@ ht-degree: 0%
 
 了解如何使用[!UICONTROL 组件]，为您提供前所未有的灵活性，以便为您的设计工作流程应用速度和一致性。
 
->[!VIDEO](https://video.tv.adobe.com/v/331003?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410473?hidetitle=true&captions=chi_hans)
 
 单击PDF文件图标以下载本教程的PDF。
 

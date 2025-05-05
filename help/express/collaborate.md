@@ -17,7 +17,7 @@ ht-degree: 0%
 
 了解如何与同事协作处理创意项目，包括邀请他们、设置权限、解决评论以及同时处理项目。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420253?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439547?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 ## 此系列中的其他视频
 

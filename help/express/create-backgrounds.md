@@ -17,4 +17,4 @@ ht-degree: 0%
 
 了解如何为PowerPoint演示文稿创建引人入胜的背景。 使用Adobe Firefly支持的文本到图像，您可以为演示文稿生成个性化图像，然后对图像做进一步更改，应用效果，并下载该图像以在演示文稿中使用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427117?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433985?quality=12&learn=on&hidetitle=true&captions=chi_hans)

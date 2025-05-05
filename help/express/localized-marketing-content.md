@@ -19,4 +19,4 @@ ht-degree: 0%
 
 本教程使用新的[Adobe Express](https://www.adobe.com/express/)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424391?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433996?quality=12&learn=on&hidetitle=true&captions=chi_hans)

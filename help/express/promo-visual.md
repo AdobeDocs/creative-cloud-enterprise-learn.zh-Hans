@@ -17,4 +17,4 @@ ht-degree: 0%
 
 了解如何为在线学习课程创建引人入胜的视觉效果。 首先，合成数千个专业设计的模板之一。 接下来，在调整大小并提供最终视觉效果之前，添加一张照片，并使用编辑技巧将其融入合成中。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427122?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433941?quality=12&learn=on&hidetitle=true&captions=chi_hans)

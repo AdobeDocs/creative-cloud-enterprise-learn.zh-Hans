@@ -16,4 +16,4 @@ ht-degree: 1%
 
 了解如何在Adobe Express中使用Adobe Firefly支持的文本到图像功能，为虚拟现实活动创建网络研讨会海报。 本教程使用新的[Adobe Express](https://www.adobe.com/express/)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420810?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446873?quality=12&learn=on&hidetitle=true&captions=chi_hans)

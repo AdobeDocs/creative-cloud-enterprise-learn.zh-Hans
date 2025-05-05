@@ -16,7 +16,7 @@ ht-degree: 0%
 
 了解如何通过添加引人注目的文本、图像、品牌、颜色、动画等，让您的静态、过时PDF焕然一新。 编辑完成后，您可以下载PDF、共享文档或将PDF转换为其他文件格式(例如JPEG)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427024?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437908?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 ## 此系列中的其他视频
 

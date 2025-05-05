@@ -17,7 +17,7 @@ ht-degree: 0%
 
 了解如何在社交媒体帖子中添加动画以提高参与度。 通过选择页面上的任意元素（如图像），并应用各种类型的动画，可访问“动画”面板。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426975?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436595?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 ## 此系列中的其他视频
 

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 了解如何设置视频分辨率、下载视频以及将视频直接分享到社交渠道。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427093?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436025?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 ## 此系列中的其他视频
 

@@ -17,7 +17,7 @@ ht-degree: 0%
 
 了解如何通过拖放视频创建功能快速轻松地制作出色的视频。 从模板或您自己的静态设计开始，然后添加您的品牌、设计资源、Adobe Stock视频和音乐等。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427071?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436442?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 ## 此系列中的其他视频
 

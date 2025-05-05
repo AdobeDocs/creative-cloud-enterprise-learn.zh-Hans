@@ -17,7 +17,7 @@ ht-degree: 0%
 
 了解可以添加到项目中的三种不同类型的动画（开场、循环和结尾动画），让它们更具吸引力。 每个动画都有不同的样式可供预览和选择。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426976?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433952?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 ## 此系列中的其他视频
 

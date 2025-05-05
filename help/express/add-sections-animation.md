@@ -17,7 +17,7 @@ ht-degree: 0%
 
 通过将图像和标题等元素添加到动画中，提升动画水平。 了解如何在保持动画完整性的同时添加、复制、重新排列或替换场景中的元素。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426982?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433930?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 ## 此系列中的其他视频
 

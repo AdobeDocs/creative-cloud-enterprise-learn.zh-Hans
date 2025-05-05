@@ -17,7 +17,7 @@ ht-degree: 0%
 
 了解如何使用Adobe Express模板为您的企业带来品牌一致性、效率、专业性和成本节约。 本教程将逐步介绍如何从任何现有内容(包括Photoshop、Illustrator、InDesign甚至PowerPoint文件)中创建可重用的内容。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420208?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3433974?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 ## 此系列中的其他视频
 

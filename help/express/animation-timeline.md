@@ -17,7 +17,7 @@ ht-degree: 0%
 
 了解如何导航和调整动画时间线。 时间轴是整个动画的整体视图，您可以在其中预览并缩短/延长动画长度。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426978?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437611?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 ## 此系列中的其他视频
 
