@@ -15,13 +15,13 @@ ht-degree: 0%
 
 ## 关于您对Adobe内容的贡献
 
-请参阅 [Adobe文档投稿人指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)的
+请参阅 [Adobe文档投稿人指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=zh-Hans)的
 
 投稿方式取决于您的身份以及您希望提交的更改类型：
 
 ### 细微更改
 
-如果您出于好意想要对某篇文章进行细微修改，请访问该文章，然后单击 **编辑** 文章中的链接，转至文章的GitHub源。 然后，只需使用GitHub UI进行更新即可。 请参阅常规 [Adobe文档投稿人指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) 了解更多信息。
+如果您出于好意想要对某篇文章进行细微修改，请访问该文章，然后单击 **编辑** 文章中的链接，转至文章的GitHub源。 然后，只需使用GitHub UI进行更新即可。 请参阅常规 [Adobe文档投稿人指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=zh-Hans) 了解更多信息。
 
 您就本存储库中文档和代码示例提交的细微更正或补充说明受Adobe使用条款的约束。
 
@@ -43,7 +43,7 @@ If you submit a pull request with significant changes to documentation and code 
 
 社区投稿人可以使用GitHub UI进行基本编辑，或者创建存储库分支以做出重大贡献。
 
-请参阅 [Adobe文档投稿人指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) 了解详情。
+请参阅 [Adobe文档投稿人指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=zh-Hans) 了解详情。
 
 ## 如何使用Markdown设置主题格式
 

@@ -117,7 +117,7 @@ Eric Rowse，高级解决方案顾问（数字媒体）
 
 **Asset Link和AEM资源**
 
-[学习和支持](https://helpx.adobe.com/support/experience-manager.html)是您获取其他教程、新增功能以及社区论坛链接的中心点。
+[学习和支持](https://helpx.adobe.com/cn/support/experience-manager.html)是您获取其他教程、新增功能以及社区论坛链接的中心点。
 
 **2020年10月版**
 

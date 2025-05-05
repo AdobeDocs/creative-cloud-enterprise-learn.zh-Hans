@@ -214,7 +214,7 @@ Victoria Torres，解决方案顾问（数字媒体）
 
 **XD资源**
 
-[学习和支持](https://helpx.adobe.com/support/xd.html)是您获取其他教程、[新增功能](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html)以及社区论坛链接的中心点。
+[学习和支持](https://helpx.adobe.com/cn/support/xd.html)是您获取其他教程、[新增功能](https://helpx.adobe.com/xd/user-guide.html/xd/help/whats-new.ug.html)以及社区论坛链接的中心点。
 
 **2020年10月版**
 

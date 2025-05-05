@@ -78,7 +78,7 @@ Patti Sokol，首席解决方案顾问（数字媒体）
 
 **Illustrator资源**
 
-[学习和支持](https://helpx.adobe.com/support/illustrator.html)是您获取其他教程和社区论坛链接的中心点。
+[学习和支持](https://helpx.adobe.com/cn/support/illustrator.html)是您获取其他教程和社区论坛链接的中心点。
 
 **2020年10月版**
 

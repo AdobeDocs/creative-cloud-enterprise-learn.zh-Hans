@@ -62,6 +62,6 @@ Todd Burke，首席解决方案顾问（数字媒体）
 
 **企业管理资源：**
 
-[Adobe Fonts用户指南](https://helpx.adobe.com/fonts/user-guide.html)
+[Adobe Fonts用户指南](https://helpx.adobe.com/cn/fonts/user-guide.html)
 
-[企业管理员指南](https://helpx.adobe.com/enterprise/admin-guide.html)
+[企业管理员指南](https://helpx.adobe.com/cn/enterprise/admin-guide.html)

@@ -148,7 +148,7 @@ Patti Sokol，首席解决方案顾问（数字媒体）
 
 **InDesign资源**
 
-[学习和支持](https://helpx.adobe.com/support/indesign.html)是您获取其他教程、[新增功能](https://helpx.adobe.com/indesign/user-guide.html/indesign/using/whats-new.ug.html)以及社区论坛链接的中心点。
+[学习和支持](https://helpx.adobe.com/cn/support/indesign.html)是您获取其他教程、[新增功能](https://helpx.adobe.com/cn/indesign/user-guide.html/indesign/using/whats-new.ug.html)以及社区论坛链接的中心点。
 
 **2020年10月版**
 

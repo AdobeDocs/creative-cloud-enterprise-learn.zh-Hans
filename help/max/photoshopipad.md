@@ -63,7 +63,7 @@ Photoshop是世界上最好的图像处理和图形设计软件，让专业人�
 
 **iPad资源上的Photoshop**
 
-[学习和支持](https://helpx.adobe.com/support/photoshop.html)是您获取其他教程和社区论坛链接的中心点。
+[学习和支持](https://helpx.adobe.com/cn/support/photoshop.html)是您获取其他教程和社区论坛链接的中心点。
 
 **2020年10月版**
 

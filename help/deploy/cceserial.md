@@ -34,7 +34,7 @@ ht-degree: 1%
 
 ### 检查过期日期
 
-[AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html)是一个命令行实用程序，供IT管理员检查计算机上的Adobe产品使用的序列号是否已过期或即将过期。 该工具将显示产品许可标识符(LEID)、加密序列号和到期日期等信息。 此[页面](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html)包含有关在Mac或Windows计算机上下载和使用此工具的说明。
+[AdobeExpiryCheck](https://helpx.adobe.com/cn/enterprise/kb/volume-license-expiration-check.html)是一个命令行实用程序，供IT管理员检查计算机上的Adobe产品使用的序列号是否已过期或即将过期。 该工具将显示产品许可标识符(LEID)、加密序列号和到期日期等信息。 此[页面](https://helpx.adobe.com/cn/enterprise/kb/volume-license-expiration-check.html)包含有关在Mac或Windows计算机上下载和使用此工具的说明。
 
 ## 了解序列号过期之前和之后的最终用户体验
 
@@ -91,7 +91,7 @@ Acrobat和Creative Cloud企业版应用程序都将开始从过期前60天开始
 
 ## 如果您需要帮助，请联系我们
 
-如果您对使用[AdobeExpiryCheck](https://helpx.adobe.com/enterprise/kb/volume-license-expiration-check.html)工具有疑问，或者需要获得有关从序列号部署迁移到指定用户的帮助，您可以选择以下选项：
+如果您对使用[AdobeExpiryCheck](https://helpx.adobe.com/cn/enterprise/kb/volume-license-expiration-check.html)工具有疑问，或者需要获得有关从序列号部署迁移到指定用户的帮助，您可以选择以下选项：
 * 向Adobe企业入门团队发送电子邮件 — **entonb@adobe.com**
 * 在[Admin Console](https://adminconsole.adobe.com/support)中打开支持票证
 * 请联系您的Adobe客户团队

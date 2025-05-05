@@ -60,7 +60,7 @@ Jim Babbage，高级解决方案顾问（数字媒体）
 
 **Dimension资源**
 
-[学习和支持](https://helpx.adobe.com/support/dimension.html)是您获取其他教程、[新增功能](https://helpx.adobe.com/dimension/user-guide.html/dimension/using/whats-new.ug.html)以及社区论坛链接的中心点。
+[学习和支持](https://helpx.adobe.com/cn/support/dimension.html)是您获取其他教程、[新增功能](https://helpx.adobe.com/cn/dimension/user-guide.html/dimension/using/whats-new.ug.html)以及社区论坛链接的中心点。
 
 **2020年10月版**
 

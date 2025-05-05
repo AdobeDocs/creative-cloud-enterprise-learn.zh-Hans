@@ -62,7 +62,7 @@ Adobe[!DNL Capture]将手机和平板电脑变为设计收藏集工具。 用户
 
 **[!DNL Capture]资源**
 
-[学习和支持](https://helpx.adobe.com/mobile-apps/help/capture-faq.html)是您获取其他教程和社区论坛链接的中心点。
+[学习和支持](https://helpx.adobe.com/cn/mobile-apps/help/capture-faq.html)是您获取其他教程和社区论坛链接的中心点。
 
 **2020年10月版**
 

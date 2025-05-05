@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## 关于指定用户许可
 
-[指定用户许可](https://helpx.adobe.com/enterprise/using/licensing.html)是一种软件许可模型，它允许将软件分配给个人而不是序列号或设备。 NUL通过高级用户身份管理为IT管理员提供企业级安全性，并允许使用Adobe Admin Console轻松部署和管理应用程序。
+[指定用户许可](https://helpx.adobe.com/cn/enterprise/using/licensing.html)是一种软件许可模型，它允许将软件分配给个人而不是序列号或设备。 NUL通过高级用户身份管理为IT管理员提供企业级安全性，并允许使用Adobe Admin Console轻松部署和管理应用程序。
 
 ## 指定用户许可的优势：
 
