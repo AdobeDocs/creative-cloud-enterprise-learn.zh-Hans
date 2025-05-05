@@ -34,7 +34,7 @@ ht-degree: 0%
       <img alt="使用Adobe[!DNL Stock]和创建逼真的3D模型 [!DNL Dimension]" src="assets/CreateRealistic3DMockupswithAdobeStockandDimension.jpg" />
    </a>
     <div>
-   <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf"><strong>使用Adobe[!DNL Stock]和[!DNL Dimension](PDF)创建逼真的3D模型</strong></a>
+   <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf"><strong>使用Adobe[!DNL Stock]和[!DNL Dimension] (PDF)创建逼真的3D模型</strong></a>
     </div>
     <em>使用Adobe[!DNL Stock]轻松将2D设计与3D模型合并，并将图形置入Adobe[!DNL Dimension]</em>中
     <br>
@@ -44,7 +44,7 @@ ht-degree: 0%
       <img alt="使用Adobe显示3D对象上的衣料设计或图案 [!DNL Dimension]" src="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.jpg" />
    </a>
     <div>
-   <a href="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.pdf"><strong>使用Adobe[!DNL Dimension](PDF)</strong></a>在3D对象上显示衣料设计或图案
+   <a href="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.pdf"><strong>使用Adobe[!DNL Dimension] (PDF)</strong></a>在3D对象上显示衣料设计或图案
     </div>
     <em>在几分钟内为最终产品创建超现实的呈现效果</em>
     <br>

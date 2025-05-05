@@ -19,7 +19,7 @@ ht-degree: 4%
 # 面向企业Tutorials的Creative Cloud {#cce-learning-hub}
 
 + [概述](overview.md)
-+ 企业{#cceoverview}的Creative Cloud
++ 企业的Creative Cloud{#cceoverview}
    + [概述](cce/overview-cce.md)
    + Tutorials{#ccetutorials}
       + [适用于内容创作者的Acrobat](cce/acrobat-content-creators.md)

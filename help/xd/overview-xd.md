@@ -24,9 +24,9 @@ Adobe XD是一款用户体验设计和原型设计工具，用于设计网站、
       <img alt="轻松使用Adobe XD中的组件" src="assets/Componentsxd.jpg" />
    </a>
     <div>
-   <a href="components.md"><strong>轻松使用Adobe XD中的[！UICONTROL组件]</strong></a>
+   <a href="components.md"><strong>轻松使用Adobe XD中的[!UICONTROL 组件]</strong></a>
     </div>
-    <em>了解如何使用[！UICONTROL组件]为您提供前所未有的灵活性，以便向设计工作流程应用速度和一致性</em>
+    <em>了解如何使用[!UICONTROL 组件]为您提供前所未有的灵活性，以便向设计工作流程应用速度和一致性</em>
     <br>
   </td>
   <td>

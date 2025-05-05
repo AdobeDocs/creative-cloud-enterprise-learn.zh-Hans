@@ -290,7 +290,7 @@ ht-degree: 0%
       <img alt="通过独特的项目和Adobe增强您的Portfolio [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="EnhanceYourPortfoliowithUniqueProjectsandAdobeStock.pdf" target="_blank"><strong>通过独特的项目和Adobe[!DNL Stock](PDF)增强您的Portfolio</strong></a>
+   <a href="EnhanceYourPortfoliowithUniqueProjectsandAdobeStock.pdf" target="_blank"><strong>通过独特的项目和Adobe[!DNL Stock] (PDF)增强您的Portfolio</strong></a>
     </div>
     <em>将Adobe[!DNL Stock]中的图像组合在一起，为您的设计项目创建一个全新的图像</em>
     <br>
@@ -300,7 +300,7 @@ ht-degree: 0%
       <img alt="利用Adobe中的运动吸引更多注意力 [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="GetMoreAttentionwithMotionfromAdobeStock.pdf" target="_blank"><strong>从Adobe[!DNL Stock](PDF)获得更多关注</strong></a>
+   <a href="GetMoreAttentionwithMotionfromAdobeStock.pdf" target="_blank"><strong>从Adobe[!DNL Stock] (PDF)获得更多关注</strong></a>
     </div>
     <em>[!DNL Capture]将摄影与Adobe[!DNL Stock]</em>中的视频相结合，让任何屏幕上您的受众注意到它
     <br>
@@ -332,7 +332,7 @@ ht-degree: 0%
       <img alt="在电子邮件中用Adobe创建动画的提示 [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="TipsforCreatingAnimationinEmailwithAdobeStock.pdf" target="_blank"><strong>使用Adobe[!DNL Stock](PDF)在电子邮件中创建动画的提示</strong></a>
+   <a href="TipsforCreatingAnimationinEmailwithAdobeStock.pdf" target="_blank"><strong>使用Adobe[!DNL Stock] (PDF)在电子邮件中创建动画的提示</strong></a>
     </div>
     <em>在Photoshop中将静态图像和视频组合在一起，为您的营销活动创建一个引人注目的动画GIF，适用于广泛的客户电子邮件应用程序</em>
     <br>
