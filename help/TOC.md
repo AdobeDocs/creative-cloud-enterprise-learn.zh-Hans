@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: f7eb9a548da23db3afcb3e6dfeb378f40181e1e0
+source-git-commit: 8ecd2f40db3e601c0a57df1812293ca869e815ea
 workflow-type: tm+mt
-source-wordcount: '806'
-ht-degree: 4%
+source-wordcount: '813'
+ht-degree: 6%
 
 ---
 
@@ -19,9 +19,9 @@ ht-degree: 4%
 # 面向企业Tutorials的Creative Cloud {#cce-learning-hub}
 
 + [概述](overview.md)
-+ 企业的Creative Cloud{#cceoverview}
++ Creative Cloud 企业版 {#cceoverview}
    + [概述](cce/overview-cce.md)
-   + Tutorials{#ccetutorials}
+   + 教程 {#ccetutorials}
       + [适用于内容创作者的Acrobat](cce/acrobat-content-creators.md)
       + [使用CC Libraries改进CC工作流](cce/cc-workflows-cc-libraries.md)
       + [驯服型焦虑](cce/taming-type-anxiety.md)
@@ -33,11 +33,11 @@ ht-degree: 4%
       + [使用Photoshop创建影院](cce/cinemagraphps.md)
       + [解码图形格式的字母汤](cce/alphabetsoup.md)
       + [尝试iPad和iPhone上的Fresco](cce/frescoworkshop.md)
-   + 快速参考指南{#ccerefguides}
+   + 快速参考指南 {#ccerefguides}
       + [CCE参考线](quick-reference/overview-ref.md)
 + [!DNL Adobe Express] {#expressoverview}
    + [概述](express/overview-express.md)
-   + How-to教程{#expresshowto}
+   + 操作方法教程 {#expresshowto}
       + [概述](express/overview-express-how-to.md)
       + [主页上的内容](express/get-started.md)
       + [快速操作简介](express/quick-actions.md)
@@ -90,7 +90,7 @@ ht-degree: 4%
       + [最大化效率：创建可重复使用的模板](express/create-templates.md)
       + [保存和共享模板](express/share-templates.md)
       + [如何使用模板](express/use-templates.md)
-   + 使用案例教程{#expressusecase}
+   + 用例教程 {#expressusecase}
       + [概述](express/overview-express-use-case-tutorials.md)
       + [为活动创建多渠道HR内容](express/create-hr-content.md)
       + [创建在线学习课程的促销视觉效果](express/promo-visual.md)
@@ -110,9 +110,10 @@ ht-degree: 4%
       + [使用Firefly创建网络研讨会海报](express/create-webinar-poster.md)
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [概述](firefly/overview-firefly.md)
-   + Tutorials{#firefly-tutorials}
+   + 教程 {#firefly-tutorials}
       + [ [!DNL Adobe Firefly]概述](firefly/overview-of-firefly.md)
       + [发现 [!DNL Adobe Firefly]](firefly/discover.md)
+      + [使用创意作品去除背景和进行替换](firefly/creative-production/background.md)
       + [加速创意构想](firefly/accelerate-ideas.md)
       + [为商品创建可重复使用的场景](firefly/reusable-scenes.md)
       + [使用主体创建自定义模型](firefly/custom-model-subject.md)
@@ -127,11 +128,11 @@ ht-degree: 4%
       + [ [!DNL Photoshop]中的横幅广告变体](firefly/web-banner-ad.md)
       + [ [!DNL Photoshop]中的生成式填充](firefly/generative-fill.md)
       + [ [!DNL Illustrator]中的生成式重新着色](firefly/generative-recolor.md)
-   + 网络研讨会{#firefly-webinars}
+   + 网络研讨会 {#firefly-webinars}
       + [尝试Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
    + [概述](stock/overview-stock.md)
-   + Tutorials{#stocktutorials}
+   + 教程 {#stocktutorials}
       + [令人惊叹的数字资产](stock/stunning-digital-assets.md)
       + [搜索Adobe [!DNL Stock] 许可历史记录](stock/searchstock.md)
       + [为Adobe [!DNL Stock] 图像添加手绘美学](stock/handdrawn.md)
@@ -158,31 +159,31 @@ ht-degree: 4%
       + [自定义Adobe [!DNL Stock] 矢量插图中的颜色](stock/customizecolors.md)
 + Adobe3D和VR {#3doverview}
    + [概述](3di/overview-3di.md)
-   + Tutorials{#3dtutorials}
+   + 教程 {#3dtutorials}
       + [3D设计和渲染](3di/substance-3d-stager.md)
       + [掌握CGI中3D光照的提示和技术](3di/mastering3dlighting.md)
       + [通过3D渲染和合成创建逼真的虚拟摄影](3di/photorealistic.md)
       + [使用 [!DNL Dimension] 和Adobe [!DNL Stock]自定义3D模型并为其添加品牌](3di/3ddimensionstock.md)
-+ Adobe视频{#videooverview}
++ Adobe视频 {#videooverview}
    + [概述](dva/overview-dva.md)
-   + Tutorials{#videotutorials}
+   + 教程 {#videotutorials}
       + [专业的动态图形模板](dva/motion-graphics-templates.md)
       + [使用Frame.io进行视频审阅](dva/video-review-frame-io.md)
-   + 快速参考指南{#videorefguides}
+   + 快速参考指南 {#videorefguides}
       + [视频参考线](dva/overview-dva-ref.md)
 + Adobe XD {#xdoverview}
    + [概述](xd/overview-xd.md)
-   + Tutorials{#xdtutorials}
+   + 教程 {#xdtutorials}
    + [在Adobe XD中轻松使用[!UICONTROL 组件]](xd/components.md)
-+ 部署和管理{#deploy}
++ 部署和管理 {#deploy}
    + [概述](deploy/overview-deploy.md)
    + [序列号过期](deploy/cceserial.md)
    + [指定用户许可](deploy/nameduserlicensing.md)
 + Adobe MAX {#max}
    + [概述](max/overview-max.md)
-   + Tutorials{#tutorials}
+   + 教程 {#tutorials}
       + [概述](max/maxtutorials.md)
-      + 桌面产品{#desktop-products}
+      + 桌面产品 {#desktop-products}
          + [Acrobat &amp; Sign](max/acrobat-sign.md)
          + [[!DNL Dimension]](max/dimension.md)
          + [Illustrator](max/illustrator.md)
@@ -190,17 +191,17 @@ ht-degree: 4%
          + [Photoshop](max/photoshop.md)
          + [[!DNL Rush]](max/rush.md)
          + [XD](max/xd.md)
-      + 移动应用程序{#mobile-apps}
+      + 移动应用程序 {#mobile-apps}
          + [[!DNL Capture]](max/capture.md)
          + [Fresco](max/fresco.md)
          + [iPad 版 Illustrator](max/illustratoripad.md)
          + [iPad 版 Photoshop](max/photoshopipad.md)
-      + 集成{#integrations}
+      + 集成 {#integrations}
          + [AEM](max/aem.md)
          + [Creative Cloud 桌面应用程序](max/creativeclouddesktopapp.md)
          + [CC Libraries](max/cclibraries.md)
          + [InDesign Server](max/indesignserver.md)
          + [[!DNL Stock]](max/stock.md)
          + [企业管理](max/enterprise.md)
-      + 实际操作项目{#project}
+      + 实际操作项目 {#project}
          + [创建您自己的人脸蒙版](max/handsonproject.md)
