@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 8ecd2f40db3e601c0a57df1812293ca869e815ea
+source-git-commit: aebe14690cd3c13019ed593c7ca3ffe284b1354b
 workflow-type: tm+mt
-source-wordcount: '813'
+source-wordcount: '817'
 ht-degree: 6%
 
 ---
@@ -113,7 +113,6 @@ ht-degree: 6%
    + 教程 {#firefly-tutorials}
       + [ [!DNL Adobe Firefly]概述](firefly/overview-of-firefly.md)
       + [发现 [!DNL Adobe Firefly]](firefly/discover.md)
-      + [使用创意作品去除背景和进行替换](firefly/creative-production/background.md)
       + [加速创意构想](firefly/accelerate-ideas.md)
       + [为商品创建可重复使用的场景](firefly/reusable-scenes.md)
       + [使用主体创建自定义模型](firefly/custom-model-subject.md)
@@ -128,6 +127,9 @@ ht-degree: 6%
       + [ [!DNL Photoshop]中的横幅广告变体](firefly/web-banner-ad.md)
       + [ [!DNL Photoshop]中的生成式填充](firefly/generative-fill.md)
       + [ [!DNL Illustrator]中的生成式重新着色](firefly/generative-recolor.md)
+   + 创意作品教程 {#firefly-creative-production}
+      + [ [!DNL Adobe Firefly] 创意作品概述](firefly/creative-production/overview-firefly-creative-production.md)
+      + [背景移除和替换](firefly/creative-production/background.md)
    + 网络研讨会 {#firefly-webinars}
       + [尝试Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
