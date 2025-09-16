@@ -1,6 +1,6 @@
 ---
 title: 创建自定义模型
-description: 了解如何训练Firefly自定义模型。 您可以在[此处](https://helpx.adobe.com/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html)阅读更多详细信息。
+description: 了解如何训练Firefly自定义模型。 您可以在[此处](https://helpx.adobe.com/cn/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html)阅读更多详细信息。
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # 创建自定义模型
 
-了解如何在Firefly中培训自定义模型，以为您组织的品牌创作全新的图像。 自定义模型允许您大规模创建相关的个性化内容。 在[此处](https://helpx.adobe.com/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html)了解有关培训自定义模型的更多信息
+了解如何在Firefly中培训自定义模型，以为您组织的品牌创作全新的图像。 自定义模型允许您大规模创建相关的个性化内容。 在[此处](https://helpx.adobe.com/cn/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html)了解有关培训自定义模型的更多信息
 
 <br> 
 
