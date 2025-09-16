@@ -1,26 +1,24 @@
 ---
 title: 创建自定义模型
-description: 了解如何在Firefly中构建自定义模型，以便为公司的品牌创作全新的图像
+description: 了解如何训练Firefly自定义模型。 您可以在[此处](https://helpx.adobe.com/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html)阅读更多详细信息。
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-19197
-index: false
-hidefromtoc: true
-source-git-commit: f68247cca10a0a3b9d9b4343bdcd2742fb8cd451
+source-git-commit: 6a6d7585b4face212ca5c26b60972d4e3a02cf1b
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
 
 # 创建自定义模型
 
-了解如何在Firefly中构建自定义模型，以使用特定类型的样式（如背景、颜色和色相）为公司品牌创作全新的图像。 自定义模型允许您大规模创建相关的个性化内容。 尝试Adobe Firefly[此处](https://firefly.adobe.com/)。
+了解如何在Firefly中培训自定义模型，以为您组织的品牌创作全新的图像。 自定义模型允许您大规模创建相关的个性化内容。 在[此处](https://helpx.adobe.com/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html)了解有关培训自定义模型的更多信息
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3474941?quality=12&learn=on&hidetitle=true&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3474931?quality=12&learn=on&hidetitle=true)
 
 ## 什么是Firefly自定义模型
 
