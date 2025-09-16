@@ -312,7 +312,7 @@ Firefly是Adobe产品中提供的新一代创意生成式AI模型，最初侧重
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/text-effects" title="文本效果" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420829?quality=12&hidetitle=true&format=jpeg&nocache=1758042897047" alt="文本效果"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3432211?quality=12&hidetitle=true&format=jpeg&nocache=1758042897047&captions=chi_hans" alt="文本效果"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
