@@ -18,7 +18,7 @@ ht-degree: 0%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3474931?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3474941?quality=12&learn=on&hidetitle=true&captions=chi_hans)
 
 ## 什么是Firefly自定义模型
 
