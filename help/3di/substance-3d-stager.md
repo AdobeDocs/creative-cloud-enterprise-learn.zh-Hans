@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 thumb: KT-11643.jpg
 exl-id: 1404fb19-2400-4523-b360-1620acd61c1b
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: 62675e7f3d07ffbdb5e431fe30d3467c3f4a2412
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -19,4 +19,4 @@ ht-degree: 0%
 
 选择下方图像以查看或下载此PDF教程。
 
-[![教程的第一页图像](assets/Substance3DStager.png){&quot;width=680&quot;}](assets/Adobe-Substance-Stager.pdf){target="blank"}
+[![教程的第一页图像](assets/Substance3DStager.png){width="680"}](assets/Adobe-Substance-Stager.pdf){target="blank"}
