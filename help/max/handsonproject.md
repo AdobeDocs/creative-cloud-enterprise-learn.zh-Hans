@@ -99,7 +99,7 @@ Patti Sokol，首席解决方案顾问（数字媒体）
 
 **单击图像以下载包含3D白色蒙版模型的[!DNL Dimension]文件**
 
-[![比较图像](../assets/whitemask_96.png)](https://stock.adobe.com/search/3d-assets?load_type=search&amp;native_visual_search=&amp;similar_content_id=&amp;is_recent_search=&amp;search_type=usertyped&amp;k=face+mask&amp;asset_id=324075591)
+[![比较图像](../assets/whitemask_96.png)](https://stock.adobe.com/search/3d-assets?load_type=search&native_visual_search=&similar_content_id=&is_recent_search=&search_type=usertyped&k=face+mask&asset_id=324075591)
 
 **演示者：**
 Patti Sokol，首席解决方案顾问（数字媒体）
