@@ -1,6 +1,6 @@
 ---
 user-guide-title: 面向企业Tutorials的Creative Cloud
-breadcrumb-title: Creative Cloud 企业版
+breadcrumb-title: 适用于企业的 Creative Cloud
 user-guide-description: 查看侧重于企业Creative Cloud的教程和快速参考指南
 solution: Creative Cloud
 feature-set: Creative Cloud
@@ -19,7 +19,7 @@ ht-degree: 6%
 # 面向企业Tutorials的Creative Cloud {#cce-learning-hub}
 
 + [概述](overview.md)
-+ Creative Cloud 企业版 {#cceoverview}
++ 适用于企业的 Creative Cloud {#cceoverview}
    + [概述](cce/overview-cce.md)
    + 教程 {#ccetutorials}
       + [适用于内容创作者的Acrobat](cce/acrobat-content-creators.md)
@@ -111,7 +111,7 @@ ht-degree: 6%
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [概述](firefly/overview-firefly.md)
    + 教程 {#firefly-tutorials}
-      + [&#x200B; [!DNL Adobe Firefly]概述](firefly/overview-of-firefly.md)
+      + [ [!DNL Adobe Firefly]概述](firefly/overview-of-firefly.md)
       + [发现 [!DNL Adobe Firefly]](firefly/discover.md)
       + [加速创意构想](firefly/accelerate-ideas.md)
       + [为商品创建可重复使用的场景](firefly/reusable-scenes.md)
@@ -123,11 +123,11 @@ ht-degree: 6%
       + [生成式重新着色](firefly/gen-recolor.md)
       + [如何使用 [!DNL Firefly]的示例](firefly/examples.md)
       + [提高创意效率](firefly/enable-creative-efficiency.md)
-      + [&#x200B; [!DNL Photoshop]中的横幅广告变体](firefly/web-banner-ad.md)
-      + [&#x200B; [!DNL Photoshop]中的生成式填充](firefly/generative-fill.md)
-      + [&#x200B; [!DNL Illustrator]中的生成式重新着色](firefly/generative-recolor.md)
+      + [ [!DNL Photoshop]中的横幅广告变体](firefly/web-banner-ad.md)
+      + [ [!DNL Photoshop]中的生成式填充](firefly/generative-fill.md)
+      + [ [!DNL Illustrator]中的生成式重新着色](firefly/generative-recolor.md)
    + 创意作品教程 {#firefly-creative-production}
-      + [&#x200B; [!DNL Adobe Firefly] 创意作品概述](firefly/creative-production/overview-firefly-creative-production.md)
+      + [ [!DNL Adobe Firefly] 创意作品概述](firefly/creative-production/overview-firefly-creative-production.md)
       + [背景移除和替换](firefly/creative-production/background.md)
    + 网络研讨会 {#firefly-webinars}
       + [尝试Adobe Firefly](firefly/webinar-experimenting.md)
@@ -165,7 +165,7 @@ ht-degree: 6%
       + [掌握CGI中3D光照的提示和技术](3di/mastering3dlighting.md)
       + [通过3D渲染和合成创建逼真的虚拟摄影](3di/photorealistic.md)
       + [使用 [!DNL Dimension] 和Adobe [!DNL Stock]自定义3D模型并为其添加品牌](3di/3ddimensionstock.md)
-+ Adobe视频 {#videooverview}
++ Adobe Video {#videooverview}
    + [概述](dva/overview-dva.md)
    + 教程 {#videotutorials}
       + [专业的动态图形模板](dva/motion-graphics-templates.md)
