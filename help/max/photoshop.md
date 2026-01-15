@@ -5,9 +5,9 @@ feature: Image Editing
 role: User
 level: Beginner, Intermediate
 exl-id: f42f9f4c-072d-496a-842a-3da503bdaca1
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
@@ -55,11 +55,11 @@ Photoshop是世界上最好的图像处理和图形设计软件，让专业人�
 **描述**
 使用Adobe Photoshop中强大的选择和颜色编辑工具来显着更改图像，以满足您的企业品牌推广需求。
 
-在本教程中，您将了解如何：
+在本教程中，了解如何：
 * 使用“对象选择”工具，可以更快速、更轻松地选择项目
 * 内容识别填充允许更好地控制源图像中的样本区域，以便更好地仿制和修补目标区域
 * 画笔可以是不同的形状，以获得更好的效果
-* Adobe Sensei有助于利用人工智能执行普通任务
+* AdobeAI利用人工智能执行普通任务
 
 **演示者：**
 高级解决方案顾问A.J Wood （数字媒体）
@@ -83,8 +83,8 @@ Photoshop是世界上最好的图像处理和图形设计软件，让专业人�
 
 **Photoshop资源**
 
-[学习和支持](https://helpx.adobe.com/cn/support/photoshop.html)是您获取其他教程、[新增功能](https://helpx.adobe.com/cn/photoshop/using/whats-new.html)以及社区论坛链接的中心点。
+[学习和支持](https://helpx.adobe.com/support/photoshop.html)是您获取其他教程、[新增功能](https://helpx.adobe.com/photoshop/using/whats-new.html)以及社区论坛链接的中心点。
 
 **2020年10月版**
 
-开始使用这些功能（以及更多功能！） 从Creative Cloud桌面应用程序下载最新更新。
+通过从Creative Cloud桌面应用程序下载最新更新，开始使用这些功能（以及更多功能！）。

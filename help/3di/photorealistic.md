@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 keywords: 虚拟摄影， 100 Global MSV
 exl-id: 6c4b13c6-aab8-4df0-bb05-eb5d90aafbe4
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
 workflow-type: tm+mt
-source-wordcount: '2387'
+source-wordcount: '2376'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ![在Adobe[!DNL Dimension]复合图像中编辑金属球体模型的平面](assets/Photorealistic_3.png)
 
-Adobe[!DNL Dimension]允许用户使用Adobe Sensei支持的匹配图像功能，直接在应用程序中将2D和3D元素无缝组合在一起。 以这种方式合成元素的主要好处是，它可以用现实中拍摄的背景图像来替换完全由3D实现的场景，从而加速推进创建逼真图像的过程。
+Adobe[!DNL Dimension]已允许用户使用AdobeAI直接在应用程序中将2D和3D元素无缝组合在一起。 以这种方式合成元素的主要好处是，它可以用现实中拍摄的背景图像来替换完全由3D实现的场景，从而加速推进创建逼真图像的过程。
 
 ![Adobe[!DNL Dimension]中的“匹配图像”功能可分析背景图像，并估算拍摄背景图像时，相机的焦距和位置](assets/Photorealistic_4.gif)
 
@@ -38,7 +38,7 @@ Adobe[!DNL Dimension]允许用户使用Adobe Sensei支持的匹配图像功能�
 
 ![客厅里一辆轻便摩托车逼真的3D合成图像](assets/Photorealistic_5.png)
 
-“匹配图像”将尝试使拍摄背景图像时的光照环境“幻化”。 尽管这样可以快速生成很棒的效果，确实令人印象深刻，但是如果将拍摄背景图像时的环境也拍摄下来，则会产生更加逼真的效果。 甚至这还是一种训练Adobe Sensei功能的方法，使其能够自己完成这样的操作。
+“匹配图像”将尝试使拍摄背景图像时的光照环境“幻化”。 尽管这样可以快速生成很棒的效果，确实令人印象深刻，但是如果将拍摄背景图像时的环境也拍摄下来，则会产生更加逼真的效果。 甚至这还是训练Adobe人工智能的方法。
 
 ![办公空间360度HDR全景图](assets/Photorealistic_6.png)
 
@@ -168,4 +168,4 @@ Ricoh Theta、Gopro MAX和Insta 360等相机可以拍摄360度全景照片。 Ri
 
 最终，现实与3D的融合取得了令人信服的效果，从而帮助最终用户轻而易举地实现目标，创作出极为逼真的图像。 亲自尝试一下我们为演示这个工作流程而创建的一些免费的[场景 [!DNL Dimension] 吧。](https://assets.adobe.com/public/3926726a-2a17-43d4-4937-6d84a4d29338)
 
-今天[下载[!DNL Dimension]的最新版本](https://creativecloud.adobe.com/apps/download/dimension)并开始构建逼真的图像。
+今天[下载](https://creativecloud.adobe.com/apps/download/dimension)的最新版本[!DNL Dimension]并开始构建逼真的图像。

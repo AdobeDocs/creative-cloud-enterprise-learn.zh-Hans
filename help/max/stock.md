@@ -5,9 +5,9 @@ feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
     <div>
    <a href="stock.md#tutorial1"><strong>使用Adobe[!DNL Stock]</strong></a>更快地查找最佳资源
     </div>
-    <em>使用由我们的人工智能引擎Adobe Sensei支持的更好、更快的搜索结果，查找完美的免版税Stock图像，以增强您的创意项目</em>
+    <em>使用由AdobeAI支持的更好、更快的搜索结果查找完美的免版税Stock图像，以增强您的创意项目</em>
     <br>
   </td>
   <td>
@@ -49,14 +49,15 @@ Adobe Experience Manager</strong></a>
 </tr>
 </table>
 
-## 使用Adobe[!DNL Stock]更快地查找最佳资源(10:49) {#tutorial1}
+## 使用Adobe[!DNL Stock] (10:49)更快地查找最佳资源 {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326951?hidetitle=true)
 
 **描述**
-使用由我们的人工智能引擎Adobe Sensei支持的更好、更快的搜索结果，查找完美的免版税Stock图像，以增强您的创意项目。
+使用由AdobeAI支持的更好、更快的搜索结果，查找完美的免版税Stock图像，以增强您的创意项目。
 
 在本教程中，您将了解如何：
+
 * 在搜索高品质图像和视频时减少时间和压力
 * 在企业范围内轻松管理和跟踪资源许可证和使用情况
 * 直接在Adobe Creative Cloud应用程序中搜索、预览和授予许可
@@ -65,7 +66,7 @@ Adobe Experience Manager</strong></a>
 
 Victoria Torres，[!DNL Stock]解决方案顾问（数字媒体）
 
-## 在AEM中搜索和许可[!DNL Stock]资源(6:46) {#tutorial2}
+## 在AEM (6[!DNL Stock])中搜索和许可:46资源 {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326952?hidetitle=true)
 
@@ -84,7 +85,7 @@ Victoria Torres，[!DNL Stock]解决方案顾问（数字媒体）
 
 **Adobe[!DNL Stock]资源**
 
-[学习和支持](https://helpx.adobe.com/cn/support/stock.html)是您获取其他教程和社区论坛链接的中心点。
+[学习和支持](https://helpx.adobe.com/support/stock.html)是您获取其他教程和社区论坛链接的中心点。
 
 **2020年10月版**
 
