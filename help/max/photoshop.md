@@ -83,7 +83,7 @@ Photoshop是世界上最好的图像处理和图形设计软件，让专业人�
 
 **Photoshop资源**
 
-[学习和支持](https://helpx.adobe.com/support/photoshop.html)是您获取其他教程、[新增功能](https://helpx.adobe.com/photoshop/using/whats-new.html)以及社区论坛链接的中心点。
+[学习和支持](https://helpx.adobe.com/cn/support/photoshop.html)是您获取其他教程、[新增功能](https://helpx.adobe.com/cn/photoshop/using/whats-new.html)以及社区论坛链接的中心点。
 
 **2020年10月版**
 
