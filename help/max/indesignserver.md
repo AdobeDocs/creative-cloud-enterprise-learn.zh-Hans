@@ -63,21 +63,21 @@ Eric Rowse，高级解决方案顾问（数字媒体）
 <table>
 <tr>
  <td>
-   <a href="https://www.adobe.com/products/indesignserver/buying-guide.html">
+   <a href="https://www.adobe.com/cn/products/indesignserver/buying-guide.html">
       <img alt="InDesign Server：购买指南" src="../assets/IDS_Thumbnail.jpg" />
    </a>
     <div>
-   <a href="https://www.adobe.com/products/indesignserver/buying-guide.html"><strong>InDesign Server：购买指南</strong></a>
+   <a href="https://www.adobe.com/cn/products/indesignserver/buying-guide.html"><strong>InDesign Server：购买指南</strong></a>
     </div>
     <em>可供内部开发人员或合作伙伴使用的资源</em>
     <br>
   </td>
   <td>
-   <a href="https://www.adobe.com/products/indesignserver/partner.html">
+   <a href="https://www.adobe.com/cn/products/indesignserver/partner.html">
       <img alt="InDesign Server：查找合作伙伴" src="../assets/IDS_Thumbnail.jpg" />
    </a>
     <div>
-   <a href="https://www.adobe.com/products/indesignserver/partner.html"><strong>InDesign Server：查找合作伙伴</strong></a>
+   <a href="https://www.adobe.com/cn/products/indesignserver/partner.html"><strong>InDesign Server：查找合作伙伴</strong></a>
     </div>
     <em>虽然您拥有内部开发的专业知识，但Adobe建议与合作伙伴合作，找到满足您需求的解决方案</em>
     <br>
@@ -94,7 +94,7 @@ Eric Rowse，高级解决方案顾问（数字媒体）
 
 **InDesign Server资源**
 
-[学习和支持](https://www.adobe.com/products/indesignserver.html)是您获取其他教程、新增功能以及社区论坛链接的中心点。
+[学习和支持](https://www.adobe.com/cn/products/indesignserver.html)是您获取其他教程、新增功能以及社区论坛链接的中心点。
 
 **2020年10月版**
 
