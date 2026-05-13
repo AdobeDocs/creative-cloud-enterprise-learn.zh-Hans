@@ -5,16 +5,20 @@ feature: Collaboration, Share, Integrations
 role: User
 level: Beginner, Intermediate
 exl-id: 7b7defa1-d2fb-4908-a605-4696fceeb467
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+TQID: https://experienceleague.adobe.com/9wkX7D0IVInCzEFg6GNjZBb6deU28Xg76wdH6Ma8OVw
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '610'
+source-wordcount: 624
 ht-degree: 0%
 
 ---
 
 # Acrobat &amp; Sign
 
-借助Adobe Document Cloud(其中包括全球领先的PDF和电子签名解决方案)，您可以将手动文档流程转变为高效的数字流程。 现在，您的团队可以在您喜爱的Microsoft和企业应用程序中，随时随地（跨多个屏幕和设备）快速处理文档、工作流和任务。
+借助Adobe Document Cloud（其中包括全球领先的PDF和电子签名解决方案），您可以将手动文档流程转变为高效的数字流程。 现在，您的团队可以在您喜爱的Microsoft和企业应用程序中，随时随地（跨多个屏幕和设备）快速处理文档、工作流和任务。
 
 ## 浏览产品Tutorials
 
@@ -80,7 +84,7 @@ ht-degree: 0%
 </tr>
 </table>
 
-## 启动Acrobat共享审阅(3:49) {#tutorial1}
+## 正在启动Acrobat共享审阅(3:49) {#tutorial1}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326777?hidetitle=true)
 
@@ -100,7 +104,7 @@ ht-degree: 0%
 解决方案顾问Dan Armstrong （数字媒体）
 Rick Borstein，解决方案咨询高级经理（数字媒体）
 
-## 使用Adobe Sign创建在线劐免Forms (5:19) {#tutorial2}
+## 使用Adobe Sign (5:19)创建在线劐免Forms {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326776?hidetitle=true)
 
@@ -116,7 +120,7 @@ Rick Borstein，解决方案咨询高级经理（数字媒体）
 Taylor Kobey，解决方案顾问（数字媒体）
 解决方案顾问Emily Palmer （数字媒体）
 
-## 使用Adobe Sign请求签名(3:21) {#tutorial3}
+## 请求使用Adobe Sign (3:21)进行签名 {#tutorial3}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326801?hidetitle=true)
 
@@ -129,7 +133,7 @@ Taylor Kobey，解决方案顾问（数字媒体）
 **演示者：**
 Rick Borstein，解决方案咨询高级经理（数字媒体）
 
-## 使用Liquid Mode在移动设备上查看菜单(2:57) {#tutorial4}
+## 使用Liquid Mode (2:57)查看移动设备上的菜单 {#tutorial4}
 
 >[!VIDEO](https://video.tv.adobe.com/v/327093?hidetitle=true)
 
@@ -144,7 +148,7 @@ Rick Borstein，解决方案咨询高级经理（数字媒体）
 **演示者：**
 Emilie Enke，解决方案副顾问（数字媒体）
 
-## 通过手机将文档扫描为PDF(5:53) {#tutorial5}
+## 从手机将文档扫描到PDF(5:53) {#tutorial5}
 
 >[!VIDEO](https://video.tv.adobe.com/v/327094?hidetitle=true)
 
@@ -152,7 +156,7 @@ Emilie Enke，解决方案副顾问（数字媒体）
 使用Adobe Scan，可以轻松捕获文档、表单、名片和白板并将其转换为高质量的AdobePDF。
 
 在本教程中，您将了解如何：
-* 使用手机捕获文档、表格、名片和白板并将其转换为高质量的AdobePDF
+* 使用手机捕获文档、表格、名片和白板并将其转换为高质量的PDF
 * 自动识别并锐化手写或印刷文本，同时移除不需要的元素，如眩光和阴影
 * 在Acrobat Reader中打开扫描的PDF以添加注释和评论，并与您的团队一起审阅
 
@@ -163,7 +167,7 @@ Emilie Enke，解决方案副顾问（数字媒体）
 
 **Acrobat和Adobe Sign资源**
 
-[学习和支持](https://helpx.adobe.com/cn/support/document-cloud.html)是您获取其他教程、[新增功能](https://helpx.adobe.com/cn/acrobat/using/whats-new.html)以及社区论坛链接的中心点。
+[学习和支持](https://helpx.adobe.com/support/document-cloud.html)是您获取其他教程、[新增功能](https://helpx.adobe.com/acrobat/using/whats-new.html)以及社区论坛链接的中心点。
 
 **2020年10月版**
 

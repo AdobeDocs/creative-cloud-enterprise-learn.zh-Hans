@@ -6,9 +6,13 @@ role: User
 level: Beginner
 jira: KT-14839
 exl-id: 09839d49-dc36-4e7a-af21-a76b5561fff6
-source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
+TQID: https://experienceleague.adobe.com/ylynJFrH3WIvd8Cp4Zw9zgv1sm2UQ5CBcIEGMUjF3kU
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: 100
 ht-degree: 0%
 
 ---
@@ -17,7 +21,7 @@ ht-degree: 0%
 
 了解如何邀请他人参与编辑、发布到Web、安排社交帖子或下载您的动画。 “Adobe Express”会根据您的情况建议导出为哪种文件格式。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433963?quality=12&learn=on&hidetitle=true&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3426985?quality=12&learn=on&hidetitle=true)
 
 ## 此系列中的其他视频
 

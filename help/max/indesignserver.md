@@ -1,20 +1,25 @@
 ---
 title: InDesign Server
-description: AdobeAdobe&amp；reg； reg； InDesign&amp；reg； Server软件提供了一个强大且可扩展的引擎，该引擎利用InDesign的设计、布局和排版功能，让您能够以编程方式创建引人入胜的自动文档
+description: Adobe&reg；InDesign&reg；服务器软件提供了一个强大且可扩展的引擎，该引擎利用InDesign的设计、布局和印刷功能，让您能够以编程方式创建引人入胜的自动文档
 feature: Graphic Design
 role: User
 level: Beginner, Intermediate
 exl-id: 534124fb-a903-430e-ad56-f124e4f024a0
-source-git-commit: 58444368f757ddf9edc292d921bb6f2ae335efa3
+TQID: https://experienceleague.adobe.com/HAo866TVRBBSKgzQunMvpXxY8XqUZXEmsT4-aIk4vXQ
+product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: 278
 ht-degree: 0%
 
 ---
 
 # InDesign Server
 
-Adobe InDesign® Server软件提供了一个强大且可扩展的引擎，该引擎利用InDesign的设计、布局和排版功能，让您能够以编程方式创建引人入胜的自动文档。
+® Server软件提供了一个强大且可扩展的引擎，该引擎利用InDesign的设计、布局和排版功能，让您能够以编程方式创建引人入胜的自动文档。
 
 ## 浏览产品Tutorials
 
@@ -63,21 +68,21 @@ Eric Rowse，高级解决方案顾问（数字媒体）
 <table>
 <tr>
  <td>
-   <a href="https://www.adobe.com/cn/products/indesignserver/buying-guide.html">
+   <a href="https://www.adobe.com/products/indesignserver/buying-guide.html">
       <img alt="InDesign Server：购买指南" src="../assets/IDS_Thumbnail.jpg" />
    </a>
     <div>
-   <a href="https://www.adobe.com/cn/products/indesignserver/buying-guide.html"><strong>InDesign Server：购买指南</strong></a>
+   <a href="https://www.adobe.com/products/indesignserver/buying-guide.html"><strong>InDesign Server：购买指南</strong></a>
     </div>
     <em>可供内部开发人员或合作伙伴使用的资源</em>
     <br>
   </td>
   <td>
-   <a href="https://www.adobe.com/cn/products/indesignserver/partner.html">
+   <a href="https://www.adobe.com/products/indesignserver/partner.html">
       <img alt="InDesign Server：查找合作伙伴" src="../assets/IDS_Thumbnail.jpg" />
    </a>
     <div>
-   <a href="https://www.adobe.com/cn/products/indesignserver/partner.html"><strong>InDesign Server：查找合作伙伴</strong></a>
+   <a href="https://www.adobe.com/products/indesignserver/partner.html"><strong>InDesign Server：查找合作伙伴</strong></a>
     </div>
     <em>虽然您拥有内部开发的专业知识，但Adobe建议与合作伙伴合作，找到满足您需求的解决方案</em>
     <br>
@@ -94,7 +99,7 @@ Eric Rowse，高级解决方案顾问（数字媒体）
 
 **InDesign Server资源**
 
-[学习和支持](https://www.adobe.com/cn/products/indesignserver.html)是您获取其他教程、新增功能以及社区论坛链接的中心点。
+[学习和支持](https://www.adobe.com/products/indesignserver.html)是您获取其他教程、新增功能以及社区论坛链接的中心点。
 
 **2020年10月版**
 
