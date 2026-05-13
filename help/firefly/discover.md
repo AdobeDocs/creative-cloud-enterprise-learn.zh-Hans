@@ -22,7 +22,7 @@ ht-degree: 4%
 
 # 发现Adobe Firefly
 
-使用专为商业安全用途和创新而设计的生成式AI，探索[创造力的未来](https://www.adobe.com/products/firefly/discover/how-ai-changes-creative-work.html)的Adobe Firefly。 尝试Adobe Firefly[此处](https://firefly.adobe.com/?locale=cn)。
+使用专为商业安全用途和创新而设计的生成式AI，探索[创造力的未来](https://www.adobe.com/cn/products/firefly/discover/how-ai-changes-creative-work.html)的Adobe Firefly。 尝试Adobe Firefly[此处](https://firefly.adobe.com/?locale=cn)。
 
 <br> 
 

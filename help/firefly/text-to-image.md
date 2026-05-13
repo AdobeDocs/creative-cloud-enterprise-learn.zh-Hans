@@ -22,7 +22,7 @@ ht-degree: 9%
 
 # 文字生成图片
 
-了解如何根据文本描述创建图像。 根据您的特定需求[生成图像](https://www.adobe.com/products/firefly/features/text-to-image.html)允许您创建个性化且鼓舞人心的内容。 尝试Adobe Firefly[此处](https://firefly.adobe.com/?locale=cn)。
+了解如何根据文本描述创建图像。 根据您的特定需求[生成图像](https://www.adobe.com/cn/products/firefly/features/text-to-image.html)允许您创建个性化且鼓舞人心的内容。 尝试Adobe Firefly[此处](https://firefly.adobe.com/?locale=cn)。
 
 <br> 
 
