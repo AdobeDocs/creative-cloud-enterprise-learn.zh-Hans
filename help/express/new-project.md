@@ -24,7 +24,7 @@ ht-degree: 0%
 
 了解如何使用特定的画布大小（例如Instagram方形帖子）从头开始创建全新的项目。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426931?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3441437?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 ## 此系列中的其他视频
 

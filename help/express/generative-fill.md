@@ -24,7 +24,7 @@ ht-degree: 0%
 
 了解如何使用由Adobe Firefly提供支持的生成式填充添加和删除图像中的元素。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427020?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437842?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 ## 此系列中的其他视频
 
