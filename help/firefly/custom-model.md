@@ -5,9 +5,20 @@ feature: Graphic Design, Gen AI
 role: User
 level: Beginner
 jira: KT-19197
-source-git-commit: 8d11464360f33abad7e801be57c089eaacbbf8d7
+exl-id: a5719996-be82-4847-b5c2-2a5909ef43ea
+TQID: https://experienceleague.adobe.com/ll-CZjLQZu--txPq49ZIv-sMxt6pfLPhJX9KDkj4jAQ
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: 211
 ht-degree: 0%
 
 ---
@@ -18,7 +29,7 @@ ht-degree: 0%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3474941?quality=12&learn=on&hidetitle=true&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3474941?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 ## 什么是Firefly自定义模型
 
@@ -30,7 +41,7 @@ ht-degree: 0%
 
 **品牌一致设计**&#x200B;快速创建与您的品牌美学紧密相关的视觉效果。
 
-**角色主题**&#x200B;跨场景、光照、姿势等保持基于角色的图像的一致性。 减少开发时间。
+**角色主题**&#x200B;跨场景、光照、姿势等保持基于角色的图像的一致性。减少开发时间。
 
 **概念迭代速度更快**&#x200B;通过更快地展示符合品牌的创意和概念，加快利益相关者之间的协调速度。
 

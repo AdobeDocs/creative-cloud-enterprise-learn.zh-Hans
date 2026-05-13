@@ -6,9 +6,21 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6942
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-source-git-commit: 64f061905203642776cd23e18a4a9f379a95fb83
+TQID: https://experienceleague.adobe.com/eeIW5Efbwzp7NrLzxzLuNAMj5l-lE3Zg0XqfLFnHpGQ
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2:
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+subfeature_v2:
+  - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '1394'
+source-wordcount: 1412
 ht-degree: 1%
 
 ---
@@ -167,7 +179,7 @@ ht-degree: 1%
 </tr>
 </table>
 
-### Creative Cloud 企业版
+### 适用于企业的 Creative Cloud
 
 <table style="table-layout:fixed">
 <tr>
@@ -193,7 +205,7 @@ ht-degree: 1%
   </td>
   <td>
    <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf">
-      <img alt="从Lightroom Web到InDesign(通过Creative Cloud)" src="assets/FromLightroomWebtoInDesignviaCreativeCloud.jpg" />
+      <img alt="从Lightroom Web到InDesign（通过Creative Cloud）" src="assets/FromLightroomWebtoInDesignviaCreativeCloud.jpg" />
    </a>
     <div>
    <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>从Lightroom Web到InDesign，通过Creative Cloud(PDF)</strong></a>
@@ -247,10 +259,10 @@ ht-degree: 1%
 <tr>
  <td>
    <a href="frescoworkshop.md">
-      <img alt="试试iPad(和iPhone)上的Fresco" src="assets/Fresco.png" />
+      <img alt="试试iPad（和iPhone）上的Fresco" src="assets/Fresco.png" />
    </a>
     <div>
-   <a href="frescoworkshop.md"><strong>尝试在iPad(和iPhone)上Fresco</strong></a>
+   <a href="frescoworkshop.md"><strong>尝试在iPad（和iPhone）上Fresco</strong></a>
     </div>
     <em>在这个15分钟的动手研讨会中，使用Adobe Fresco探索数字绘图和绘画的新世界</em>
     <br>
@@ -273,7 +285,7 @@ ht-degree: 1%
 </tr>
 </table>
 
-### Fonts
+### 字体
 
 <table  style="table-layout:fixed">
 <tr>

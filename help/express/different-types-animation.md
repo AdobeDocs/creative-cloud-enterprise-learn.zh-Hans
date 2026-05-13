@@ -6,9 +6,16 @@ role: User
 level: Beginner
 jira: KT-14832
 exl-id: 9675124e-a1d4-47c4-be4f-704b7c43590f
-source-git-commit: 5067e02da7d74d366c797e81a6a5d0ee9ac69feb
+TQID: https://experienceleague.adobe.com/zTBbsyfVc4UlV3J84LtT4Lc-16dni-T3CDI1TAd-cLs
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: 96
 ht-degree: 0%
 
 ---
@@ -17,7 +24,7 @@ ht-degree: 0%
 
 了解可以添加到项目中的三种不同类型的动画（开场、循环和结尾动画），让它们更具吸引力。 每个动画都有不同的样式可供预览和选择。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433952?quality=12&learn=on&hidetitle=true&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3433952?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 ## 此系列中的其他视频
 

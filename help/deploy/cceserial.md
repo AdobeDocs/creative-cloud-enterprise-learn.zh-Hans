@@ -5,16 +5,24 @@ role: Admin
 level: Beginner, Intermediate
 feature: Deploy
 exl-id: bc457be0-86dc-4e8a-b6b2-34bc76af2d21
-source-git-commit: c57212d39b2e613964bc15d2967a1958dc0c8c8e
+TQID: https://experienceleague.adobe.com/itIkGEEJ-V0HT-g0WMngm-zZbcFdYiITBFofwKUHTMY
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '840'
-ht-degree: 1%
+source-wordcount: 871
+ht-degree: 4%
 
 ---
 
 # 了解企业和Acrobat序列号过期的Creative Cloud
 
-过去，Adobe会使用我们的应用程序(即，Creative Suite、企业Creative Cloud、Acrobat XI、Acrobat DC)向企业定期许可协议(ETLA)上的客户颁发序列号。 这些序列号确实有一个过期日期。 一旦超过过期日期，产品将不再有效，因此务必要在序列号过期之前规划迁移。 本页概述为确保您的最终用户能够继续访问其Adobe应用程序和服务而必须采取的步骤。
+过去，Adobe会使用我们的应用程序（即，Creative Suite、企业Creative Cloud、Acrobat XI、Acrobat DC）向企业定期许可协议(ETLA)上的客户颁发序列号。 这些序列号确实有一个过期日期。 一旦超过过期日期，产品将不再有效，因此务必要在序列号过期之前规划迁移。 本页概述为确保您的最终用户能够继续访问其Adobe应用程序和服务而必须采取的步骤。
 
 ## 检查序列号的到期日期
 
@@ -44,7 +52,7 @@ Acrobat和Creative Cloud企业版应用程序都将开始从过期前60天开始
 
 以下信息概述了最终用户体验。 下面是一段简短的视频，随后将回顾最终用户体验。
 
->[!VIDEO](https://video.tv.adobe.com/v/3441288?hidetitle=true&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3441288?captions=chi_hans&hidetitle=true)
 
 **过期前**
 
@@ -93,5 +101,5 @@ Acrobat和Creative Cloud企业版应用程序都将开始从过期前60天开始
 
 如果您对使用[AdobeExpiryCheck](https://helpx.adobe.com/cn/enterprise/kb/volume-license-expiration-check.html)工具有疑问，或者需要获得有关从序列号部署迁移到指定用户的帮助，您可以选择以下选项：
 * 向Adobe企业入门团队发送电子邮件 — **entonb@adobe.com**
-* 在[Admin Console](https://adminconsole.adobe.com/support)中打开支持票证
+* 在[Admin Console](https://adminconsole.adobe.com/support/?locale=zh-Hans)中打开支持票证
 * 请联系您的Adobe客户团队

@@ -6,9 +6,19 @@ role: User
 level: Beginner, Intermediate
 keywords: 3D光照，600全局MSV
 exl-id: 05eb729e-35b8-46e2-9c56-590250097d0b
-source-git-commit: e39efe0f7afc4e3e970ea7f2df57b51bf17123a6
+TQID: https://experienceleague.adobe.com/CZbD3FV-y-j2LJMhRfGB13pTkcb9t7dETQmvIr-anwQ
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2:
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '2722'
+source-wordcount: 2754
 ht-degree: 0%
 
 ---
@@ -56,7 +66,7 @@ ht-degree: 0%
 
 ![照片、3D摄影棚场景和抽象3D场景的环境光示例](assets/Mastering3dlighting_5.jpg)
 
-在[[!DNL Dimension]](https://www.adobe.com/products/dimension.html)中创建新场景时，将为您创建默认环境光。 这就是您能够立即看到场景中所有东西的原因。 Adobe[!DNL Dimension]入门资源包括一定数量的环境光，您可以立即试用。 此外，[Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type：3d]=1&amp;filters[3d_type_id][0]=2&amp;load_type=3d+lp)提供了大量精选的环境光。
+在[[!DNL Dimension]](https://www.adobe.com/products/dimension.html)中创建新场景时，将为您创建默认环境光。 这就是您能够立即看到场景中所有东西的原因。 Adobe[!DNL Dimension]入门资源包括一定数量的环境光，您可以立即试用。 此外，[Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type：3d]=1&filters[3d_type_id][0]=2&load_type=3d+lp)提供了大量精选的环境光。
 
 环境光可以产生极为逼真的效果，并为您节省大量时间。 为了手动实现类似效果，您必须在3D空间中实际创建整个环境（包括各种光源），这是一项大工程。
 

@@ -5,9 +5,20 @@ feature: Licensable Assets
 role: User
 level: Beginner, Intermediate
 exl-id: 0a0f5cf8-0326-48fc-a833-0f531617cc41
-source-git-commit: f8798caa7e5d44b8289d16d65b5dd12f28abe3ea
+TQID: https://experienceleague.adobe.com/OO15ggOXFGIVvTH96F-dTOek9zhYq64kOVne2jE4KSk
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: da3860b0-d637-47df-bef0-273751180266
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: 330
 ht-degree: 0%
 
 ---
@@ -27,7 +38,7 @@ ht-degree: 0%
     <div>
    <a href="stock.md#tutorial1"><strong>使用Adobe[!DNL Stock]</strong></a>更快地查找最佳资源
     </div>
-    <em>使用由AdobeAI支持的更好、更快的搜索结果查找完美的免版税Stock图像，以增强您的创意项目</em>
+    <em>使用由Adobe AI提供支持的更好、更快的搜索结果，查找完美的免版税Stock图像，以增强您的创意项目</em>
     <br>
   </td>
   <td>
@@ -54,7 +65,7 @@ Adobe Experience Manager</strong></a>
 >[!VIDEO](https://video.tv.adobe.com/v/326951?hidetitle=true)
 
 **描述**
-使用由AdobeAI支持的更好、更快的搜索结果，查找完美的免版税Stock图像，以增强您的创意项目。
+使用由Adobe AI提供支持的更好、更快的搜索结果，查找完美的免版税Stock图像，以增强您的创意项目。
 
 在本教程中，您将了解如何：
 
@@ -66,7 +77,7 @@ Adobe Experience Manager</strong></a>
 
 Victoria Torres，[!DNL Stock]解决方案顾问（数字媒体）
 
-## 在AEM (6[!DNL Stock])中搜索和许可:46资源 {#tutorial2}
+## 在AEM (6:46)中搜索和许可[!DNL Stock]资源 {#tutorial2}
 
 >[!VIDEO](https://video.tv.adobe.com/v/326952?hidetitle=true)
 
@@ -89,4 +100,4 @@ Victoria Torres，[!DNL Stock]解决方案顾问（数字媒体）
 
 **2020年10月版**
 
-通过从Creative Cloud桌面应用程序下载最新更新，开始使用这些功能（以及更多功能！）。
+开始使用这些功能（以及更多功能！） 从Creative Cloud桌面应用程序下载最新更新。
