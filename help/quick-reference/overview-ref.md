@@ -7,11 +7,19 @@ level: Beginner, Intermediate
 jira: KT-7013
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
 TQID: https://experienceleague.adobe.com/aY5x7jWyzTgckibWDj7BcdvqyZR1yy4GUQOikhFWQRA
-product_v2: id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
-feature_v2: id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
-subfeature_v2: id: aaae4770-bc47-47c2-876b-1fbcb533c42aid: b29e1156-4668-4c0c-84e3-9347e94225edid: d1878b8b-dcd8-4fb4-9ec7-8030a8c54669
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+feature_v2:
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+subfeature_v2:
+  - id: aaae4770-bc47-47c2-876b-1fbcb533c42a
+  - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+  - id: d1878b8b-dcd8-4fb4-9ec7-8030a8c54669
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
 source-wordcount: 1212
@@ -296,7 +304,7 @@ ht-degree: 0%
       <img alt="通过独特的项目和Adobe增强您的Portfolio [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="EnhanceYourPortfoliowithUniqueProjectsandAdobeStock.pdf" target="_blank"><strong>通过独特的项目和Adobe[!DNL Stock](PDF)增强您的Portfolio</strong></a>
+   <a href="EnhanceYourPortfoliowithUniqueProjectsandAdobeStock.pdf" target="_blank"><strong>通过独特的项目和Adobe[!DNL Stock] (PDF)增强您的Portfolio</strong></a>
     </div>
     <em>将Adobe[!DNL Stock]中的图像组合在一起，为您的设计项目创建一个全新的图像</em>
     <br>
@@ -306,7 +314,7 @@ ht-degree: 0%
       <img alt="利用Adobe中的运动吸引更多注意力 [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="GetMoreAttentionwithMotionfromAdobeStock.pdf" target="_blank"><strong>从Adobe[!DNL Stock](PDF)获得更多关注</strong></a>
+   <a href="GetMoreAttentionwithMotionfromAdobeStock.pdf" target="_blank"><strong>从Adobe[!DNL Stock] (PDF)获得更多关注</strong></a>
     </div>
     <em>[!DNL Capture]将摄影与Adobe[!DNL Stock]</em>中的视频相结合，让任何屏幕上您的受众注意到它
     <br>
@@ -338,7 +346,7 @@ ht-degree: 0%
       <img alt="在电子邮件中用Adobe创建动画的提示 [!DNL Stock]" src="../assets/acrobat_PDF_96.png" />
    </a>
     <div>
-   <a href="TipsforCreatingAnimationinEmailwithAdobeStock.pdf" target="_blank"><strong>使用Adobe[!DNL Stock](PDF)在电子邮件中创建动画的提示</strong></a>
+   <a href="TipsforCreatingAnimationinEmailwithAdobeStock.pdf" target="_blank"><strong>使用Adobe[!DNL Stock] (PDF)在电子邮件中创建动画的提示</strong></a>
     </div>
     <em>在Photoshop中将静态图像和视频组合在一起，为您的营销活动创建一个引人注目的动画GIF，适用于广泛的客户电子邮件应用程序</em>
     <br>
