@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: c52f7a40d98aa5aef552a13bea2d3e5f5a89193e
+source-git-commit: 71056d443a4a6b29978d55211ea961c6aee2ebe4
 workflow-type: tm+mt
-source-wordcount: '808'
-ht-degree: 6%
+source-wordcount: '761'
+ht-degree: 4%
 
 ---
 
@@ -165,7 +165,7 @@ ht-degree: 6%
       + [掌握CGI中3D光照的提示和技术](3di/mastering3dlighting.md)
       + [通过3D渲染和合成创建逼真的虚拟摄影](3di/photorealistic.md)
       + [使用 [!DNL Dimension] 和Adobe [!DNL Stock]自定义3D模型并为其添加品牌](3di/3ddimensionstock.md)
-+ Adobe Video {#videooverview}
++ Adobe视频 {#videooverview}
    + [概述](dva/overview-dva.md)
    + 教程 {#videotutorials}
       + [专业的动态图形模板](dva/motion-graphics-templates.md)
@@ -180,29 +180,3 @@ ht-degree: 6%
    + [概述](deploy/overview-deploy.md)
    + [序列号过期](deploy/cceserial.md)
    + [指定用户许可](deploy/nameduserlicensing.md)
-+ Adobe MAX {#max}
-   + [概述](max/overview-max.md)
-   + 教程 {#tutorials}
-      + [概述](max/maxtutorials.md)
-      + 桌面产品 {#desktop-products}
-         + [Acrobat &amp; Sign](max/acrobat-sign.md)
-         + [[!DNL Dimension]](max/dimension.md)
-         + [Illustrator](max/illustrator.md)
-         + [InDesign](max/indesign.md)
-         + [Photoshop](max/photoshop.md)
-         + [[!DNL Rush]](max/rush.md)
-         + [XD](max/xd.md)
-      + 移动应用程序 {#mobile-apps}
-         + [[!DNL Capture]](max/capture.md)
-         + [Fresco](max/fresco.md)
-         + [iPad 版 Illustrator](max/illustratoripad.md)
-         + [iPad 版 Photoshop](max/photoshopipad.md)
-      + 集成 {#integrations}
-         + [AEM](max/aem.md)
-         + [Creative Cloud 桌面应用程序](max/creativeclouddesktopapp.md)
-         + [CC Libraries](max/cclibraries.md)
-         + [InDesign Server](max/indesignserver.md)
-         + [[!DNL Stock]](max/stock.md)
-         + [企业管理](max/enterprise.md)
-      + 实际操作项目 {#project}
-         + [创建您自己的人脸蒙版](max/handsonproject.md)
