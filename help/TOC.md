@@ -8,9 +8,9 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 71056d443a4a6b29978d55211ea961c6aee2ebe4
+source-git-commit: 5bbcac38cff2c03e96c6342e49de07231c173d9c
 workflow-type: tm+mt
-source-wordcount: '761'
+source-wordcount: '782'
 ht-degree: 4%
 
 ---
@@ -111,7 +111,7 @@ ht-degree: 4%
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [概述](firefly/overview-firefly.md)
    + 教程 {#firefly-tutorials}
-      + [&#x200B; [!DNL Adobe Firefly]概述](firefly/overview-of-firefly.md)
+      + [ [!DNL Adobe Firefly]概述](firefly/overview-of-firefly.md)
       + [发现 [!DNL Adobe Firefly]](firefly/discover.md)
       + [加速创意构想](firefly/accelerate-ideas.md)
       + [为商品创建可重复使用的场景](firefly/reusable-scenes.md)
@@ -123,12 +123,19 @@ ht-degree: 4%
       + [生成式重新着色](firefly/gen-recolor.md)
       + [如何使用 [!DNL Firefly]的示例](firefly/examples.md)
       + [提高创意效率](firefly/enable-creative-efficiency.md)
-      + [&#x200B; [!DNL Photoshop]中的横幅广告变体](firefly/web-banner-ad.md)
-      + [&#x200B; [!DNL Photoshop]中的生成式填充](firefly/generative-fill.md)
-      + [&#x200B; [!DNL Illustrator]中的生成式重新着色](firefly/generative-recolor.md)
+      + [ [!DNL Photoshop]中的横幅广告变体](firefly/web-banner-ad.md)
+      + [ [!DNL Photoshop]中的生成式填充](firefly/generative-fill.md)
+      + [ [!DNL Illustrator]中的生成式重新着色](firefly/generative-recolor.md)
    + 创意作品教程 {#firefly-creative-production}
-      + [&#x200B; [!DNL Adobe Firefly] 创意作品概述](firefly/creative-production/overview-firefly-creative-production.md)
+      + [ [!DNL Adobe Firefly] 创意作品概述](firefly/creative-production/overview-firefly-creative-production.md)
       + [背景移除和替换](firefly/creative-production/background.md)
+   + 图形教程 {#firefly-graph}
+      + [ [!DNL Adobe Firefly Graph]概述](firefly/graph/overview-firefly-graph.md)
+      + [什么是Firefly图表？](firefly/graph/what-is-firefly-graph.md)
+      + [Firefly图关键概念](firefly/graph/key-concepts.md)
+      + [创建您的第一个图形](firefly/graph/create-your-first-graph.md)
+      + [自定义模板](firefly/graph/customize-template.md)
+      + [模板库](firefly/graph/template-library.md)
    + 网络研讨会 {#firefly-webinars}
       + [尝试Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
