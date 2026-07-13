@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: eaa388c2919c505dc2148b1d09705d2109a995c1
+source-git-commit: f940c165582a647204f888b9181d9b2a152b13bf
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 <tr>
  <td>
    <a href="what-is-firefly-graph.md">
-      <img alt="糖果盘" src="../assets/graph-1.png" />
+      <img alt="化妆罐" src="../assets/graph-1.png" />
    </a>
     <div>
    <a href="what-is-firefly-graph.md"><strong>什么是Firefly图形？</strong></a>
@@ -36,7 +36,7 @@ ht-degree: 0%
   </td>
   <td>
    <a href="key-concepts.md">
-      <img alt="折纸" src="../assets/graph-2.png" />
+      <img alt="带背景的化妆罐" src="../assets/graph-2.png" />
    </a>
     <div>
    <a href="key-concepts.md"><strong>关键概念</strong></a>
@@ -46,7 +46,7 @@ ht-degree: 0%
   </td>
   <td>
    <a href="create-your-first-graph.md">
-      <img alt="化妆罐" src="../assets/graph-3.png" />
+      <img alt="化妆罐新背景" src="../assets/graph-3.png" />
    </a>
     <div>
    <a href="create-your-first-graph.md"><strong>创建您的第一个图形</strong></a>
@@ -56,7 +56,7 @@ ht-degree: 0%
   </td>
   <td>
    <a href="customize-template.md">
-      <img alt="蜜蜂" src="../assets/graph-4.png" />
+      <img alt="妆容罐不同背景" src="../assets/graph-4.png" />
    </a>
     <div>
    <a href="customize-template.md"><strong>自定义模板</strong></a>
@@ -68,7 +68,7 @@ ht-degree: 0%
 <tr>
  <td>
    <a href="template-library.md">
-      <img alt="数字书籍" src="../assets/graph-5.png" />
+      <img alt="带有最终背景的化妆罐" src="../assets/graph-5.png" />
    </a>
     <div>
    <a href="template-library.md"><strong>模板库</strong></a>
