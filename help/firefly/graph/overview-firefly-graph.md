@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: acbfa0d157359d805ee6f5af352799cf5d0ee7d9
+source-git-commit: eaa388c2919c505dc2148b1d09705d2109a995c1
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -81,9 +81,9 @@ ht-degree: 0%
       <img alt="数字书籍" src="../assets/graph-introducing.png" />
    </a>
     <div>
-   <a href="introducing-graph.md"><strong>正在引入Firefly图形</strong></a>
+   <a href="introducing-graph.md"><strong>Firefly图形网络研讨会简介</strong></a>
     </div>
-    <em>了解Firefly完全可视的工作流系统图形</em>
+    <em>在此网络研讨会中，全面了解Firefly完全可视化的工作流程系统图形</em>
     
   </td>
   <td>
