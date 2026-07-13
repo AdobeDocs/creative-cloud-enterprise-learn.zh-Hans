@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 886df44d056da6185d73fb5ad8a85c4454479bed
+source-git-commit: 595c941c757c6b87e779ba406136d62c0172c3a0
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 1%
@@ -29,8 +29,6 @@ ht-degree: 1%
 1. 右键单击空白画布，选择&#x200B;**+新节点**，然后在对话框中选择&#x200B;**渐变蒙版**。
 1. 右键单击空白画布，选择&#x200B;**+新节点**，然后在对话框中选择&#x200B;**应用蒙版**。
 
-
-
 ## 下一步
 
-是否从模板开始？ 前往[4。 自定义模板](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)，使其反映您自己的简介。
+是否从模板开始？ 前往[4。 自定义模板](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)，使其反映您自己的简介。

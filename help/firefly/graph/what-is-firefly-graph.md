@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
+source-git-commit: 44e0b0e7a70592689a7bf2940656532e60ac9f61
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
@@ -40,4 +40,4 @@ Firefly图的工作方式不同。 您构建的是&#x200B;**图形**，而不是
 
 ## 下一步
 
-当您对想法感到满意后，请转到[2。 关键概念：节点、连接和模板](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts)，用于了解将用于实际构建图表的词汇。
+当您对想法感到满意后，请转到[2。 关键概念：节点、连接和模板](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts)，用于了解将用于实际构建图表的词汇。
