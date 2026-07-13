@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 595c941c757c6b87e779ba406136d62c0172c3a0
+source-git-commit: 4dd919a2b06f0852dc0010b0f79d5a0b2eae4c1a
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '193'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,10 @@ ht-degree: 1%
    ![带映像的节点](../assets/node-image.png)
 1. 右键单击空白画布，选择&#x200B;**+新节点**，然后在对话框中选择&#x200B;**渐变蒙版**。
 1. 右键单击空白画布，选择&#x200B;**+新节点**，然后在对话框中选择&#x200B;**应用蒙版**。
+1. 将&#x200B;**输入图像**&#x200B;节点输出插入&#x200B;**应用蒙版**&#x200B;图像节点输入。
+1. 将&#x200B;**渐变蒙版**&#x200B;输出插入&#x200B;**应用蒙版**蒙版/通道输入。
+   ![插件节点](../assets/plug-in.png)
 
 ## 下一步
 
-是否从模板开始？ 前往[4。 自定义模板](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)，使其反映您自己的简介。
+是否从模板开始？ 前往[4。 自定义模板](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)，使其反映您自己的简介。
