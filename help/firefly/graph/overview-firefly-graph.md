@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: 44e0b0e7a70592689a7bf2940656532e60ac9f61
+source-git-commit: 0337f4efb23d03491119d4c91aeb71c6a20934fb
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 2%
@@ -52,23 +52,23 @@ ht-degree: 2%
     
   </td>
   <td>
-   <a href="customize-template.md">
-      <img alt="妆容罐不同背景" src="../assets/graph-4.png" />
-   </a>
-    <div>
-   <a href="customize-template.md"><strong>4. 自定义模板</strong></a></div>
-    <em>使模板体现您自己的想法</em>
-    
-  </td>
-</tr>
-<tr>
- <td>
    <a href="template-library.md">
       <img alt="带有最终背景的化妆罐" src="../assets/graph-5.png" />
    </a>
     <div>
-   <a href="template-library.md"><strong>5. 模板库</strong></a></div>
+   <a href="template-library.md"><strong>4. 模板库</strong></a></div>
     <em>浏览所有模板，每个模板都有描述和链接</em>
+    
+  </td>
+</tr>
+<tr>
+  <td>
+   <a href="customize-template.md">
+      <img alt="妆容罐不同背景" src="../assets/graph-4.png" />
+   </a>
+    <div>
+   <a href="customize-template.md"><strong>5. 自定义模板</strong></a></div>
+    <em>使模板体现您自己的想法</em>
     
   </td>
   <td>

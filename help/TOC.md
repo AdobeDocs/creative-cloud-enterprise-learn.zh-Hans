@@ -8,7 +8,7 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 4dd919a2b06f0852dc0010b0f79d5a0b2eae4c1a
+source-git-commit: 719a2d0ed899fc0ebec604802f5480085c67df7b
 workflow-type: tm+mt
 source-wordcount: '789'
 ht-degree: 3%
@@ -111,7 +111,7 @@ ht-degree: 3%
 + [!DNL Adobe Firefly] {#fireflyoverview}
    + [概述](firefly/overview-firefly.md)
    + 教程 {#firefly-tutorials}
-      + [&#x200B; [!DNL Adobe Firefly]概述](firefly/overview-of-firefly.md)
+      + [ [!DNL Adobe Firefly]概述](firefly/overview-of-firefly.md)
       + [发现 [!DNL Adobe Firefly]](firefly/discover.md)
       + [加速创意构想](firefly/accelerate-ideas.md)
       + [为商品创建可重复使用的场景](firefly/reusable-scenes.md)
@@ -123,11 +123,11 @@ ht-degree: 3%
       + [生成式重新着色](firefly/gen-recolor.md)
       + [如何使用 [!DNL Firefly]的示例](firefly/examples.md)
       + [提高创意效率](firefly/enable-creative-efficiency.md)
-      + [&#x200B; [!DNL Photoshop]中的横幅广告变体](firefly/web-banner-ad.md)
-      + [&#x200B; [!DNL Photoshop]中的生成式填充](firefly/generative-fill.md)
-      + [&#x200B; [!DNL Illustrator]中的生成式重新着色](firefly/generative-recolor.md)
+      + [ [!DNL Photoshop]中的横幅广告变体](firefly/web-banner-ad.md)
+      + [ [!DNL Photoshop]中的生成式填充](firefly/generative-fill.md)
+      + [ [!DNL Illustrator]中的生成式重新着色](firefly/generative-recolor.md)
    + 创意作品教程 {#firefly-creative-production}
-      + [&#x200B; [!DNL Adobe Firefly] 创意作品概述](firefly/creative-production/overview-firefly-creative-production.md)
+      + [ [!DNL Adobe Firefly] 创意作品概述](firefly/creative-production/overview-firefly-creative-production.md)
       + [背景移除和替换](firefly/creative-production/background.md)
    + {hide-from-toc}个图形教程 {#firefly-graph}
       + {hide-from-toc}[Adobe Firefly图形概述](firefly/graph/overview-firefly-graph.md)

@@ -1,5 +1,5 @@
 ---
-title: ​5. Firefly图形模板库
+title: ​4. Firefly图形模板库
 description: 浏览现成的Firefly图模板，您可以打开这些模板并根据自己的项目进行调整
 feature: Image Editing, Gen AI
 role: User
@@ -7,14 +7,14 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 44e0b0e7a70592689a7bf2940656532e60ac9f61
+source-git-commit: 0337f4efb23d03491119d4c91aeb71c6a20934fb
 workflow-type: tm+mt
 source-wordcount: '274'
 ht-degree: 1%
 
 ---
 
-# &#x200B;5. Firefly图形模板库
+# &#x200B;4. Firefly图形模板库
 
 每个模板都是有人已经构建的完整图表。 打开一个文件查看其具体工作原理，然后使用您自己的输入内容进行交换，使其成为您自己的文件。
 
