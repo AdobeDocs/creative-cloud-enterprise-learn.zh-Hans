@@ -1,5 +1,5 @@
 ---
-title: 自定义模板
+title: ​4. 自定义模板
 description: 一份简短的清单，用于将Firefly图表模板转变为反映您自己的简短的资源和资源的工作流程
 feature: Image Editing, Gen AI
 role: User
@@ -7,14 +7,14 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 6d02049085cd1077b309004ce6da04b45b43384e
+source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 2%
+source-wordcount: '147'
+ht-degree: 3%
 
 ---
 
-# 自定义模板
+# &#x200B;4. 自定义模板
 
 每个模板都附带示例输入和通用用例。 仅当它反映您自己的摘要、资源和结果后，它才能成为适合&#x200B;*您*&#x200B;的工作流程。
 

@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: a7d2985143bdc7ebfd50eda769dc5d97ecf615ef
+source-git-commit: 08471504c8919e22a36ff8d6251e8b6eb792bbc7
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 0%
+source-wordcount: '246'
+ht-degree: 2%
 
 ---
 
@@ -29,9 +29,8 @@ ht-degree: 0%
       <img alt="化妆罐" src="../assets/graph-1.png" />
    </a>
     <div>
-   <a href="what-is-firefly-graph.md"><strong>什么是Firefly图形？</strong></a>
-    </div>
-    <em>图形与单个提示的比较方式</em>
+   <a href="what-is-firefly-graph.md"><strong>1. 什么是Firefly图形？</strong></a></div>
+    <em>了解Firefly图是什么以及它与单个提示的比较</em>
     
   </td>
   <td>
@@ -39,9 +38,8 @@ ht-degree: 0%
       <img alt="带背景的化妆罐" src="../assets/graph-2.png" />
    </a>
     <div>
-   <a href="key-concepts.md"><strong>关键概念</strong></a>
-    </div>
-    <em>节点、连接和模板</em>
+   <a href="key-concepts.md"><strong>2. 关键概念</strong></a></div>
+    <em>了解节点、连接和模板</em>
     
   </td>
   <td>
@@ -49,8 +47,7 @@ ht-degree: 0%
       <img alt="化妆罐新背景" src="../assets/graph-3.png" />
    </a>
     <div>
-   <a href="create-your-first-graph.md"><strong>创建您的第一个图形</strong></a>
-    </div>
+   <a href="create-your-first-graph.md"><strong>3. 创建您的第一个图形</strong></a></div>
     <em>从画布到导出的5步演练</em>
     
   </td>
@@ -59,8 +56,7 @@ ht-degree: 0%
       <img alt="妆容罐不同背景" src="../assets/graph-4.png" />
    </a>
     <div>
-   <a href="customize-template.md"><strong>自定义模板</strong></a>
-    </div>
+   <a href="customize-template.md"><strong>4. 自定义模板</strong></a></div>
     <em>使模板体现您自己的想法</em>
     
   </td>
@@ -71,8 +67,7 @@ ht-degree: 0%
       <img alt="带有最终背景的化妆罐" src="../assets/graph-5.png" />
    </a>
     <div>
-   <a href="template-library.md"><strong>模板库</strong></a>
-    </div>
+   <a href="template-library.md"><strong>5. 模板库</strong></a></div>
     <em>浏览所有模板，每个模板都有描述和链接</em>
     
   </td>
