@@ -30,4 +30,4 @@ ht-degree: 0%
 
 ## 下一步
 
-是否从模板开始？ 前往[4。 自定义模板](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)，使其反映您自己的简介。
+是否从模板开始？ 前往[4。 自定义模板](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)，使其反映您自己的简介。
