@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: 0337f4efb23d03491119d4c91aeb71c6a20934fb
+source-git-commit: de7e3db24f81f38010a9a7ec7d470db9f8cc5299
 workflow-type: tm+mt
-source-wordcount: '244'
-ht-degree: 2%
+source-wordcount: '227'
+ht-degree: 1%
 
 ---
 
@@ -52,25 +52,16 @@ ht-degree: 2%
     
   </td>
   <td>
-   <a href="template-library.md">
-      <img alt="带有最终背景的化妆罐" src="../assets/graph-5.png" />
-   </a>
-    <div>
-   <a href="template-library.md"><strong>4. 模板库</strong></a></div>
-    <em>浏览所有模板，每个模板都有描述和链接</em>
-    
-  </td>
-</tr>
-<tr>
-  <td>
    <a href="customize-template.md">
       <img alt="妆容罐不同背景" src="../assets/graph-4.png" />
    </a>
     <div>
-   <a href="customize-template.md"><strong>5. 自定义模板</strong></a></div>
+   <a href="customize-template.md"><strong>4. 自定义模板</strong></a></div>
     <em>使模板体现您自己的想法</em>
     
   </td>
+</tr>
+<tr>
   <td>
    <a href="introducing-graph.md">
       <img alt="一盒巧克力" src="../assets/graph-introducing.png" />
@@ -80,6 +71,11 @@ ht-degree: 2%
     </div>
     <em>在此网络研讨会中，全面了解Firefly完全可视化的工作流程系统图形</em>
     
+  </td>
+  <td>
+    <img alt="间隔物" src="../../assets/Gray_thumbnail.png" />
+    <div>
+    <br>
   </td>
   <td>
     <img alt="间隔物" src="../../assets/Gray_thumbnail.png" />
