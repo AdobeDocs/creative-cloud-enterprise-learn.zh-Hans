@@ -72,7 +72,7 @@ ht-degree: 3%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph" title="3. 创建您的第一个图表" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3495912?quality=12&hidetitle=true&format=jpeg&nocache=1784039110238" alt="3. 创建您的第一个图表"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3495920?captions=chi_hans&quality=12&hidetitle=true&format=jpeg&nocache=1784039110238" alt="3. 创建您的第一个图表"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -116,7 +116,7 @@ ht-degree: 3%
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/introducing-graph" title="Firefly图简介" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3492621?quality=12&hidetitle=true&format=jpeg&nocache=1784039110453" alt="Firefly图简介"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3492630?captions=chi_hans&quality=12&hidetitle=true&format=jpeg&nocache=1784039110453" alt="Firefly图简介"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
