@@ -8,10 +8,10 @@ feature: Graphic Design, Image Editing, Vector Editing, UI Design, Licensable As
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 5bbcac38cff2c03e96c6342e49de07231c173d9c
+source-git-commit: 719a2d0ed899fc0ebec604802f5480085c67df7b
 workflow-type: tm+mt
-source-wordcount: '782'
-ht-degree: 4%
+source-wordcount: '789'
+ht-degree: 3%
 
 ---
 
@@ -129,13 +129,14 @@ ht-degree: 4%
    + 创意作品教程 {#firefly-creative-production}
       + [&#x200B; [!DNL Adobe Firefly] 创意作品概述](firefly/creative-production/overview-firefly-creative-production.md)
       + [背景移除和替换](firefly/creative-production/background.md)
-   + 图形教程 {#firefly-graph}
-      + [&#x200B; [!DNL Adobe Firefly Graph]概述](firefly/graph/overview-firefly-graph.md)
-      + [什么是Firefly图表？](firefly/graph/what-is-firefly-graph.md)
-      + [Firefly图关键概念](firefly/graph/key-concepts.md)
-      + [创建您的第一个图形](firefly/graph/create-your-first-graph.md)
-      + [自定义模板](firefly/graph/customize-template.md)
-      + [模板库](firefly/graph/template-library.md)
+   + {hide-from-toc}个图形教程 {#firefly-graph}
+      + {hide-from-toc}[Adobe Firefly图形概述](firefly/graph/overview-firefly-graph.md)
+      + {hide-from-toc}[什么是Firefly图形？](firefly/graph/what-is-firefly-graph.md)
+      + {hide-from-toc}[Firefly图形关键概念](firefly/graph/key-concepts.md)
+      + {hide-from-toc}[创建您的第一个图形](firefly/graph/create-your-first-graph.md)
+      + {hide-from-toc}[自定义模板](firefly/graph/customize-template.md)
+      + {hide-from-toc}[模板库](firefly/graph/template-library.md)
+      + {hide-from-toc}[Firefly图形网络研讨会简介](firefly/graph/introducing-graph.md)
    + 网络研讨会 {#firefly-webinars}
       + [尝试Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}

@@ -1,5 +1,5 @@
 ---
-title: Firefly图关键概念
+title: ​2. Firefly图关键概念
 description: 涵盖Firefly图心理模型的四个想法 — 节点、连接、工作流和模板
 feature: Image Editing, Gen AI
 role: User
@@ -7,16 +7,18 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 6d02049085cd1077b309004ce6da04b45b43384e
+source-git-commit: 44e0b0e7a70592689a7bf2940656532e60ac9f61
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
 
-# Firefly图关键概念
+# &#x200B;2. Firefly图关键概念
 
 有四个创意涵盖了开始使用Firefly图所需的心理模型。
+
+![关键概念](../assets/concepts.png)
 
 ## 节点
 
@@ -25,10 +27,6 @@ ht-degree: 0%
 ## 连接
 
 连接在两个节点之间传递输入或输出。 图形从左到右读取，从您的源输入到最终输出。
-
-## 工作流（或图表）
-
-工作流（或图）是由连接的节点组成的完整、端到端的链 — 从第一个输入到最终输出。 构建后，它可以运行、优化、保存和共享。
 
 ## 模板
 
@@ -40,4 +38,4 @@ ht-degree: 0%
 
 ## 下一步
 
-准备好建东西了吗？ 继续[创建您的第一个图形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph)以进行分步演练。
+准备好建东西了吗？ 移至[3。 创建您的第一个图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph)以进行分步演练。

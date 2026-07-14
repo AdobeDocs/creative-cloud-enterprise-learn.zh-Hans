@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-21971
 hide: true
 hidefromtoc: true
-source-git-commit: f940c165582a647204f888b9181d9b2a152b13bf
+source-git-commit: 0337f4efb23d03491119d4c91aeb71c6a20934fb
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 0%
+source-wordcount: '244'
+ht-degree: 2%
 
 ---
 
@@ -29,9 +29,8 @@ ht-degree: 0%
       <img alt="化妆罐" src="../assets/graph-1.png" />
    </a>
     <div>
-   <a href="what-is-firefly-graph.md"><strong>什么是Firefly图形？</strong></a>
-    </div>
-    <em>图形与单个提示的比较方式</em>
+   <a href="what-is-firefly-graph.md"><strong>1. 什么是Firefly图形？</strong></a></div>
+    <em>了解Firefly图是什么以及它与单个提示的比较</em>
     
   </td>
   <td>
@@ -39,9 +38,8 @@ ht-degree: 0%
       <img alt="带背景的化妆罐" src="../assets/graph-2.png" />
    </a>
     <div>
-   <a href="key-concepts.md"><strong>关键概念</strong></a>
-    </div>
-    <em>节点、连接和模板</em>
+   <a href="key-concepts.md"><strong>2. 关键概念</strong></a></div>
+    <em>了解节点、连接和模板</em>
     
   </td>
   <td>
@@ -49,36 +47,33 @@ ht-degree: 0%
       <img alt="化妆罐新背景" src="../assets/graph-3.png" />
    </a>
     <div>
-   <a href="create-your-first-graph.md"><strong>创建您的第一个图形</strong></a>
-    </div>
-    <em>从画布到导出的5步演练</em>
+   <a href="create-your-first-graph.md"><strong>3. 创建您的第一个图形</strong></a></div>
+    <em>从画布到导出的演练</em>
     
   </td>
+  <td>
+   <a href="template-library.md">
+      <img alt="带有最终背景的化妆罐" src="../assets/graph-5.png" />
+   </a>
+    <div>
+   <a href="template-library.md"><strong>4. 模板库</strong></a></div>
+    <em>浏览所有模板，每个模板都有描述和链接</em>
+    
+  </td>
+</tr>
+<tr>
   <td>
    <a href="customize-template.md">
       <img alt="妆容罐不同背景" src="../assets/graph-4.png" />
    </a>
     <div>
-   <a href="customize-template.md"><strong>自定义模板</strong></a>
-    </div>
+   <a href="customize-template.md"><strong>5. 自定义模板</strong></a></div>
     <em>使模板体现您自己的想法</em>
-    
-  </td>
-</tr>
-<tr>
- <td>
-   <a href="template-library.md">
-      <img alt="带有最终背景的化妆罐" src="../assets/graph-5.png" />
-   </a>
-    <div>
-   <a href="template-library.md"><strong>模板库</strong></a>
-    </div>
-    <em>浏览所有模板，每个模板都有描述和链接</em>
     
   </td>
   <td>
    <a href="introducing-graph.md">
-      <img alt="数字书籍" src="../assets/graph-introducing.png" />
+      <img alt="一盒巧克力" src="../assets/graph-introducing.png" />
    </a>
     <div>
    <a href="introducing-graph.md"><strong>Firefly图形网络研讨会简介</strong></a>
@@ -87,12 +82,12 @@ ht-degree: 0%
     
   </td>
   <td>
-    <img alt="间隔物" src="../assets/Gray_thumbnail.png" />
+    <img alt="间隔物" src="../../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="间隔物" src="../assets/Gray_thumbnail.png" />
+    <img alt="间隔物" src="../../assets/Gray_thumbnail.png" />
     <div>
     <br>
   </td>
