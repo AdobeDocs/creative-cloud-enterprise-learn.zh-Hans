@@ -25,7 +25,7 @@ ht-degree: 2%
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3495912?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3495920?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 ## 下一步
 
