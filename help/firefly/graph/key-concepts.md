@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: d31d8b492c7f86f6369b88f8940dd752bd535e20
+source-git-commit: e0b6ded8af7d895674af4b060087f2be00e76e6f
 workflow-type: tm+mt
-source-wordcount: '235'
-ht-degree: 0%
+source-wordcount: '217'
+ht-degree: 1%
 
 ---
 
@@ -34,10 +34,10 @@ ht-degree: 0%
 
 ## 为什么在构建之前这一点很重要
 
-图形设计灵活。 这种灵活性意味着，在开始构建&#x200B;*之前*&#x200B;需要明确说明结果和工作流程 — 这使模板和节点库易于指向正确的作业。
+图形设计灵活。 这种灵活性意味着，在开始构建&#x200B;*之前*&#x200B;值得具体说明您想要的结果和工作流程。
 
 ## 下一步
 
-准备好建东西了吗？ 移至[3。 创建您的第一个图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph)以进行分步演练。
+准备好建东西了吗？ 移至[3。 创建您的第一个图形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph)以进行分步演练。
 
-返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[开始使用Firefly图形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
