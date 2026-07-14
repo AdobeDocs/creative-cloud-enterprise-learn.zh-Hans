@@ -1,5 +1,5 @@
 ---
-title: ​5. 自定义模板
+title: ​4. 自定义模板
 description: 一份简短的清单，用于将Firefly图表模板转变为反映您自己的简短的资源和资源的工作流程
 feature: Image Editing, Gen AI
 role: User
@@ -7,14 +7,14 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 0337f4efb23d03491119d4c91aeb71c6a20934fb
+source-git-commit: f7007b5c91413783dea7b061b06789f72951d7f4
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '134'
 ht-degree: 3%
 
 ---
 
-# &#x200B;5. 自定义模板
+# &#x200B;4. 自定义模板
 
 每个模板都附带示例输入和通用用例。 仅当它反映您自己的摘要、资源和结果后，它才能成为适合&#x200B;*您*&#x200B;的工作流程。
 
@@ -24,6 +24,4 @@ ht-degree: 3%
 4. **更改一个变量并重新运行它**，以便您可以确切地看到该步骤控制哪些内容。
 5. **使用自定义版本自己的名称保存自定义版本。**
 
-## 下一步
-
-不确定从哪个模板开始？ 浏览[模板库](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/template-library)以查找接近您的用例的库。
+返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: 44e0b0e7a70592689a7bf2940656532e60ac9f61
+source-git-commit: d31d8b492c7f86f6369b88f8940dd752bd535e20
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Firefly图的工作方式不同。 您构建的是&#x200B;**图形**，而不是单个提示，这是一个可视化的分步工作流程，其中每个输入、转换和输出都捕获在一起。 更改一个步骤并重新运行 — 您不会重建整个链。 每一步都是您的团队可以完整地检查、调整和移交的可见节点。
 
-![可视图形屏幕截图](../assets/what-is-1.png)
+![可视图形屏幕截图](../assets/what-is-1.png){align="center"}
 
 简言之，Graph不会替换您的创意流程，它会将该流程转变为您可以看到、重复使用和缩放的元素。
 
@@ -41,3 +41,5 @@ Firefly图的工作方式不同。 您构建的是&#x200B;**图形**，而不是
 ## 下一步
 
 当您对想法感到满意后，请转到[2。 关键概念：节点、连接和模板](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/key-concepts)，用于了解将用于实际构建图表的词汇。
+
+返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
