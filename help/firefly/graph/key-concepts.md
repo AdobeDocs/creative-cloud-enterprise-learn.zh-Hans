@@ -1,24 +1,24 @@
 ---
 title: ​2. Firefly图关键概念
-description: 涵盖Firefly图心理模型的四个想法 — 节点、连接、工作流和模板
+description: 了解帮助您开始使用Firefly图的关键概念
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-
 hide: true
 hidefromtoc: true
-source-git-commit: f7007b5c91413783dea7b061b06789f72951d7f4
+source-git-commit: d31d8b492c7f86f6369b88f8940dd752bd535e20
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
 
 # &#x200B;2. Firefly图关键概念
 
-有四个创意涵盖了开始使用Firefly图所需的心理模型。
+了解帮助您开始使用Firefly图的关键概念。
 
-![关键概念](../assets/concepts.png)
+![关键概念](../assets/concepts.png){align="center"}
 
 ## 节点
 
@@ -38,6 +38,6 @@ ht-degree: 0%
 
 ## 下一步
 
-准备好建东西了吗？ 移至[3。 创建您的第一个图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph)以进行分步演练。
+准备好建东西了吗？ 移至[3。 创建您的第一个图形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/create-your-first-graph)以进行分步演练。
 
-返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[开始使用Firefly图形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
