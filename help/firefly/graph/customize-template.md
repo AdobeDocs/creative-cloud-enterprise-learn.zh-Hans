@@ -24,4 +24,4 @@ ht-degree: 3%
 4. **更改一个变量并重新运行它**，以便您可以确切地看到该步骤控制哪些内容。
 5. **使用自定义版本自己的名称保存自定义版本。**
 
-返回[开始使用Firefly图形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
