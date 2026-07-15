@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-21971
 hide: true
-source-git-commit: a6de66734272da23c21087df4dbf46a7175d5e00
+source-git-commit: eaec81eb392c356a1819c459b50a627bd43dff9d
 workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 3%
+source-wordcount: '248'
+ht-degree: 4%
 
 ---
 
@@ -54,17 +54,27 @@ ht-degree: 3%
     <br>
   </td>
    <td>
-   <a href="customize-template.md">
+   <a href="share-a-graph.md">
       <img alt="不同背景的化妆罐" src="../assets/graph-4.png" />
    </a>
     <div>
-   <a href="customize-template.md"><strong>4. 自定义模板</strong></a>
+   <a href="share-a-graph.md"><strong>4. 共享图形</strong></a>
     </div>
-    <em>使模板体现您自己的想法</em>
+    <em>了解如何与他人共享图形</em>
     <br>
   </td>
 </tr>
 <tr>
+  <td>
+   <a href="customize-template.md">
+      <img alt="不同背景的化妆罐" src="../assets/graph-5.png" />
+   </a>
+    <div>
+   <a href="customize-template.md"><strong>5. 自定义模板</strong></a>
+    </div>
+    <em>使模板体现您自己的想法</em>
+    <br>
+  </td>
   <td>
    <a href="introducing-graph.md">
       <img alt="一盒巧克力" src="../assets/graph-introducing.png" />
@@ -73,11 +83,6 @@ ht-degree: 3%
    <a href="introducing-graph.md"><strong>Firefly图形网络研讨会简介</strong></a>
     </div>
     <em>在此网络研讨会中，全面了解Firefly完全可视化的工作流程系统图形</em>
-    <br>
-  </td>
-  <td>
-    <img alt="间隔物" src="../../assets/Gray_thumbnail.png" />
-    <div>
     <br>
   </td>
   <td>
