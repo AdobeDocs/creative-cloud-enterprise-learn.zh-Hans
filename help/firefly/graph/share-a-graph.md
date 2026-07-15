@@ -4,12 +4,12 @@ description: 了解如何与他人共享图表
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22058
 hide: true
 hidefromtoc: true
-source-git-commit: 68283426ada0fc12630e61d3e4441bf11531816c
+source-git-commit: e8ff9999edb2a79f8ad9b479985e4aa9e1047ff2
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -34,10 +34,11 @@ ht-degree: 0%
 
    ![访问](../assets/share_3.png){align="center"}
 
-   通过搜索打开“可发现”，以便成员可以找到图表，根本不需要链接。
-确认横幅精确地表明谁可以使用链接查看图形。 请在将链接发送到任意位置之前检查此项。 它适用于该链接的每个未来接收者，而不仅仅是下一个受邀者。
+1. 通过搜索打开“可发现”，以便成员可以找到图表，根本不需要链接。
 
    ![横幅](../assets/share_4.png){align="center"}
+
+   确认横幅精确地表明谁可以使用链接查看图形。 请在将链接发送到任意位置之前检查此项。 它适用于该链接的每个未来接收者，而不仅仅是下一个受邀者。
 
 1. 在“邀请”字段中直接键入一个电子邮件地址，以向其中一位指定人员授予访问权限，而不采用“常规”链接设置。 从字段下方显示的建议中选择他们的条目。
 
@@ -55,6 +56,6 @@ ht-degree: 0%
 
 ## 下一步
 
-要从模板开始吗？ 前往[5。 自定义模板](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)，使其反映您自己的简介。
+要从模板开始吗？ 前往[5。 自定义模板](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)，使其反映您自己的简介。
 
-返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[开始使用Firefly图形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
