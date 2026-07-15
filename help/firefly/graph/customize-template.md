@@ -4,10 +4,10 @@ description: 一份简短的清单，用于将Firefly图表模板转变为反映
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22056
 hide: true
 hidefromtoc: true
-source-git-commit: f7007b5c91413783dea7b061b06789f72951d7f4
+source-git-commit: 568f2d7d617d440c37b0c4d96ff5e5567f838185
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 3%
@@ -24,4 +24,4 @@ ht-degree: 3%
 4. **更改一个变量并重新运行它**，以便您可以确切地看到该步骤控制哪些内容。
 5. **使用自定义版本自己的名称保存自定义版本。**
 
-返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[开始使用Firefly图形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
