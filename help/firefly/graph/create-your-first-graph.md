@@ -4,12 +4,12 @@ description: 构建第一个Firefly图的分步演练
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22054
 hide: true
 hidefromtoc: true
-source-git-commit: f7007b5c91413783dea7b061b06789f72951d7f4
+source-git-commit: 68283426ada0fc12630e61d3e4441bf11531816c
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '107'
 ht-degree: 1%
 
 ---
@@ -29,6 +29,6 @@ ht-degree: 1%
 
 ## 下一步
 
-要从模板开始吗？ 前往[4。 自定义模板](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/customize-template)，使其反映您自己的简介。
+前往[4。 与他人共享图形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/share-a-graph)与他人共享您的图形。
 
 返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

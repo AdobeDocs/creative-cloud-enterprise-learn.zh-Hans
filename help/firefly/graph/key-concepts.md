@@ -4,12 +4,12 @@ description: 了解帮助您开始使用Firefly图的关键概念
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22053
 hide: true
-source-git-commit: a7178ae1f1b0f3887863103fbf41f17dce0de911
+source-git-commit: 17cd1dad0b66c7d6bc041252863a4dfbae692076
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 1%
+source-wordcount: '240'
+ht-degree: 0%
 
 ---
 
@@ -17,23 +17,35 @@ ht-degree: 1%
 
 了解帮助您开始使用Firefly图的关键概念。
 
-![关键概念](../assets/concepts.png){align="center"}
-
 ## 节点
 
 节点执行工作流中的一个步骤 — 一个节点，一个作业。 节点可以生成图像、应用蒙版、改变颜色或运行任何其他单个创意操作。
+
+![节点](../assets/node.png){align="center"}
+
+## 端口
+
+节点上的连接点。 输出端口将数据从节点传出；输入端口接收传入的数据。 连接端口是数据流通过工作流程的方式。
+
+![端口](../assets/port.png){align="center"}
+
+## 构件
+
+节点上的交互式控件，如文本字段、下拉列表和滑块，可让您直接在编辑器中配置其设置。
+
+![构件](../assets/widget.png){align="center"}
 
 ## 连接
 
 连接在两个节点之间传递输入或输出。 图形从左到右读取，从您的源输入到最终输出。
 
-## 模板
+![连接](../assets/connection.png){align="center"}
 
-模板是有人已经构建好的图表。 从模板开始删除空白画布，并为您提供一个工作起点来适应自己的简介。
+## 图形
 
-## 为什么在构建之前这一点很重要
+在编辑器中构建的完整工作流程。 图形由布置在画布上的节点和连接组成，以产生最终输出。
 
-图形设计灵活。 这种灵活性意味着，在开始构建&#x200B;*之前*&#x200B;值得具体说明您想要的结果和工作流程。
+![图形](../assets/graph.png){align="center"}
 
 ## 下一步
 
