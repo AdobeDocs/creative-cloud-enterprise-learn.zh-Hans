@@ -6,16 +6,16 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
+source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '170'
 ht-degree: 1%
 
 ---
 
 # 一致的字符生成
 
-了解如何在周围场景变化时生成一致的角色引用。 [打开一致字符生成模板](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:6ab4c3c7-ead2-5fa5-9441-75b7a362ce11)。
+了解如何载入角色的一张参考图像，然后为每一张新照片互换场景或姿势提示。 [打开一致字符生成模板](https://firefly.adobe.com/graph/edit/id/urn:aaid:sc:US:6ab4c3c7-ead2-5fa5-9441-75b7a362ce11)。
 
 >[!TIP]
 >
@@ -29,4 +29,4 @@ ht-degree: 1%
 * **零售** — 在几十个季节性产品照片和社交帖子中保留一个品牌化轮辐角色。
 * **教育** — 使课程中每个课程视频的动画讲师角色保持一致。
 
-返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[开始使用Firefly图形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
