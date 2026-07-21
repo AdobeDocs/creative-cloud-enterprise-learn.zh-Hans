@@ -29,4 +29,4 @@ ht-degree: 1%
 * **零售** — 在不一致的光照下拍摄的照片集中标准化产品颜色。
 * **财务** — 在发布之前，整批营销摄影作品中的游离品牌颜色进行更正。
 
-返回[开始使用Firefly图形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

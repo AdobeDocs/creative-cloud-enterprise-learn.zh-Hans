@@ -29,4 +29,4 @@ ht-degree: 1%
 * **零售** — 在几十个季节性产品照片和社交帖子中保留一个品牌化轮辐角色。
 * **教育** — 使课程中每个课程视频的动画讲师角色保持一致。
 
-返回[开始使用Firefly图形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
