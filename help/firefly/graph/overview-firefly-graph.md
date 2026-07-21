@@ -6,10 +6,10 @@ role: User
 level: Beginner
 jira: KT-21971
 hide: true
-source-git-commit: eaec81eb392c356a1819c459b50a627bd43dff9d
+source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 4%
+source-wordcount: '236'
+ht-degree: 0%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 4%
       <img alt="化妆罐" src="../assets/graph-1.png" />
    </a>
     <div>
-   <a href="what-is-firefly-graph.md"><strong>1. 什么是Firefly图形？</strong></a>
+   <a href="what-is-firefly-graph.md"><strong>1。什么是Firefly图形？</strong></a>
     </div>
     <em>了解Firefly图是什么以及它与单个提示的比较</em>
     <br>
@@ -38,7 +38,7 @@ ht-degree: 4%
       <img alt="带背景的化妆罐" src="../assets/graph-2.png" />
    </a>
     <div>
-   <a href="key-concepts.md"><strong>2. 关键概念</strong></a>
+   <a href="key-concepts.md"><strong>2。关键概念</strong></a>
     </div>
     <em>了解节点、连接和模板</em>
     <br>
@@ -48,7 +48,7 @@ ht-degree: 4%
       <img alt="化妆罐新背景" src="../assets/graph-3.png" />
    </a>
     <div>
-   <a href="create-your-first-graph.md"><strong>3. 创建您的第一个图形</strong></a>
+   <a href="create-your-first-graph.md"><strong>3。创建您的第一个图形</strong></a>
     </div>
     <em>从画布到导出的演练</em>
     <br>
@@ -58,7 +58,7 @@ ht-degree: 4%
       <img alt="不同背景的化妆罐" src="../assets/graph-4.png" />
    </a>
     <div>
-   <a href="share-a-graph.md"><strong>4. 共享图形</strong></a>
+   <a href="share-a-graph.md"><strong>4。共享图形</strong></a>
     </div>
     <em>了解如何与他人共享图形</em>
     <br>
@@ -66,11 +66,20 @@ ht-degree: 4%
 </tr>
 <tr>
   <td>
-   <a href="customize-template.md">
+   <a href="template-library.md">
+      <img alt="各式各样的化妆罐" src="../assets/graph-templates.png" />
+   </a>
+    <div>
+   <a href="template-library.md"><strong>5。模板库</strong></a>
+    </div>
+    <em>全面了解各种模板</em>
+    <br>
+  </td>
+  <a href="customize-template.md">
       <img alt="不同背景的化妆罐" src="../assets/graph-5.png" />
    </a>
     <div>
-   <a href="customize-template.md"><strong>5. 自定义模板</strong></a>
+   <a href="customize-template.md"><strong>6。自定义模板</strong></a>
     </div>
     <em>使模板体现您自己的想法</em>
     <br>
@@ -83,11 +92,6 @@ ht-degree: 4%
    <a href="introducing-graph.md"><strong>Firefly图形网络研讨会简介</strong></a>
     </div>
     <em>在此网络研讨会中，全面了解Firefly完全可视化的工作流程系统图形</em>
-    <br>
-  </td>
-  <td>
-    <img alt="间隔物" src="../../assets/Gray_thumbnail.png" />
-    <div>
     <br>
   </td>
   <td>
