@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-21971
 hide: true
-source-git-commit: 179d0655d8daf0a01e1cfa99d5a01a04b0be99e0
+source-git-commit: d0b68972fd6cba10fa2ee6a857a105131dc2b329
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -75,14 +75,15 @@ ht-degree: 0%
     <em>全面了解各种模板</em>
     <br>
   </td>
-  <a href="customize-template.md">
-      <img alt="不同背景的化妆罐" src="../assets/graph-5.png" />
-   </a>
-    <div>
-   <a href="customize-template.md"><strong>6。自定义模板</strong></a>
-    </div>
-    <em>使模板体现您自己的想法</em>
-    <br>
+  <td>
+    <a href="customize-template.md">
+        <img alt="不同背景的化妆罐" src="../assets/graph-5.png" />
+    </a>
+      <div>
+    <a href="customize-template.md"><strong>6。自定义模板</strong></a>
+      </div>
+      <em>使模板体现您自己的想法</em>
+      <br>
   </td>
   <td>
    <a href="introducing-graph.md">
