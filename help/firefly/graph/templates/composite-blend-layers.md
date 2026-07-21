@@ -29,4 +29,4 @@ ht-degree: 1%
 * **零售** — 将产品抠图融入季节性生活方式背景，制作主页横幅。
 * **旅行** — 在联合品牌促销的产品照片后面合成目标背景。
 
-返回[开始使用Firefly图形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

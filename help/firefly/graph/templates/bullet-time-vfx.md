@@ -29,4 +29,4 @@ ht-degree: 1%
 * **零售** — 为产品发布页面创建新运动鞋的360度冻结帧快照。
 * **汽车** — 为数字展厅生成车辆的旋转英雄照片，无需转盘式摄影棚会话。
 
-返回[开始使用Firefly图形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

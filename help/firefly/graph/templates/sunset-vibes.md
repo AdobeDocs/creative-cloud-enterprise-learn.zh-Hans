@@ -29,4 +29,4 @@ ht-degree: 1%
 * **饮料** — 搭配季节性标语和温暖的生活背景，举办夏季促销活动。
 * **零售** — 为闪电销售公告生成快速样式的文本和背景资源。
 
-返回[开始使用Firefly图形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
