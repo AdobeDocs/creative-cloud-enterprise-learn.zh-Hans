@@ -29,4 +29,4 @@ ht-degree: 1%
 * **零售** — 从一个英雄照片中提取艺术总监批准的外观，并将其应用于整个季节的产品摄影。
 * **饮料** — 使新包装渲染与屡获殊荣的营销活动照片的氛围相匹配。
 
-返回[开始使用Firefly图形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
