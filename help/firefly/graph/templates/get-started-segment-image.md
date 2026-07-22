@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-22100
 hide: true
-source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
+source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 1%
@@ -29,4 +29,4 @@ ht-degree: 1%
 * **零售** — 将服装与生活照分离，以构建纯产品的清洁目录图像。
 * **汽车** — 将一辆汽车裁剪出拍摄位置，放在摄影棚的背景上以进行印刷。
 
-返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[开始使用Firefly图形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
