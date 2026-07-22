@@ -29,4 +29,4 @@ ht-degree: 1%
 * **饮料** — 模拟一个品牌吉祥物的可收藏图形，用于限量投放商品。
 * **娱乐** — 预览用于许可推销牌的乙烯基玩具形式的角色。
 
-返回[开始使用Firefly图形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

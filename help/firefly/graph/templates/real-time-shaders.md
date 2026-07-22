@@ -29,4 +29,4 @@ ht-degree: 1%
 * **汽车** — 在物理原型存在之前，在车辆模型上预览自定义绘画和材质着色器。
 * **零售** — 在3D产品渲染上测试风格化素材外观，以便用于数字货架显示器。
 
-返回[开始使用Firefly图形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

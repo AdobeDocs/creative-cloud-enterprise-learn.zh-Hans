@@ -29,4 +29,4 @@ ht-degree: 1%
 * **饮料** — 按照场景故事板为季节性营销活动构建场景，并重新排序节拍以在锁定剪切之前测试节奏。
 * **旅行** — 在提交拍摄列表之前，先记下目标营销活动的叙述弧线。
 
-返回[开始使用Firefly图形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

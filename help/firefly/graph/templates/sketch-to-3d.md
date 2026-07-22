@@ -29,4 +29,4 @@ ht-degree: 1%
 * **汽车** — 将早期车辆概念草图可视化为旋转的3D转向，以供内部审阅。
 * **娱乐** — 将角色概念草图变成幻灯片甲板的3D转折。
 
-返回[开始使用Firefly图形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

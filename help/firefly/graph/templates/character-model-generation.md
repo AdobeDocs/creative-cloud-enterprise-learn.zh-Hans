@@ -29,4 +29,4 @@ ht-degree: 1%
 * **技术** — 从书面简报生成基础3D字符模型，准备就绪后交给建模人员进行清理。
 * **教育** — 构建3D讲师角色模型，以便在课程的视频课程中使用。
 
-返回[开始使用Firefly图形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

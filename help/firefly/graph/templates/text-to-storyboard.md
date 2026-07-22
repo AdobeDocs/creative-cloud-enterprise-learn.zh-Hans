@@ -29,4 +29,4 @@ ht-degree: 1%
 * **零售** — 在主管预订之前，直接从营销活动简报中演示产品发布视频。
 * **技术** — 在动画开始之前，使用功能脚本对讲解者视频进行情节提要，以对齐利益相关者。
 
-返回[开始使用Firefly图形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
