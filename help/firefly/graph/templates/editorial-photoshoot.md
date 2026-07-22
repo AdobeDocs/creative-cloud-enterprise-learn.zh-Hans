@@ -29,4 +29,4 @@ ht-degree: 1%
 * **美观** — 使用一个模型引用跨多个产品外观构建一致的可编辑系列。
 * **户外** — 从单个模特照片中生成全新的夹克色彩组合完整编辑集。
 
-返回[开始使用Firefly图形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

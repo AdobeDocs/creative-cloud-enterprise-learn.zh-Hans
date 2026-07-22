@@ -29,4 +29,4 @@ ht-degree: 1%
 * **饮料** — 请先测试三个徽标和调色板方向是否呈现精美的关键图稿，然后再选择一个来投入生产。
 * **财务** — 在到达设计审阅阶段之前，以品牌化视觉效果预览新卡或应用程序标识。
 
-返回[开始使用Firefly图形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

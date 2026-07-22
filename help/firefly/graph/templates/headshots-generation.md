@@ -30,4 +30,4 @@ ht-degree: 1%
 * **财务** — 在顾问团队中标准化头像，形成团队会议页面。
 * **健康** — 在多个诊所位置标准化工作人员头像，以获得统一的网站外观。
 
-返回[开始使用Firefly图形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

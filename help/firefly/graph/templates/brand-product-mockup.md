@@ -29,4 +29,4 @@ ht-degree: 1%
 * **饮料** — 在生产之前，在完全品牌化的零售冷色调场景中预览新瓶子设计。
 * **技术** — 在品牌零售架场景中模拟新设备作为启动平台。
 
-返回[开始使用Firefly图形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

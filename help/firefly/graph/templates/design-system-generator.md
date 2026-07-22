@@ -29,4 +29,4 @@ ht-degree: 1%
 * **财务** — 在开发开始之前，为新应用程序重新设计构建一致的图标和颜色系统。
 * **通信与电信** — 为跨Web和店内标牌的新计划层生成匹配的视觉语言。
 
-返回[开始使用Firefly图形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

@@ -29,4 +29,4 @@ ht-degree: 1%
 * **汽车** — 在包装生产之前，在车辆模型上预览新的装潢或贴花设计。
 * **零售** — 在打印批准之前，在全套服装模型行中测试新徽标的放置。
 
-返回[开始使用Firefly图形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

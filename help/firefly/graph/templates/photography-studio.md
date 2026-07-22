@@ -29,4 +29,4 @@ ht-degree: 1%
 * **技术** — 在设备可供拍摄之前，为启动页面创建新设备的工作室品质渲染。
 * **零售** — 在整个产品线中制作一致的摄影室照片，而无需预约个人摄影课程。
 
-返回[开始使用Firefly图形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
