@@ -3,9 +3,9 @@ title: 合成和混合图层
 description: 了解如何将产品抠图和背景场景栈叠为单独的图层输入
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22101
 hide: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 1%
