@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: d9650e6e2864d46a099c228eaff6d33975742f3a
+source-git-commit: 10d27af0ddb89cb7e52816e09682d94a102948f7
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '843'
 ht-degree: 3%
 
 ---
@@ -112,7 +112,7 @@ ht-degree: 3%
 + [!DNL Adobe Firefly] {#fireflyoverview}
   + [概述](firefly/overview-firefly.md)
   + 教程 {#firefly-tutorials}
-    + [&#x200B; [!DNL Adobe Firefly]概述](firefly/overview-of-firefly.md)
+    + [ [!DNL Adobe Firefly]概述](firefly/overview-of-firefly.md)
     + [发现 [!DNL Adobe Firefly]](firefly/discover.md)
     + [加速创意构想](firefly/accelerate-ideas.md)
     + [为商品创建可重复使用的场景](firefly/reusable-scenes.md)
@@ -124,11 +124,11 @@ ht-degree: 3%
     + [生成式重新着色](firefly/gen-recolor.md)
     + [如何使用 [!DNL Firefly]的示例](firefly/examples.md)
     + [提高创意效率](firefly/enable-creative-efficiency.md)
-    + [&#x200B; [!DNL Photoshop]中的横幅广告变体](firefly/web-banner-ad.md)
-    + [&#x200B; [!DNL Photoshop]中的生成式填充](firefly/generative-fill.md)
-    + [&#x200B; [!DNL Illustrator]中的生成式重新着色](firefly/generative-recolor.md)
+    + [ [!DNL Photoshop]中的横幅广告变体](firefly/web-banner-ad.md)
+    + [ [!DNL Photoshop]中的生成式填充](firefly/generative-fill.md)
+    + [ [!DNL Illustrator]中的生成式重新着色](firefly/generative-recolor.md)
   + 创意作品教程 {#firefly-creative-production}
-    + [&#x200B; [!DNL Adobe Firefly] 创意作品概述](firefly/creative-production/overview-firefly-creative-production.md)
+    + [ [!DNL Adobe Firefly] 创意作品概述](firefly/creative-production/overview-firefly-creative-production.md)
     + [背景移除和替换](firefly/creative-production/background.md)
   + {hide-from-toc}个图形教程 {#firefly-graph}
     + {hide-from-toc}[Adobe Firefly图形概述](firefly/graph/overview-firefly-graph.md)
@@ -149,6 +149,12 @@ ht-degree: 3%
       + {hide-from-toc}[可选颜色校正](firefly/graph/templates/selective-color-correction.md)
       + {hide-from-toc}[入门 — 视频生成](firefly/graph/templates/get-started-video-gen.md)
       + {hide-from-toc}[Bullet Time VFX](firefly/graph/templates/bullet-time-vfx.md)
+      + {hide-from-toc}[向故事板发送文本](firefly/graph/templates/text-to-storyboard.md)
+      + {hide-from-toc}[故事板生成器](firefly/graph/templates/storyboard-builder.md)
+      + {hide-from-toc}[实时着色器](firefly/graph/templates/real-time-shaders.md)
+      + {hide-from-toc}[字符模型生成](firefly/graph/templates/character-model-generation.md)
+      + {hide-from-toc}[乙烯基玩具设计](firefly/graph/templates/vinyl-toy-design.md)
+      + {hide-from-toc}[素描到3D转折](firefly/graph/templates/sketch-to-3d.md)
   + 网络研讨会 {#firefly-webinars}
     + [尝试Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
