@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 1%
@@ -21,12 +21,12 @@ ht-degree: 1%
 >
 >**开始之前** — 为获得最佳效果，请根据您自己的品牌、产品和工作流程自定义此模板。 在使用任何输出之前，交换参考图像、提示和副本。
 
-![摄影工作室](../../assets/photography-studio.png){align="center"}
-
 [!BADGE 用例]{type=Informative tooltip="使用案例"}
 
 * **饮料** — 在计划进行物理产品摄影之前，生成新风味SKU的干净的工作室产品照片。
 * **技术** — 在设备可供拍摄之前，为启动页面创建新设备的工作室品质渲染。
 * **零售** — 在整个产品线中制作一致的摄影室照片，而无需预约个人摄影课程。
 
-返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+![摄影工作室](../../assets/photography-studio.png){align="center"}
+
+返回[开始使用Firefly图形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

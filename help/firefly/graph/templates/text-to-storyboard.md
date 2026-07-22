@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: 5a555416c5f45ca92de7df48e4b7cf8418102269
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 1%
@@ -21,12 +21,12 @@ ht-degree: 1%
 >
 >**开始之前** — 为获得最佳效果，请根据您自己的品牌、产品和工作流程自定义此模板。 在使用任何输出之前，交换参考图像、提示和副本。
 
-![向故事板发送文本](../../assets/text-storyboard.png){align="center"}
-
 [!BADGE 用例]{type=Informative tooltip="使用案例"}
 
 * **财务** — 将新储蓄产品的已批准脚本转换为情节提要，机构可以在批准副本的同一天拍摄该脚本。
 * **零售** — 在主管预订之前，直接从营销活动简报中演示产品发布视频。
 * **技术** — 在动画开始之前，使用功能脚本对讲解者视频进行情节提要，以对齐利益相关者。
 
-返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+![向故事板发送文本](../../assets/text-storyboard.png){align="center"}
+
+返回[开始使用Firefly图形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
