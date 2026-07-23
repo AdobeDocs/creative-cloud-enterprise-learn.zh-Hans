@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-
 hide: true
-source-git-commit: 5a555416c5f45ca92de7df48e4b7cf8418102269
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 1%
@@ -21,12 +21,12 @@ ht-degree: 1%
 >
 >**开始之前** — 为获得最佳效果，请根据您自己的品牌、产品和工作流程自定义此模板。 在使用任何输出之前，交换参考图像、提示和副本。
 
-![故事板生成器](../../assets/storyboard-builder.png){align="center"}
-
 [!BADGE 用例]{type=Informative tooltip="使用案例"}
 
 * **通信与电信** — 故事板是一个新计划的30秒启动点，在预订拍摄之前测试三个不同的叙事结构。
 * **饮料** — 按照场景故事板为季节性营销活动构建场景，并重新排序节拍以在锁定剪切之前测试节奏。
 * **旅行** — 在提交拍摄列表之前，先记下目标营销活动的叙述弧线。
+
+![故事板生成器](../../assets/storyboard-builder.png){align="center"}
 
 返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

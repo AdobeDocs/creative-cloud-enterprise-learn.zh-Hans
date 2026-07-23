@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-22100
 hide: true
-source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 1%
@@ -21,12 +21,12 @@ ht-degree: 1%
 >
 >**开始之前** — 为获得最佳效果，请根据您自己的品牌、产品和工作流程自定义此模板。 在使用任何输出之前，交换参考图像、提示和副本。
 
-![分段图像](../../assets/get-started-segment-image.png){align="center"}
-
 [!BADGE 用例]{type=Informative tooltip="使用案例"}
 
 * **健康** — 将医疗设备从繁忙的工作室照片中分割出来，将其放到干净的临床背景上以用于产品页面，而无需背景重新扫描。
 * **零售** — 将服装与生活照分离，以构建纯产品的清洁目录图像。
 * **汽车** — 将一辆汽车裁剪出拍摄位置，放在摄影棚的背景上以进行印刷。
+
+![分段图像](../../assets/get-started-segment-image.png){align="center"}
 
 返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

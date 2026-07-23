@@ -5,7 +5,7 @@ role: User
 level: Beginner
 jira: KT-22101
 hide: true
-source-git-commit: 1b6b9793b2fa33365ccf6fb0f049632a67f09cae
+source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 1%
@@ -20,13 +20,13 @@ ht-degree: 1%
 >
 >**开始之前** — 为获得最佳效果，请根据您自己的品牌、产品和工作流程自定义此模板。 在使用任何输出之前，交换参考图像、提示和副本。
 
-![合成和混合图层](../../assets/composite-blend-layers.png){align="center"}
-
 [!BADGE 用例]{type=Informative tooltip="使用案例"}
 
 * **饮料** — 合成沙滩生活方式场景以用于夏季活动，而无需搭乘飞机
 摄象组去某个地点。
 * **零售** — 将产品抠图融入季节性生活方式背景，制作主页横幅。
 * **旅行** — 在联合品牌促销的产品照片后面合成目标背景。
+
+![合成和混合图层](../../assets/composite-blend-layers.png){align="center"}
 
 返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

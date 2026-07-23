@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 10d27af0ddb89cb7e52816e09682d94a102948f7
+source-git-commit: facfbfbe45a25cbaf430446a326adb320d4e6968
 workflow-type: tm+mt
-source-wordcount: '843'
+source-wordcount: '861'
 ht-degree: 3%
 
 ---
@@ -155,6 +155,13 @@ ht-degree: 3%
       + {hide-from-toc}[字符模型生成](firefly/graph/templates/character-model-generation.md)
       + {hide-from-toc}[乙烯基玩具设计](firefly/graph/templates/vinyl-toy-design.md)
       + {hide-from-toc}[素描到3D转折](firefly/graph/templates/sketch-to-3d.md)
+      + {hide-from-toc}[品牌形象可视化](firefly/graph/templates/branding-visualization.md)
+      + {hide-from-toc}[品牌产品模型](firefly/graph/templates/brand-product-mockup.md)
+      + {hide-from-toc}[编辑摄影](firefly/graph/templates/editorial-photoshoot.md)
+      + {hide-from-toc}[摄影工作室](firefly/graph/templates/photography-studio.md)
+      + {hide-from-toc}[对表面应用贴花](firefly/graph/templates/decal-to-surfaces.md)
+      + {hide-from-toc}[设计系统生成器](firefly/graph/templates/design-system-generator.md)
+      + {hide-from-toc}[生成大头照](firefly/graph/templates/headshots-generation.md)
   + 网络研讨会 {#firefly-webinars}
     + [尝试Adobe Firefly](firefly/webinar-experimenting.md)
 + [!DNL Adobe Stock] {#stockoverview}
