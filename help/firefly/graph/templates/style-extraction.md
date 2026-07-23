@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-22098
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '187'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ ht-degree: 1%
 >
 >**开始之前** — 为获得最佳效果，请根据您自己的品牌、产品和工作流程自定义此模板。 在使用任何输出之前，交换参考图像、提示和副本。
 
-[!BADGE 用例]{type=Informative tooltip="使用案例"}
+![样式提取](../../assets/style-extraction.png){align="center"}
+
+[!BADGE 行业示例]{type=Informative tooltip="使用案例"}
 
 * **旅行** — 从获批的英雄活动照片中提取颜色和光线处理效果，并将其应用于20张新的目标图像，以实现视觉一致性。
 * **零售** — 从一个英雄照片中提取艺术总监批准的外观，并将其应用于整个季节的产品摄影。
@@ -29,4 +31,4 @@ ht-degree: 1%
 
 ![一致的字符代](../../assets/style-extraction.png){align="center"}
 
-返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[开始使用Firefly图形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

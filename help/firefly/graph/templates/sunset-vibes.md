@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-22099
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '161'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ ht-degree: 1%
 >
 >**开始之前** — 为获得最佳效果，请根据您自己的品牌、产品和工作流程自定义此模板。 在使用任何输出之前，交换参考图像、提示和副本。
 
-[!BADGE 用例]{type=Informative tooltip="使用案例"}
+![日落氛围](../../assets/sunset-vibes.png){align="center"}
+
+[!BADGE 行业示例]{type=Informative tooltip="使用案例"}
 
 * **旅行** — 在风格化的日落背景上叠加一条新的目的地标语，用于制作一个社交轮播帖子，该帖子在一个下午之内制作并测试。
 * **饮料** — 搭配季节性标语和温暖的生活背景，举办夏季促销活动。
@@ -30,4 +32,4 @@ ht-degree: 1%
 ![日落氛围](../../assets/sunset-vibes.png){align="center"}
 
 
-返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[开始使用Firefly图形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

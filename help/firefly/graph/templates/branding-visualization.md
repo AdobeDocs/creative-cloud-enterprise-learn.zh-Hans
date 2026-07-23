@@ -4,11 +4,11 @@ description: 了解如何在产品场景中可视化您的徽标或品牌
 feature: Graphic Design, Gen AI
 role: User
 level: Beginner
-jira: KT-
+jira: KT-22122
 hide: true
-source-git-commit: b19c93a5c0f7b0009a17ae97eb35f6738cf21630
+source-git-commit: b25e3d05a2ee86c105584b5d1c50d0a1ddd5288f
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '194'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,9 @@ ht-degree: 1%
 >
 >**开始之前** — 为获得最佳效果，请根据您自己的品牌、产品和工作流程自定义此模板。 在使用任何输出之前，交换参考图像、提示和副本。
 
-[!BADGE 用例]{type=Informative tooltip="使用案例"}
+![品牌形象可视化](../../assets/branding-visualization.png){align="center"}
+
+[!BADGE 行业示例]{type=Informative tooltip="使用案例"}
 
 * **技术** — 在将设计或媒体预算投入到完整生产之前，将新产品子品牌形象化为关键艺术品和启动预告片。
 * **饮料** — 请先测试三个徽标和调色板方向是否呈现精美的关键图稿，然后再选择一个来投入生产。
@@ -29,4 +31,4 @@ ht-degree: 1%
 
 ![品牌形象可视化](../../assets/branding-visualization.png){align="center"}
 
-返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[开始使用Firefly图形](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
