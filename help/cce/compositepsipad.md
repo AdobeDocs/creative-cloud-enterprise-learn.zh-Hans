@@ -28,7 +28,7 @@ ht-degree: 0%
 
 触手可及的Photoshop功能。 通过重新设计的触控界面，学习以全新的方式使用您最喜欢的Creative Cloud应用程序。
 
->[!VIDEO](https://video.tv.adobe.com/v/331004?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410487?captions=chi_hans&hidetitle=true)
 
 <br> 
 

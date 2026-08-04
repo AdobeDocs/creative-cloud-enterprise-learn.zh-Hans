@@ -25,4 +25,4 @@ ht-degree: 0%
 
 在本视频教程中，了解如何在Creative Cloud企业版中快速搜索组织的Adobe[!DNL Stock]许可历史记录。
 
->[!VIDEO](https://video.tv.adobe.com/v/335327?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410406?captions=chi_hans&hidetitle=true)

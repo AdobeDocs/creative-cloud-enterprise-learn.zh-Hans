@@ -24,7 +24,7 @@ ht-degree: 0%
 
 使用材质、环境属性、光照和摄影在[!DNL Dimension]中自定义和标记3D模型，为任何设计项目创建逼真的图像。
 
->[!VIDEO](https://video.tv.adobe.com/v/331005?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410480?captions=chi_hans&hidetitle=true)
 
 单击PDF文件图标以下载本教程的快速参考指南。
 
