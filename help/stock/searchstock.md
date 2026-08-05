@@ -16,7 +16,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
 workflow-type: tm+mt
-source-wordcount: 39
+source-wordcount: 40
 ht-degree: 0%
 
 ---
@@ -25,4 +25,4 @@ ht-degree: 0%
 
 在本视频教程中，了解如何在Creative Cloud企业版中快速搜索组织的Adobe[!DNL Stock]许可历史记录。
 
->[!VIDEO](https://video.tv.adobe.com/v/335327?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410406?captions=chi_hans&hidetitle=true)
