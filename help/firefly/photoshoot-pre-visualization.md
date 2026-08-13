@@ -18,4 +18,4 @@ ht-degree: 0%
 
 使用Adobe Firefly的全部功能预览整个摄影愿景。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497049?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497057?captions=chi_hans&quality=12&learn=on&hidetitle=true)
