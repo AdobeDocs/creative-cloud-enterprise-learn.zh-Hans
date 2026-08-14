@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: f0ad6793dd537c72a691b38946acb633ad9bbc43
+source-git-commit: 389890ce1b958a53c3541db6bbfb2c7d532e22ac
 workflow-type: tm+mt
-source-wordcount: '872'
+source-wordcount: '880'
 ht-degree: 3%
 
 ---
@@ -132,6 +132,7 @@ ht-degree: 3%
     + [背景移除和替换](firefly/creative-production/background.md)
     + {hide-from-toc}[摄影预视化](firefly/photoshoot-pre-visualization.md)
     + {hide-from-toc}[无需会议、标记和模型即可探索产品创意](firefly/explore-product-ideas.md)
+    + {hide-from-toc}[将一个单词转换为共享的创意构想](firefly/creative-vision.md)
   + {hide-from-toc}个图形教程 {#firefly-graph}
     + {hide-from-toc}[Adobe Firefly图形概述](firefly/graph/overview-firefly-graph.md)
     + {hide-from-toc}[什么是Firefly图形？](firefly/graph/what-is-firefly-graph.md)
