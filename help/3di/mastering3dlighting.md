@@ -71,7 +71,7 @@ ht-degree: 0%
 
 ![照片、3D Studio场景和抽象3D 场景制作的环境光示例](assets/Mastering3dlighting_5.jpg)
 
-在[[!DNL Dimension]](https://www.adobe.com/products/dimension.html)中创建新场景时，将为您创建默认环境光。 这就是您能够立即看到场景中任何内容的原因。 Adobe[!DNL Dimension]入门资源包含一定数量的环境光，您可以立即试用。 此外，[Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type：3d]=1&filters[3d_type_id][0]=2&load_type=3d+lp)提供了大量精选的环境光。
+在[[!DNL Dimension]](https://www.adobe.com/products/dimension.html)中创建新场景时，将为您创建默认环境光。 这就是您能够立即看到场景中任何内容的原因。 Adobe[!DNL Dimension]入门资源包含一定数量的环境光，您可以立即试用。 此外，[Adobe [!DNL Stock]](https://stock.adobe.com/search?filters[content_type：3d]=1&filters[3d_type_id]&#x200B;[0]=2&load_type=3d+lp)提供了大量精选的环境光。
 
 环境光可以产生极为逼真的效果，并为您节省大量时间。 为了手动实现类似效果，您必须在3D空间中实际创建整个环境（包括各种光源），这是一项大工程。
 

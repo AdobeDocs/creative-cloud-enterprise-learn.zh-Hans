@@ -508,7 +508,7 @@ ht-degree: 1%
       <img alt="使用Photoshop和Adobe在捕捉中创建电影院 [!DNL Stock]" src="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.jpg" />
     </a>
     <div>
-    <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf"><strong>使用Photoshop和Adobe[!DNL Stock](PDF)在捕捉中创建电影院</strong></a>
+    <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf"><strong>使用Photoshop和Adobe[!DNL Stock] (PDF)在捕捉中创建电影院</strong></a>
     </div>
     <em>搜索在Adobe[!DNL Stock]上无缝循环播放的视频以在Photoshop中快速组合引人注目的电影</em>
     <br>
