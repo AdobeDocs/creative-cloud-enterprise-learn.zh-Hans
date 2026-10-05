@@ -37,4 +37,4 @@ ht-degree: 0%
 
 过去，产品概念是指等待3D艺术家和插画家看到创意成形。 了解Firefly讨论区如何让您自己以惊人的真实感生成概念，没有标记，没有模型，具有静态和3D渲染，让创意变为现实。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497129?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3497137?captions=chi_hans&quality=12&learn=on&hidetitle=true)

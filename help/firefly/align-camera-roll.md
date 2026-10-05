@@ -37,4 +37,4 @@ ht-degree: 0%
 
 了解创意团队如何使用Adobe Firefly板尽早向测试创意施压，并确信每次尝试都会按计划进行。
 
->[!VIDEO](https://video.tv.adobe.com/v/3502280?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3502288?captions=chi_hans&quality=12&learn=on&hidetitle=true)
