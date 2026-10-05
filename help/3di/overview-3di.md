@@ -6,24 +6,29 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6945
 exl-id: f9d03c3d-0767-476f-a7e1-0b283cf16cd3
-TQID: https://experienceleague.adobe.com/NPmS-BMJjiAZnLUNwDLGufCEduFrXAS0-TAScXzGbL0
+TQID: 'https://experienceleague.adobe.com/NPmS-BMJjiAZnLUNwDLGufCEduFrXAS0-TAScXzGbL0'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: c03edad5-0111-525a-a563-c422672a5e57
+    internal-label: 3D
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 311
+source-wordcount: '311'
 ht-degree: 0%
-
 ---
-
 # Adobe3D和VR教程
 
-使用高质量的模型、素材和光源，更快地3D创建引人入胜的内容。 [!DNL Dimension]可让您轻松构建品牌可视化效果、插图、产品模型、包装设计和其他创意作品。 选择一个图像以查看教程。
+使用高质量的模型、材料和光源，更快地3D创建引人入胜的内容。 [!DNL Dimension]可让您轻松构建品牌可视化效果、插图、产品模型、包装设计和其他创意作品。 选择一个图像以查看教程。
 
 <table>
 <tr>
@@ -34,7 +39,7 @@ ht-degree: 0%
     <div>
    <a href="substance-3d-stager.md"><strong>3D设计和渲染</strong></a>
     </div>
-    <em>导入内容、安排场景、应用材质和纹理、调整基于图像和物理的光照、保存不同分辨率的相机以及渲染逼真的图像</em>
+    <em>导入内容、排列场景、应用材料和纹理、调整基于图像和物理的光照、存储不同分辨率的相机以及渲染逼真的图像</em>
     <br>
   </td>
   <td>
@@ -42,7 +47,7 @@ ht-degree: 0%
       <img alt="使用Adobe[!DNL Stock]和创建逼真的3D模型 [!DNL Dimension]" src="assets/CreateRealistic3DMockupswithAdobeStockandDimension.jpg" />
    </a>
     <div>
-   <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf"><strong>使用Adobe[!DNL Stock]和[!DNL Dimension] (PDF)创建逼真的3D模型</strong></a>
+   <a href="assets/CreateRealistic3DMockupswithAdobeStockandDimension.pdf"><strong>使用Adobe[!DNL Stock]和[!DNL Dimension](PDF)创建逼真的3D模型</strong></a>
     </div>
     <em>使用Adobe[!DNL Stock]轻松将2D设计与3D模型合并，并将图形置入Adobe[!DNL Dimension]</em>中
     <br>
@@ -52,7 +57,7 @@ ht-degree: 0%
       <img alt="使用Adobe显示3D对象上的衣料设计或图案 [!DNL Dimension]" src="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.jpg" />
    </a>
     <div>
-   <a href="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.pdf"><strong>使用Adobe[!DNL Dimension] (PDF)</strong></a>在3D对象上显示衣料设计或图案
+   <a href="assets/VisualizeTextileDesignsorPatternson3DObjectswithAdobeDimension.pdf"><strong>使用Adobe[!DNL Dimension](PDF)</strong></a>在3D对象上显示衣料设计或图案
     </div>
     <em>在几分钟内为最终产品创建超现实的呈现效果</em>
     <br>
@@ -76,7 +81,7 @@ ht-degree: 0%
     <div>
    <a href="mastering3dlighting.md"><strong>掌握CGI中3D光照的提示和技术</strong></a>
     </div>
-    <em>了解3D光照、如何创建不同的光照条件来完全改变计算机生成的场景，以及对象在场景中的呈现方式</em>
+    <em>了解3D光照、如何创建可以完全改变计算机生成场景的各种光照条件以及对象在这些光照环境下的显示方式</em>
     <br>
   </td>
   <td>
@@ -96,7 +101,7 @@ ht-degree: 0%
     <div>
    <a href="3ddimensionstock.md"><strong>使用[!DNL Dimension]和Adobe[!DNL Stock]</strong></a>自定义3D模型并为其添加品牌
     </div>
-    <em>使用材质、环境属性、光照和摄影在[!DNL Dimension]中自定义和标记3D模型，为任何设计项目创建逼真的图像</em>
+    <em>使用材料、环境属性、光照和摄影在[!DNL Dimension]中自定义和标记3D模型，为任何设计项目创建逼真的图像</em>
     <br>
   </td>
   <td>

@@ -6,20 +6,24 @@ role: User
 level: Beginner
 jira: KT-14827
 exl-id: a432839d-443c-4ae9-9d71-f8c6883151cd
-TQID: https://experienceleague.adobe.com/-XdqZQ3pCZFv8Wks4KLOHQxSF3OthXKbbeTTVLcE1oo
+TQID: 'https://experienceleague.adobe.com/-XdqZQ3pCZFv8Wks4KLOHQxSF3OthXKbbeTTVLcE1oo'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 130
+source-wordcount: '130'
 ht-degree: 0%
-
 ---
-
 # 如何使用元素
 
 了解如何将视觉设计元素添加到您的项目中，以使它们更具吸引力和吸引力。 有四种类型的元素：设计资源、背景、形状和图标。 每种元素类型都有数百个不同的组件可供选择。 每个元素都经过专业设计，可以随时添加到项目中。

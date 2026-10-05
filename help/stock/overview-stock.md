@@ -1,32 +1,40 @@
 ---
-title: Adobe [!DNL Stock] 教程
-description: 帮助您了解Adobe [!DNL Stock]的最新速度的Tutorials
+title: Adobe[!DNL Stock]教程
+description: 帮助您了解Adobe[!DNL Stock]的最新速度的Tutorials
 feature: Licensable Assets, Vector Editing, Image Editing, Video Editing
 role: User
 level: Beginner, Intermediate
 jira: KT-6943
 exl-id: 83e1af30-489f-474c-874a-8cd8b36d4a38
-TQID: https://experienceleague.adobe.com/C01ouFDgnKklJjZY4j2UOojCYgyAx8YS7Qt2Kx8GMDk
+TQID: 'https://experienceleague.adobe.com/C01ouFDgnKklJjZY4j2UOojCYgyAx8YS7Qt2Kx8GMDk'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
 feature_v2:
   - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+  - id: a84ae583-df23-5233-92bc-9551edca26c7
+    internal-label: Licensable Assets
 subfeature_v2:
   - id: aaae4770-bc47-47c2-876b-1fbcb533c42a
+    internal-label: Vector editing
   - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+    internal-label: Image editing
   - id: d1878b8b-dcd8-4fb4-9ec7-8030a8c54669
+    internal-label: Video editing
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 1257
+source-wordcount: '1258'
 ht-degree: 0%
-
 ---
-
 # Adobe[!DNL Stock]教程
 
 创意人员面临着快速提供引人入胜的视觉内容的压力。 Adobe Stock让创意团队每天可以在Creative Cloud应用程序中访问超过3亿张免版税图像、视频、音频文件、模板、插图和3D资源。 无限制访问Adobe Stock标准资源和Creative Cloud专业版。 在stock.adobe.com上浏览最新收藏集。 选择一个图像以查看教程。
@@ -60,7 +68,7 @@ ht-degree: 0%
       <div>
       <a href="handdrawn.md"><strong>将手绘美学添加到Adobe[!DNL Stock]图像</strong></a>
       </div>
-      <em>使用适用于iPad的Photoshop，通过独特的技术为图像增添深度和维度，从而增添创意营销效果</em>
+      <em>使用适用于iPad的Photoshop，通过独特的技术为图像添加深度和维度，从而增添创意营销效果</em>
       <br>
   </td>
   <td>
@@ -322,7 +330,7 @@ ht-degree: 0%
       <div>
       <a href="assets/CreateUniqueGraphicsbyCombiningAdobeStockImages.pdf" target="_blank"><strong>通过合并Adobe[!DNL Stock]图像来创建独特的图形(PDF)</strong></a>
       </div>
-      <em>将两个不同的图像组合在一起，为您的设计项目创造全新的场景。 通过Adobe[!DNL Stock]和Adobe Photoshop，可以轻松实现这一点</em>
+      <em>将两个不同的图像组合在一起，为您的设计项目创造全新的设计场景。 通过Adobe[!DNL Stock]和Adobe Photoshop，可以轻松实现这一点</em>
       <br>
    </td>
 </tr>
@@ -354,7 +362,7 @@ ht-degree: 0%
       <div>
       <a href="assets/RecolorAdobeStockVectorArtworkwithAdobeIllustratortoGetExactlytheLookYouWant.pdf" target="_blank"><strong>使用Adobe Illustrator对[!DNL Stock]矢量图稿重新着色Adobe以准确获得想要的外观(PDF)</strong></a>
       </div>
-      <em>Adobe[!DNL Stock]可让您轻松查找独特的矢量图形，而Adobe Illustrator可让您快速修改它们以匹配您的创意构想</em>
+      <em>Adobe[!DNL Stock]可让您轻松找到独特的矢量图形，而Adobe Illustrator可让您快速修改它们以匹配您的创意构想</em>
       <br>
    </td>
    <td>

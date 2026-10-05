@@ -6,28 +6,38 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6942
 exl-id: eea91ea5-9adc-4a7f-93c0-6cdfe650cfb7
-TQID: https://experienceleague.adobe.com/eeIW5Efbwzp7NrLzxzLuNAMj5l-lE3Zg0XqfLFnHpGQ
+TQID: 'https://experienceleague.adobe.com/eeIW5Efbwzp7NrLzxzLuNAMj5l-lE3Zg0XqfLFnHpGQ'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
 feature_v2:
   - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+  - id: 1fb90542-ecf7-55a9-93b7-4011ddcd40b5
+    internal-label: Collaboration
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
+  - id: dcec6556-a754-5235-b219-42ccb80fd3a2
+    internal-label: Integrations
 subfeature_v2:
   - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+    internal-label: Image editing
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 1412
+source-wordcount: '1412'
 ht-degree: 1%
-
 ---
-
 # 企业教程Creative Cloud
 
-作为企业创意人员，您必须与分散的团队协作，建立可扩展的流程，并遵守公司系统和指导原则。 这些教程帮助您从企业角度了解Creative Cloud的新功能。
+作为企业创意人员，您必须与分散的团队协作，建立可扩展的流程，并遵守公司系统和指导原则。 这些教程可帮助您从企业透视中学习Creative Cloud的新功能。
 
 ## 选择要查看的产品（按字母顺序列出）教程
 
@@ -210,7 +220,7 @@ ht-degree: 1%
     <div>
    <a href="assets/FromLightroomWebtoInDesignviaCreativeCloud.pdf"><strong>从Lightroom Web到InDesign，通过Creative Cloud(PDF)</strong></a>
     </div>
-    <em>通过Creative Cloud文件和图库，将您的创意从相机带入最终设计</em>
+    <em>利用Creative Cloud文件和库，将您的创意从相机带入最终设计</em>
     <br>
   </td>
   <td>
@@ -495,10 +505,10 @@ ht-degree: 1%
 <tr>
   <td>
     <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf">
-      <img alt="使用Photoshop和Adobe快速创建影院 [!DNL Stock]" src="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.jpg" />
+      <img alt="使用Photoshop和Adobe在捕捉中创建电影院 [!DNL Stock]" src="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.jpg" />
     </a>
     <div>
-    <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf"><strong>使用Photoshop和Adobe[!DNL Stock]快速创建电影院(PDF)</strong></a>
+    <a href="assets/CreateCinemagraphsinaSnapwithPhotoshopandAdobeStock.pdf"><strong>使用Photoshop和Adobe[!DNL Stock](PDF)在捕捉中创建电影院</strong></a>
     </div>
     <em>搜索在Adobe[!DNL Stock]上无缝循环播放的视频以在Photoshop中快速组合引人注目的电影</em>
     <br>
@@ -528,9 +538,9 @@ ht-degree: 1%
     <img alt="Photoshop + After Effects =出色的性能：Adobe MAX 2018实验室回顾" src="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.jpg" />
     </a>
     <div>
-    <a href="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.pdf"><strong>Photoshop + After Effects =了不起： Adobe MAX 2018实验室回顾(PDF)</strong></a>
+    <a href="assets/PhotoshopAfterEffectsAwesomenessAdobeMAX2018LabRecap.pdf"><strong>Photoshop + After Effects =了不起： Adobe MAX 2018实验室摘要(PDF)</strong></a>
     </div>
-    <em>在此分步实际操作实验室中，将Photoshop与After Effects相结合，创造出适合在任何介质中使用的令人惊叹的图像和效果</em>
+    <em>在此实操、分步实验室中，将Photoshop与After Effects相结合，创造出适合在任何介质中使用的令人惊叹的图像和效果</em>
     <br>
   </td>
 </tr>

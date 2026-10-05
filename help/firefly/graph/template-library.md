@@ -1,30 +1,45 @@
 ---
 title: 模板库
-description: 浏览现成的Firefly图模板，您可以打开这些模板并根据自己的项目进行调整
+description: 浏览现成的Firefly Graph模板，您可以打开并调整以适应您自己的项目
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-22134
 hide: true
-hidefromtoc: true
-source-git-commit: bf07a4d42a566cc2f415d36305b99e46f540e72a
+hidefromtoc: 'yes'
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: c31d989b-c5df-5b16-8862-a611a5e6e70b
+    internal-label: Gen AI
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+subfeature_v2:
+  - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+    internal-label: Image editing
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
 source-wordcount: '609'
 ht-degree: 3%
-
 ---
-
 # &#x200B;5. 模板库
 
-Firefly图形模板的快速引用索引，按每个模板的生产或操作进行组织。 每个示例都是一个起点 — 在生产中使用模板之前，替换您自己的品牌、产品和提示。
+萤火虫图形模板的快速引用索引，按每个模板生成或执行的内容进行组织。 每个示例都是一个起点 — 在生产中使用模板之前，替换您自己的品牌、产品和提示。
 
 ## 图像生成和样式
 
 | 图形模板 | 描述 | 使用案例 |
 |---|---|---|
-| [**入门 — 生成图像**](/help/firefly/graph/templates/get-started-gen-image.md) | 一个带有一个提示节点的基本图在一个输出中形成一个生成节点。 | <ul><li>主页横幅</li><li>Placeholder test</li><li>示例图像</li></ul> |
-| [**一致的字符生成**](/help/firefly/graph/templates/character-gen.md) | 载入角色的一张参考图像，然后为每个新拍摄互换场景或姿势提示。 | <ul><li>经常性吉祥物</li><li>辐条字符</li><li>讲师角色</li></ul> |
-| [**样式提取**](/help/firefly/graph/templates/style-extraction.md) | 在参考图像中馈入以对其进行颜色、光和纹理处理。 | <ul><li>外观转移</li><li>季节性外观匹配</li><li>情绪匹配</li></ul> |
+| [**入门 — 生成图像**](/help/firefly/graph/templates/get-started-gen-image.md) | 一种基本图形，包括一提示节点及一生成节点，该生成节点包括一输出端。 | <ul><li>主页横幅</li><li>Placeholder test</li><li>示例图像</li></ul> |
+| [**一致的字符生成**](/help/firefly/graph/templates/character-gen.md) | 载入角色的一个参考图像，然后为每个新拍摄交换场景或姿势提示。 | <ul><li>经常性吉祥物</li><li>辐条字符</li><li>讲师角色</li></ul> |
+| [**样式提取**](/help/firefly/graph/templates/style-extraction.md) | 在参考图像中馈送以对其进行颜色、亮度和纹理处理。 | <ul><li>外观转移</li><li>季节性外观匹配</li><li>情绪匹配</li></ul> |
 | [**日落氛围**](/help/firefly/graph/templates/sunset-vibes.md) | 根据文本提示创建3D排版图像。 | <ul><li>标语叠加</li><li>季节性标语</li><li>Flash销售资源</li></ul> |
 
 ## 分段与合成
@@ -32,7 +47,7 @@ Firefly图形模板的快速引用索引，按每个模板的生产或操作进�
 | 图形模板 | 描述 | 使用案例 |
 |---|---|---|
 | [**入门 — 分段图像**](/help/firefly/graph/templates/get-started-segment-image.md) | 加载任意源图像并运行分割节点以将主体与其背景隔离。 | <ul><li>清理抠图</li><li>目录隔离</li><li>背景交换</li></ul> |
-| [**合成和混合图层**](/help/firefly/graph/templates/composite-blend-layers.md) | 将产品抠图和背景场景作为单独的图层输入进行栈叠。 | <ul><li>生活方式/社交组合</li><li>主页横幅</li><li>联名复合</li></ul> |
+| [**合成和混合图层**](/help/firefly/graph/templates/composite-blend-layers.md) | 将产品抠图和背景堆叠为单独的图层输入。 | <ul><li>生活方式/社交组合</li><li>主页横幅</li><li>联名复合</li></ul> |
 | [**可选颜色校正**](/help/firefly/graph/templates/selective-color-correction.md) | 遮盖需要校正的特定区域，并仅在该节点上设置目标颜色。 | <ul><li>品牌颜色匹配</li><li>颜色标准化</li><li>杂色修复</li></ul> |
 
 ## 视频和运动
@@ -40,20 +55,20 @@ Firefly图形模板的快速引用索引，按每个模板的生产或操作进�
 | 图形模板 | 描述 | 使用案例 |
 |---|---|---|
 | [**入门 — 视频生成**](/help/firefly/graph/templates/get-started-video-gen.md) | 输入经过批准的静态关键图稿和简短动态提示。 | <ul><li>视频关键图稿</li><li>Launch Teaser</li><li>视频已剪切</li></ul> |
-| [**Bullet Time VFX**](/help/firefly/graph/templates/bullet-time-vfx.md) | 送进主产品或主体图像，在其周围产生一系列旋转角度，然后自动缝合冻结帧扫描。 | <ul><li>项目符号时间拍摄</li><li>360冻结帧</li><li>旋转主图</li></ul> |
+| [**Bullet Time VFX**](/help/firefly/graph/templates/bullet-time-vfx.md) | 输入主产品或主体图像，在其周围生成一系列旋转角度，然后自动缝合冻结帧扫描。 | <ul><li>项目符号时间拍摄</li><li>360冻结帧</li><li>旋转主图</li></ul> |
 
 ## 故事板
 
 | 图形模板 | 描述 | 使用案例 |
 |---|---|---|
 | [**向故事板发送文本**](/help/firefly/graph/templates/text-to-storyboard.md) | 将文本输入节点替换为文章中的元素。 | <ul><li>编写序列图像板脚本</li><li>启动情节提要</li><li>讲解者故事板</li></ul> |
-| [**故事板生成器**](/help/firefly/graph/templates/storyboard-builder.md) | 按场景构建故事板场景，在叙述的每一节节上添加一个节点。 | <ul><li>叙述结构测试</li><li>步调测试</li><li>叙述弧线</li></ul> |
+| [**故事板生成器**](/help/firefly/graph/templates/storyboard-builder.md) | 通过场景构建故事板场景，在叙述的每个节拍中添加一个节点。 | <ul><li>叙述结构测试</li><li>步调测试</li><li>叙述弧线</li></ul> |
 
 ## 3D和字符
 
 | 图形模板 | 描述 | 使用案例 |
 |---|---|---|
-| [**实时着色器**](/help/firefly/graph/templates/real-time-shaders.md) | 从图像开始，应用三个不同的自定义着色器，实时预览结果。 | <ul><li>配置器着色器</li><li>绘制素材预览</li><li>产品渲染</li></ul> |
+| [**实时着色器**](/help/firefly/graph/templates/real-time-shaders.md) | 从图像开始，应用三个不同的自定义着色器，实时预览结果。 | <ul><li>配置器着色器</li><li>材料预览</li><li>产品渲染</li></ul> |
 | [**字符模型生成**](/help/firefly/graph/templates/character-model-generation.md) | 创建插图的3D动画样式。 | <ul><li>吉祥物模型</li><li>基本3D模型</li><li>讲师模型</li></ul> |
 | [**乙烯基玩具设计**](/help/firefly/graph/templates/vinyl-toy-design.md) | 输入角色或吉祥物参考，并将其渲染为风格化的乙烯基玩具形式。 | <ul><li>可收藏概念</li><li>吉祥物</li><li>许可推销</li></ul> |
 | [**素描到3D转折**](/help/firefly/graph/templates/sketch-to-3d.md) | 将素描转换为3D角色。 | <ul><li>硬件周转</li><li>车辆和道具周转</li><li>字符周转</li></ul> |
