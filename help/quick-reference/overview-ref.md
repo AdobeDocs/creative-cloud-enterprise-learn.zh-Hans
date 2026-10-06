@@ -6,27 +6,41 @@ role: User
 level: Beginner, Intermediate
 jira: KT-7013
 exl-id: 5c981e46-7599-4b49-99be-f5dcee60636d
-TQID: https://experienceleague.adobe.com/aY5x7jWyzTgckibWDj7BcdvqyZR1yy4GUQOikhFWQRA
+TQID: 'https://experienceleague.adobe.com/aY5x7jWyzTgckibWDj7BcdvqyZR1yy4GUQOikhFWQRA'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
 feature_v2:
   - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
+  - id: 401e32ea-dbf3-5b5e-950e-e7ccc600fa78
+    internal-label: UI Design
+  - id: a84ae583-df23-5233-92bc-9551edca26c7
+    internal-label: Licensable Assets
+  - id: c03edad5-0111-525a-a563-c422672a5e57
+    internal-label: 3D
 subfeature_v2:
   - id: aaae4770-bc47-47c2-876b-1fbcb533c42a
+    internal-label: Vector editing
   - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+    internal-label: Image editing
   - id: d1878b8b-dcd8-4fb4-9ec7-8030a8c54669
+    internal-label: Video editing
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 1212
+source-wordcount: '1212'
 ht-degree: 0%
-
 ---
-
 # 企业快速参考指南Creative Cloud
 
 作为企业创意人员，您必须与分散的团队协作，建立可扩展的流程，并遵守公司系统和指导原则。 这些快速参考指南(PDF)可帮助您了解Creative Cloud的新功能。
@@ -42,7 +56,7 @@ ht-degree: 0%
     <div>
    <a href="CreateEditandShareaWebPagewithSpark.pdf" target="_blank"><strong>使用Spark(PDF)创建、编辑和共享网页</strong></a>
     </div>
-    <em>使用Adobe Spark中简单、直观的工具和来自Adobe[!DNL Stock]</em>的精美图像，为您的网页创建交互式、响应式且支持光框的照片网格
+    <em>使用Adobe Spark中简单、直观的网格和来自Adobe[!DNL Stock]</em>的精美图像，为您的网页创建交互式、响应式且支持灯光箱功能的照片工具
     <br>
   </td>
   <td>
@@ -375,7 +389,7 @@ ht-degree: 0%
     <div>
    <a href="CreatingRealistic3DMock-upswithAdobeStockandDimension.pdf" target="_blank"><strong>使用Adobe[!DNL Stock]和[!DNL Dimension]创建逼真的3D模型(PDF)</strong></a>
     </div>
-    <em>了解如何将来自Adobe[!DNL Stock]的3D模型与[!DNL Dimension]</em>中的自定义贴花组合，将您的设计转换为现实生活中的对象
+    <em>了解如何将来自Adobe[!DNL Stock]的3D模型与[!DNL Dimension]</em>中的自定义贴花组合，使您的设计平移于真实世界的对象
     <br>
   </td>
   <td>
@@ -385,7 +399,7 @@ ht-degree: 0%
     <div>
    <a href="SkiptheShootGettheShot.pdf" target="_blank"><strong>跳过拍摄 — 获取拍摄内容(PDF)</strong></a>
     </div>
-    <em>使用材质、环境属性、光照和摄影在[!DNL Dimension]中自定义和标记3D模型，为任何设计项目创建逼真的图像</em>
+    <em>使用材料、环境属性、光照和摄影在[!DNL Dimension]中自定义和标记3D模型，为任何设计项目创建逼真的图像</em>
     <br>
   </td>
   <td>
@@ -412,7 +426,7 @@ ht-degree: 0%
     <div>
    <a href="CreateAnimationsinRealTimewithCharacterAnimator.pdf" target="_blank"><strong>使用Character Animator(PDF)实时创建动画</strong></a>
     </div>
-    <em>使用面部打造富有表现力的Character Animator动画</em>
+    <em>使用您的脸部以Character Animator创建富有表现力的动画</em>
     <br>
   </td>
  <td>

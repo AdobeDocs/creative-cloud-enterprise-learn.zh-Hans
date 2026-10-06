@@ -6,20 +6,24 @@ role: User
 level: Beginner
 jira: KT-14823
 exl-id: ae603124-9537-4aea-9e5f-f5c4fbf49495
-TQID: https://experienceleague.adobe.com/yc3IzZWgenFat95E9NhnQIWFqh0qFnKNpbKdG5bs06Y
+TQID: 'https://experienceleague.adobe.com/yc3IzZWgenFat95E9NhnQIWFqh0qFnKNpbKdG5bs06Y'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 142
+source-wordcount: '142'
 ht-degree: 0%
-
 ---
-
 # 项目的UX
 
 了解如何在Adobe Express中导航工作区。 工作区包含强大的搜索功能，可用于查找背景、音频模板和照片。 您可以访问自己的品牌和模板，并搜索特定主题。 可以从设备上传媒体或从Adobe Stock collection中选择媒体。 设计资源、背景、形状和图标可在项目中使用。 此外，您还可以邀请同事协作处理项目设计。

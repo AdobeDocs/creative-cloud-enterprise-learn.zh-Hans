@@ -1,22 +1,37 @@
 ---
-title: ​3. 创建您的第一个图表
-description: 构建第一个Firefly图的分步演练
+title: 3. 创建您的第一个图形
+description: 构建第一个萤火虫图的分步演练
 feature: Image Editing, Gen AI
 role: User
 level: Beginner
 jira: KT-22054
 hide: true
 hidefromtoc: true
-source-git-commit: 68283426ada0fc12630e61d3e4441bf11531816c
+product_v2:
+  - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: c31d989b-c5df-5b16-8862-a611a5e6e70b
+    internal-label: Gen AI
+  - id: fec89bf3-1b77-4b07-a0b9-96726856a0ad
+    internal-label: Editing
+subfeature_v2:
+  - id: b29e1156-4668-4c0c-84e3-9347e94225ed
+    internal-label: Image editing
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 1%
-
 ---
+# &#x200B;3. 创建您的第一个图形
 
-# &#x200B;3. 创建您的第一个图表
-
-一旦您知道节点、连接和模板是什么，您就可以开始构建第一个图形了。
+一旦您知道节点、连接和模板是什么，您就可以开始构建第一个图形。
 
 ## 跟随
 
@@ -29,6 +44,6 @@ ht-degree: 1%
 
 ## 下一步
 
-前往[4。 与他人共享图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/share-a-graph)与他人共享您的图形。
+前往[4。 与他人共享图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/share-a-graph)与他人共享图形。
 
-返回[开始使用Firefly图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。
+返回[开始使用萤火虫图形](https://experienceleague.adobe.com/zh-hans/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-graph/overview-firefly-graph)。

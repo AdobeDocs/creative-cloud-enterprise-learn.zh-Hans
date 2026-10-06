@@ -6,20 +6,24 @@ role: User
 level: Beginner
 jira: KT-14828
 exl-id: 08e566b6-b1fa-4834-b17a-5ea55dc16877
-TQID: https://experienceleague.adobe.com/nelySfZhQU9yfnOS1MwXJjpNEREZvbsSGgeWuF6XI5s
+TQID: 'https://experienceleague.adobe.com/nelySfZhQU9yfnOS1MwXJjpNEREZvbsSGgeWuF6XI5s'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 122
+source-wordcount: '122'
 ht-degree: 0%
-
 ---
-
 # 如何共享和下载
 
 了解以下载和共享不同文件格式（例如PNG、JPEG或PDF）项目的选项。 Publish将项目发布到Web并生成链接以便轻松访问，或者利用选项直接将媒体安排和共享到社交媒体平台，以便为每个平台自定义帖子。

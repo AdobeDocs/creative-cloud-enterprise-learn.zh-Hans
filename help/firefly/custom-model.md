@@ -6,23 +6,31 @@ role: User
 level: Beginner
 jira: KT-19197
 exl-id: a5719996-be82-4847-b5c2-2a5909ef43ea
-TQID: https://experienceleague.adobe.com/ll-CZjLQZu--txPq49ZIv-sMxt6pfLPhJX9KDkj4jAQ
+TQID: 'https://experienceleague.adobe.com/ll-CZjLQZu--txPq49ZIv-sMxt6pfLPhJX9KDkj4jAQ'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
+  - id: c31d989b-c5df-5b16-8862-a611a5e6e70b
+    internal-label: Gen AI
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Security
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 211
+source-wordcount: '211'
 ht-degree: 0%
-
 ---
-
 # 创建自定义模型
 
 了解如何在Firefly中培训自定义模型，以为您组织的品牌创作全新的图像。 自定义模型允许您大规模创建相关的、个性化的品牌内容。 在[此处](https://helpx.adobe.com/cn/firefly/web/work-with-enterprise-features/train-custom-models/custom-models-overview.html)了解有关培训自定义模型的更多信息。
@@ -41,9 +49,9 @@ ht-degree: 0%
 
 **品牌一致设计**&#x200B;快速创建与您的品牌美学紧密相关的视觉效果。
 
-**角色主题**&#x200B;跨场景、光照、姿势等保持基于角色的图像的一致性。减少开发时间。
+**字符主题**&#x200B;保持场景、光照、姿势等基于字符的图像的一致性。减少开发时间。
 
-**概念迭代速度更快**&#x200B;通过更快地展示符合品牌的创意和概念，加快利益相关者之间的协调速度。
+**更快的概念迭代**&#x200B;通过更快地展示符合品牌形象的创意和概念，加快利益相关者之间的协调。
 
 >[!IMPORTANT]
 >

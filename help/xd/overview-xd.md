@@ -6,24 +6,31 @@ role: User
 level: Beginner, Intermediate
 jira: KT-6944
 exl-id: 411ef3da-42c1-4c98-a75d-dca990546eb4
-TQID: https://experienceleague.adobe.com/M7ZbwU4I7Dq26Hh3Ps-WJD7jhYwwVo5VrNfllLeTwEU
+TQID: 'https://experienceleague.adobe.com/M7ZbwU4I7Dq26Hh3Ps-WJD7jhYwwVo5VrNfllLeTwEU'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: 401e32ea-dbf3-5b5e-950e-e7ccc600fa78
+    internal-label: UI Design
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: a09a5a04-e30b-4d55-b031-38e6f5ec86db
+    internal-label: Experience design
   - id: e9001ce2-5245-4a8e-8601-dd958009072f
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Web experience
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 462
+source-wordcount: '462'
 ht-degree: 0%
-
 ---
-
 # Adobe XD教程
 
 Adobe XD是一款用户体验设计和原型设计工具，用于设计网站、应用程序、语音界面、游戏和其他类型的数字体验。 选择一个图像以查看教程。
@@ -109,7 +116,7 @@ Adobe XD是一款用户体验设计和原型设计工具，用于设计网站、
     <div>
    <a href="assets/MobileWebExperienceswithXD.pdf" target="_blank"><strong>使用XD设计移动Web体验(PDF)</strong></a>
     </div>
-    <em>使用Adobe XD幕后了解Russell Brown MAX Madness移动Web画廊的设计流程</em>
+    <em>了解使用Adobe XD的Russell Brown MAX Madness移动Web画廊的设计流程，了解场景的幕后花絮</em>
     <br>
   </td>
 </tr>
@@ -136,10 +143,10 @@ Adobe XD是一款用户体验设计和原型设计工具，用于设计网站、
   </td>
   <td>
    <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf" target="_blank">
-      <img alt="MAX与Adobe XD的疯狂背后" src="assets/BehindtheScenesofMAXMadnesswithAdobeXD.jpg" />
+      <img alt="MAX疯狂与Adobe XD的场景背后" src="assets/BehindtheScenesofMAXMadnesswithAdobeXD.jpg" />
    </a>
     <div>
-   <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf" target="_blank"><strong>MAX与Adobe XD的幕后花絮(PDF)</strong></a>
+   <a href="assets/BehindtheScenesofMAXMadnesswithAdobeXD.pdf" target="_blank"><strong>MAX与Adobe XD的疯狂场景背后(PDF)</strong></a>
     </div>
     <em>提供优化的移动Web体验确实能让您的用户产生共鸣</em>
     <br>

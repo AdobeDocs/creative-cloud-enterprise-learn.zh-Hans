@@ -6,20 +6,24 @@ role: User
 level: Beginner
 jira: KT-13417
 exl-id: 770172e2-2cd4-4333-81bf-8b1af6eef1c0
-TQID: https://experienceleague.adobe.com/JYD8EkA9UM6xGJalICaolk0hqYo3aSfN9h61JYHFsiI
+TQID: 'https://experienceleague.adobe.com/JYD8EkA9UM6xGJalICaolk0hqYo3aSfN9h61JYHFsiI'
 product_v2:
   - id: e66c61b1-1ca4-4c42-8df9-e5cb44b0555c
+    internal-label: Creative Cloud
+feature_v2:
+  - id: b1f6f7fb-294d-52dd-8e6a-2bf31bf93853
+    internal-label: Graphic Design
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: af4fdb8dfc8c84e5e51525c730d0ba8831179443
+    internal-label: Beginner
+source-git-commit: b4ccb0a72c95fa56cd4908aae754dfb8b399cd31
 workflow-type: tm+mt
-source-wordcount: 137
+source-wordcount: '137'
 ht-degree: 0%
-
 ---
-
 # 设置品牌套件
 
 了解如何创建品牌资源收藏集，以为您的企业或个人项目创建一致且专业的设计。 品牌工具包是一个品牌资产的集合，如徽标、颜色、字体、图形和模板。 他们可以从头开始创建，也可以从现有库创建，然后与具有编辑或查看权限的同事共享。
