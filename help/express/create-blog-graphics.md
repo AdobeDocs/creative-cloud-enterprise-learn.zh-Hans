@@ -31,6 +31,6 @@ ht-degree: 5%
 ---
 # 轻松开展社交营销活动
 
-了解如何在Adobe Firefly的支持下使用文本到图像，为Web、博客和社交活动创建独特的图形内容。 本教程使用新的[Adobe Express](https://www.adobe.com/express/)。
+了解如何在Adobe Firefly的支持下使用文本到图像，为Web、博客和社交活动创建独特的图形内容。 本教程使用新的[Adobe Express](https://www.adobe.com/cn/express/)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441374?captions=chi_hans&quality=12&learn=on&hidetitle=true)
