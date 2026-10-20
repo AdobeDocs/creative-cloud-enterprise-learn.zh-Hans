@@ -30,6 +30,6 @@ ht-degree: 3%
 ---
 # 通过Firefly创建招聘和入门培训内容
 
-了解如何在Adobe Express中使用Adobe Firefly支持的文本到图像功能，为员工招聘和入门培训内容创建独特的图形。 在本例中，我们使用了模板，这样公司内的每个人都可以创建与品牌完全一致的内容。 本教程使用新的[Adobe Express](https://www.adobe.com/express/)。
+了解如何在Adobe Express中使用Adobe Firefly支持的文本到图像功能，为员工招聘和入门培训内容创建独特的图形。 在本例中，我们使用了模板，这样公司内的每个人都可以创建与品牌完全一致的内容。 本教程使用新的[Adobe Express](https://www.adobe.com/cn/express/)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444270?captions=chi_hans&quality=12&learn=on&hidetitle=true)

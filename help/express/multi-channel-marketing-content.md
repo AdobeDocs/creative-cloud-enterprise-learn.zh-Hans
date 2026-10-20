@@ -33,6 +33,6 @@ ht-degree: 3%
 
 了解活动营销团队如何创建独特的内容以吸引在线活动的观众。 在此工作流中，B2B营销人员使用其品牌套件和库中的模板在Adobe Express中启动一个新项目。 B2B营销人员为不同的社交和网络渠道创建变体，并在社交媒体和视频托管平台上共享内容。
 
-本教程使用新的[Adobe Express](https://www.adobe.com/express/)。
+本教程使用新的[Adobe Express](https://www.adobe.com/cn/express/)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444989?captions=chi_hans&quality=12&learn=on&hidetitle=true)

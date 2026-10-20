@@ -33,6 +33,6 @@ ht-degree: 4%
 ---
 # 使用Firefly创建社交海报
 
-了解如何在Adobe Express中使用Adobe Firefly支持的文本到图像功能，为社交媒体创建促销活动。 本教程使用新的[Adobe Express](https://www.adobe.com/express/)。
+了解如何在Adobe Express中使用Adobe Firefly支持的文本到图像功能，为社交媒体创建促销活动。 本教程使用新的[Adobe Express](https://www.adobe.com/cn/express/)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430568?captions=chi_hans&quality=12&learn=on&hidetitle=true)
