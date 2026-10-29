@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: 9737f2658a0d2570b9731f78d50fa7633855cf01
+source-git-commit: f7f52e4c28c9c376b51b83fc5711dc963dca0e7e
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '120'
 ht-degree: 0%
 ---
 # 企业AI教程Creative Cloud
@@ -31,8 +31,13 @@ ht-degree: 0%
     <br>
   </td>
   <td>
-    <img alt="间隔物" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="seamless-vector.md">
+      <img alt="几分钟内即可形成无缝的矢量图案，而不是几小时" src="../../assets/seamless-vector.png" />
+   </a>
     <div>
+   <a href="seamless-vector.md"><strong>几分钟内即可形成无缝的矢量图案，而不是几小时</strong></a>
+    </div>
+    <em>了解如何在Illustrator中构建无缝品牌图案，而无需手动检查每个重复边缘</em>
     <br>
   </td>
   <td>
