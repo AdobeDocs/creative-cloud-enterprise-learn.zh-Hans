@@ -7,14 +7,14 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: 91f579e542ea780ee55aaeb65eefd213f41ed1d7
+source-git-commit: 9737f2658a0d2570b9731f78d50fa7633855cf01
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '90'
 ht-degree: 0%
 ---
 # 企业AI教程Creative Cloud
 
-探索可帮助您发现创意、创建Creative Cloud和简化创意工作流程的教程。 这些教程按角色分组：图形Designer、Creative/Art Director、Photoshop艺术家/Retoucher和视频编辑器。
+探索可帮助您使用Creative Cloud中的AI发现创意、创建内容和简化创意工作流程的教程。 这些教程按角色分组：图形Designer、Creative/Art Director、Photoshop艺术家/Retoucher和视频编辑器。
 
 ## 图形Designer
 
@@ -31,17 +31,17 @@ ht-degree: 0%
     <br>
   </td>
   <td>
-    <img alt="间隔物" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="间隔物" src="../../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="间隔物" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="间隔物" src="../../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="间隔物" src="../assets/acrobat_PDF_whitespacer_96.png" />
+    <img alt="间隔物" src="../../assets/acrobat_PDF_whitespacer_96.png" />
     <div>
     <br>
   </td>
