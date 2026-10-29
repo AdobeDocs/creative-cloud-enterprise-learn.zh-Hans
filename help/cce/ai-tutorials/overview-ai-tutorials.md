@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: f7f52e4c28c9c376b51b83fc5711dc963dca0e7e
+source-git-commit: b787511cf017c97d40f0b9501ad126ff45fe69fd
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '155'
 ht-degree: 0%
 ---
 # 企业AI教程Creative Cloud
@@ -52,3 +52,36 @@ ht-degree: 0%
   </td>
 </tr>
 </table>
+
+## Creative/Art Director
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+   <a href="one-brief.md">
+      <img alt="午餐前，一个小题大做了20个方向" src="../../assets/one-brief.png" />
+   </a>
+    <div>
+   <a href="one-brief.md"><strong>午饭前，从一份简报获得20条路线</strong></a>
+    </div>
+    <em>了解如何将创意简报转变为具有强烈视觉指导的共享讨论区</em>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔物" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔物" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔物" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
