@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: cf848c3ca49226d8264100a7c6143bff7b0cd38d
+source-git-commit: 95ceedf2be8ea49003f3e2388f3556746dee6b7a
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '298'
 ht-degree: 0%
 ---
 # 企业AI教程Creative Cloud
@@ -105,8 +105,13 @@ ht-degree: 0%
     <br>
   </td>
   <td>
-    <img alt="间隔物" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="build-presets.md">
+      <img alt="构建预设，使整个拍摄的颜色保持一致" src="../../assets/build-presets.png" />
+   </a>
     <div>
+   <a href="build-presets.md"><strong>构建预设，使整个拍摄的颜色保持一致</strong></a>
+    </div>
+    <em>了解如何在不逐张编辑每个图像的情况下，使整个照片看起来保持一致</em>
     <br>
   </td>
   <td>
