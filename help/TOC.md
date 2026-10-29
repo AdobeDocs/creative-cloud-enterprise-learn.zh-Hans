@@ -9,19 +9,21 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: dec5f84efd42c91c97fc49e3043c09add3d78ed6
+source-git-commit: f7f52e4c28c9c376b51b83fc5711dc963dca0e7e
 workflow-type: tm+mt
-source-wordcount: '905'
+source-wordcount: '925'
 ht-degree: 3%
-
 ---
 
-
-# 面向企业Tutorials的Creative Cloud {#cce-learning-hub}
+# 企业教程Creative Cloud {#cce-learning-hub}
 
 + [概述](overview.md)
 + 适用于企业的 Creative Cloud {#cceoverview}
   + [概述](cce/overview-cce.md)
+  + {hide-from-toc}[AI教程] {#cceaitutorials}
+    + {hide-from-toc}[概述](cce/ai-tutorials/overview-ai-tutorials.md)
+    + {hide-from-toc}[将平面矢量图转换为任意角度 — 无需重新绘制](cce/ai-tutorials/turn-flat-vector-art.md)
+    + {hide-from-toc}[几分钟内即可形成无缝的矢量图案，而不是几小时](cce/ai-tutorials/seamless-vector.md)
   + 教程 {#ccetutorials}
     + [适用于内容创作者的Acrobat](cce/acrobat-content-creators.md)
     + [使用CC Libraries改进CC工作流](cce/cc-workflows-cc-libraries.md)
@@ -72,7 +74,7 @@ ht-degree: 3%
     + [如何使用生成式填充](express/generative-fill.md)
     + [使用Gen AI改进文本设计](express/gen-text.md)
     + [如何使用文本到模板生成人工智能](express/text-to-template.md)
-    + [如何批量翻译您的内容](express/bulk-translate.md)
+    + [如何批量平移内容](express/bulk-translate.md)
     + [如何编辑PDF](express/edit-a-pdf.md)
     + [如何使用调度程序进行过帐](express/schedule.md)
     + [编组对象](express/group-objects.md)
@@ -133,16 +135,16 @@ ht-degree: 3%
     + {hide-from-toc}[摄影预视化](firefly/photoshoot-pre-visualization.md)
     + {hide-from-toc}[无需会议、标记和模型即可探索产品创意](firefly/explore-product-ideas.md)
     + {hide-from-toc}[将一个单词转换为共享的创意构想](firefly/creative-vision.md)
-    + {hide-from-toc}[相机胶卷前对齐](firefly/align-camera-roll.md)
+    + {hide-from-toc}[相机滚动前对齐](firefly/align-camera-roll.md)
   + {hide-from-toc}个图形教程 {#firefly-graph}
-    + {hide-from-toc}[Adobe Firefly图形概述](firefly/graph/overview-firefly-graph.md)
-    + {hide-from-toc}[什么是Firefly图形？](firefly/graph/what-is-firefly-graph.md)
-    + {hide-from-toc}[Firefly图形关键概念](firefly/graph/key-concepts.md)
+    + {hide-from-toc}[图形概述](firefly/graph/overview-firefly-graph.md)
+    + {hide-from-toc}[什么是萤火虫图形？](firefly/graph/what-is-firefly-graph.md)
+    + {hide-from-toc}[萤火虫图关键概念](firefly/graph/key-concepts.md)
     + {hide-from-toc}[创建您的第一个图形](firefly/graph/create-your-first-graph.md)
-    + {hide-from-toc}[共享您的图表](firefly/graph/share-a-graph.md)
+    + {hide-from-toc}[共享您的图形](firefly/graph/share-a-graph.md)
     + {hide-from-toc}[模板库](firefly/graph/template-library.md)
     + {hide-from-toc}[自定义模板](firefly/graph/customize-template.md)
-    + {hide-from-toc}[Firefly图形网络研讨会简介](firefly/graph/introducing-graph.md)
+    + {hide-from-toc}[介绍萤火虫图形网络研讨会](firefly/graph/introducing-graph.md)
     + {hide-from-toc}个图形模板 {#graph-templates}
       + {hide-from-toc}[入门 — 生成图像](firefly/graph/templates/get-started-gen-image.md)
       + {hide-from-toc}[一致的字符生成](firefly/graph/templates/character-gen.md)
@@ -207,7 +209,7 @@ ht-degree: 3%
   + [概述](dva/overview-dva.md)
   + 教程 {#videotutorials}
     + [专业的动态图形模板](dva/motion-graphics-templates.md)
-    + [使用Frame.io进行视频审阅](dva/video-review-frame-io.md)
+    + [使用帧.io进行视频审阅](dva/video-review-frame-io.md)
   + 快速参考指南 {#videorefguides}
     + [视频参考线](dva/overview-dva-ref.md)
 + Adobe XD {#xdoverview}
