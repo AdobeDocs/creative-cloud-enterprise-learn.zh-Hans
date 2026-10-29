@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: b787511cf017c97d40f0b9501ad126ff45fe69fd
+source-git-commit: b1cffc816ca06a24dce4b70f938c5ed0c8d36db0
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '193'
 ht-degree: 0%
 ---
 # 企业AI教程Creative Cloud
@@ -84,4 +84,37 @@ ht-degree: 0%
   </td>
 </tr>
 </table>
+
+## Photoshop Artist/Retoucher
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+   <a href="retouch-faster.md">
+      <img alt="加快修饰速度并保留原始像素" src="../../assets/retouch.png" />
+   </a>
+    <div>
+   <a href="retouch-faster.md"><strong>更快地修饰并保持原始像素</strong></a>
+    </div>
+    <em>了解如何在Photoshop中为产品照片添加自然阴影，同时保持原始像素不变</em>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔物" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔物" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔物" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
 
