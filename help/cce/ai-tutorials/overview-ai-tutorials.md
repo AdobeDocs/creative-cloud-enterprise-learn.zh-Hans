@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: b1cffc816ca06a24dce4b70f938c5ed0c8d36db0
+source-git-commit: 63b6d4f6bba92207bff7cd9b981c9c10a8a3dbbf
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '234'
 ht-degree: 0%
 ---
 # 企业AI教程Creative Cloud
@@ -97,6 +97,38 @@ ht-degree: 0%
    <a href="retouch-faster.md"><strong>更快地修饰并保持原始像素</strong></a>
     </div>
     <em>了解如何在Photoshop中为产品照片添加自然阴影，同时保持原始像素不变</em>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔物" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔物" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="间隔物" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+## 视频编辑器
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+   <a href="fill-gaps.md">
+      <img alt="填充剪切中的空隙：B形、音频以及结束太快的剪辑" src="../../assets/fill-gaps.png" />
+   </a>
+    <div>
+   <a href="fill-gaps.md"><strong>填充剪切中的空隙：B形、音频和即将结束的剪辑</strong></a>
+    </div>
+    <em>了解如何在Premiere中使用生成式扩展</em>
     <br>
   </td>
   <td>
