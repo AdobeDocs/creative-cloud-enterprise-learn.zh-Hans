@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-23021
 hide: true
 hidefromtoc: true
-source-git-commit: 95ceedf2be8ea49003f3e2388f3556746dee6b7a
+source-git-commit: 72601cd9612b12283c0bae7b4b21d030e8cf1d77
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '329'
 ht-degree: 0%
 ---
 # 企业AI教程Creative Cloud
@@ -141,9 +141,14 @@ ht-degree: 0%
     <em>了解如何在Premiere中使用生成式扩展</em>
     <br>
   </td>
-  <td>
-    <img alt="间隔物" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+ <td>
+   <a href="rough-cut.md">
+      <img alt="更快地获得粗剪" src="../../assets/rough-cut.png" />
+   </a>
     <div>
+   <a href="rough-cut.m"><strong>更快地获得粗剪</strong></a>
+    </div>
+    <em>了解如何在Premiere中更快地从访谈和B形滚动中构建粗剪，而无需划动每个剪辑</em>
     <br>
   </td>
   <td>
