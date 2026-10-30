@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: f7f52e4c28c9c376b51b83fc5711dc963dca0e7e
+source-git-commit: dac9b2dca8056ae4ef125af7d46624437f414114
 workflow-type: tm+mt
-source-wordcount: '925'
+source-wordcount: '976'
 ht-degree: 3%
 ---
 
@@ -20,10 +20,16 @@ ht-degree: 3%
 + [概述](overview.md)
 + 适用于企业的 Creative Cloud {#cceoverview}
   + [概述](cce/overview-cce.md)
-  + {hide-from-toc}[AI教程] {#cceaitutorials}
-    + {hide-from-toc}[概述](cce/ai-tutorials/overview-ai-tutorials.md)
-    + {hide-from-toc}[将平面矢量图转换为任意角度 — 无需重新绘制](cce/ai-tutorials/turn-flat-vector-art.md)
-    + {hide-from-toc}[几分钟内即可形成无缝的矢量图案，而不是几小时](cce/ai-tutorials/seamless-vector.md)
+  + AI教程 {#cceaitutorials}
+    + [概述](cce/ai-tutorials/overview-ai-tutorials.md)
+    + [将平面矢量图转换为任意角度 — 无需重新绘制](cce/ai-tutorials/turn-flat-vector-art.md)
+    + [几分钟内即可形成无缝的矢量图案，而不是几小时](cce/ai-tutorials/seamless-vector.md)
+    + [午餐前，一个小题大做了20个方向](cce/ai-tutorials/one-brief.md)
+    + [从简报到情节提要：在生产之前探索视频方向](cce/ai-tutorials/brief-to-storyboard.md)
+    + [加快修饰速度并保留原始像素](cce/ai-tutorials/retouch-faster.md)
+    + [构建预设，使整个拍摄的颜色保持一致](cce/ai-tutorials/build-presets.md)
+    + [填充剪切中的空隙：B形、音频以及结束太快的剪辑](cce/ai-tutorials/fill-gaps.md)
+    + [更快地获得粗剪](cce/ai-tutorials/rough-cut.md)
   + 教程 {#ccetutorials}
     + [适用于内容创作者的Acrobat](cce/acrobat-content-creators.md)
     + [使用CC Libraries改进CC工作流](cce/cc-workflows-cc-libraries.md)
