@@ -33,7 +33,7 @@ ht-degree: 0%
 
 了解如何擦除图像中的特定区域。 或者，您可以使用恢复工具恢复图像的部分内容。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427019?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506188?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 ## 此系列中的其他视频
 

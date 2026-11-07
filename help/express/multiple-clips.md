@@ -33,7 +33,7 @@ ht-degree: 0%
 
 了解如何向时间轴添加新视频剪辑、调整其长度、添加过渡和拆分剪辑以创建新场景。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427091?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506278?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 ## 此系列中的其他视频
 

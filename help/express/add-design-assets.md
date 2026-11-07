@@ -28,7 +28,7 @@ ht-degree: 0%
 
 了解如何将视觉设计元素添加到您的项目中，以使它们更具吸引力和吸引力。 有四种类型的元素：设计资源、背景、形状和图标。 每种元素类型都有数百个不同的组件可供选择。 每个元素都经过专业设计，可以随时添加到项目中。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426935?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506161?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 ## 此系列中的其他视频
 

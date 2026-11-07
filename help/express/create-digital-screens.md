@@ -33,4 +33,4 @@ ht-degree: 0%
 
 了解如何为办公室创建引人入胜的数字屏幕公告。 通过使用由Adobe Firefly提供支持的文本到模板，您可以生成包含文本复制空间的个性化图像。 添加了生成式填充和动画，使公告更具吸引力。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427119?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506323?captions=chi_hans&quality=12&learn=on&hidetitle=true)

@@ -33,7 +33,7 @@ ht-degree: 0%
 
 了解时间轴，可在其中排列和编辑项目中的视频对象，如视频、图像、文本和图形。 时间轴表示对象以及构成视频的对象的顺序。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427090?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506197?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 ## 此系列中的其他视频
 

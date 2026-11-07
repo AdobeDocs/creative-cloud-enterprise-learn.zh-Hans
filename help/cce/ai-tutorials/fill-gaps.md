@@ -14,4 +14,4 @@ ht-degree: 0%
 
 您的B卷只有几秒短，拍摄结束。 现在怎么办？ 了解如何在Premiere中使用生成式扩展功能，根据已有的剪辑生成其他素材，以便您可以根据需要进行精确剪切。
 
->[!VIDEO](https://video.tv.adobe.com/v/3505947?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3505975?captions=chi_hans&quality=12&learn=on&hidetitle=true)

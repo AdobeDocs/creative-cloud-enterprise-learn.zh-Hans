@@ -28,7 +28,7 @@ ht-degree: 0%
 
 了解如何保存模板并将其共享到团队的品牌套件或库中。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427098?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506269?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 ## 此系列中的其他视频
 

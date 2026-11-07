@@ -14,4 +14,4 @@ ht-degree: 0%
 
 在本教程中，创意技术专家Mary Poplin演示了如何将简短和几个参考转变为故事板帧、生成简短的运动测试并并并排比较两个方向，以便您选择值得制作的方向。 观看教程并在下一个视频简介中在Firefly讨论区中试用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3505948?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3505984?captions=chi_hans&quality=12&learn=on&hidetitle=true)
