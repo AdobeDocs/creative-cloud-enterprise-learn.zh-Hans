@@ -33,7 +33,7 @@ ht-degree: 0%
 
 了解开始视频项目的各种方法，包括如何使用社交媒体视频模板。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427070?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506125?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 ## 此系列中的其他视频
 

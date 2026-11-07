@@ -33,7 +33,7 @@ ht-degree: 0%
 
 了解如何使用快速操作一键移除图像中的背景。 删除背景后，即可下载您的图像并将其用于多种用途。
 
->[!VIDEO](https://video.tv.adobe.com/v/3420220?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506222?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 ## 此系列中的其他视频
 

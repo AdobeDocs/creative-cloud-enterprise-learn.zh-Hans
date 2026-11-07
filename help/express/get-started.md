@@ -28,7 +28,7 @@ ht-degree: 0%
 
 浏览“主页”页面，以便您可以轻松地在应用程序中导航。 了解快速操作、模板、季节性设计、品牌、库、调度程序、教程等。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426924?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506359?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 ## 此系列中的其他视频
 

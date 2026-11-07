@@ -28,7 +28,7 @@ ht-degree: 0%
 
 了解如何错开动画，以得到理想的行为来吸引某人的注意力。 调整不同元素的时机，以便更轻松地阅读消息。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426981?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506263?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 ## 此系列中的其他视频
 

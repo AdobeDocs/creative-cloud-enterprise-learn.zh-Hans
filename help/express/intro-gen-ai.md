@@ -28,7 +28,7 @@ ht-degree: 0%
 
 了解Adobe Express中的新Gen AI功能。 使用文本提示，您可以轻松地创建设计和模板，将元素添加到图像以及对文本应用特殊效果。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427018?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506223?captions=chi_hans&quality=12&learn=on&hidetitle=true)
 
 ## 此系列中的其他视频
 

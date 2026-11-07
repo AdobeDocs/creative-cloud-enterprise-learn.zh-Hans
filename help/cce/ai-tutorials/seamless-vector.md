@@ -14,4 +14,4 @@ ht-degree: 0%
 
 了解如何在Illustrator中构建无缝品牌图案，而无需手动检查每个重复边缘。 了解“生成图案”如何创建一个起点，如何将您自己的徽标图标拖放到拼贴中，以及如何针对包装、手提包和活动背景缩放重复项。 您还将了解“生成式重新着色”如何从一个完全可编辑的设计中构建三个配色。
 
->[!VIDEO](https://video.tv.adobe.com/v/3505924?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3505945?captions=chi_hans&quality=12&learn=on&hidetitle=true)
