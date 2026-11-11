@@ -5,9 +5,9 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-23021
-source-git-commit: 055ac3bad810a31a979a88d730e044dcda3241b7
+source-git-commit: a6486cb4cee2b1de98ecabfe23a80ceb95b378f9
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '383'
 ht-degree: 0%
 ---
 # 企业AI教程Creative Cloud
@@ -149,14 +149,19 @@ ht-degree: 0%
       <img alt="更快地获得粗剪" src="../../assets/rough-cut.png" />
    </a>
     <div>
-   <a href="rough-cut.m"><strong>更快地获得粗剪</strong></a>
+   <a href="rough-cut.md"><strong>更快地获得粗剪</strong></a>
     </div>
     <em>了解如何在Premiere中更快地从访谈和B形滚动中构建粗剪，而无需划动每个剪辑</em>
     <br>
   </td>
   <td>
-    <img alt="间隔物" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="match-color.md">
+      <img alt="跨镜头匹配颜色 — 无需色轮" src="../../assets/match-color.png" />
+   </a>
     <div>
+   <a href="match-color.md"><strong>镜头间颜色匹配 — 无需色轮</strong></a>
+    </div>
+    <em>了解如何使镜头以不同的方式照亮，看起来像是属于同一编辑区域</em>
     <br>
   </td>
   <td>
