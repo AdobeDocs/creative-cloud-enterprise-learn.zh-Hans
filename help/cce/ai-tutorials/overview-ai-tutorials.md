@@ -5,9 +5,9 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-23021
-source-git-commit: 230e8dcc3d293a7d9e3382b3604dda7466c6d739
+source-git-commit: 013ef02968a0b1319d001476d8594099798f55cd
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '443'
 ht-degree: 0%
 ---
 # 企业AI教程Creative Cloud
@@ -118,8 +118,13 @@ ht-degree: 0%
     <br>
   </td>
   <td>
-    <img alt="间隔物" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="adapt.md">
+      <img alt="使用生成式工具清理和调整图像" src="../../assets/adapt.png" />
+   </a>
     <div>
+   <a href="adapt.md"><strong>使用生成工具清理和调整图像</strong></a>
+    </div>
+    <em>了解如何使用Generative Expand和Generative Fill Extend来强化您的创意</em>
     <br>
   </td>
   <td>
