@@ -5,9 +5,9 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-23021
-source-git-commit: 008d64be8a58330f687edf18aae398b506e13ca2
+source-git-commit: 055ac3bad810a31a979a88d730e044dcda3241b7
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '353'
 ht-degree: 0%
 ---
 # 企业AI教程Creative Cloud
@@ -39,8 +39,13 @@ ht-degree: 0%
     <br>
   </td>
   <td>
-    <img alt="间隔物" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="sketch-to-clean.md">
+      <img alt="从草图到干净的可编辑矢量" src="../../assets/sketch.png" />
+   </a>
     <div>
+   <a href="sketch-to-clean.md"><strong>从草图到干净的可编辑矢量</strong></a>
+    </div>
+    <em>了解如何在Illustrator中将粗略的草图转换为可编辑的矢量图</em>
     <br>
   </td>
   <td>

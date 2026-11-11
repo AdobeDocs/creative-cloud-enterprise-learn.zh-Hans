@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: dac9b2dca8056ae4ef125af7d46624437f414114
+source-git-commit: 055ac3bad810a31a979a88d730e044dcda3241b7
 workflow-type: tm+mt
-source-wordcount: '976'
+source-wordcount: '982'
 ht-degree: 3%
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 3%
     + [概述](cce/ai-tutorials/overview-ai-tutorials.md)
     + [将平面矢量图转换为任意角度 — 无需重新绘制](cce/ai-tutorials/turn-flat-vector-art.md)
     + [几分钟内即可形成无缝的矢量图案，而不是几小时](cce/ai-tutorials/seamless-vector.md)
+    + [从草图到干净的可编辑矢量](cce/ai-tutorials/sketch-to-clean.md)
     + [午餐前，一个小题大做了20个方向](cce/ai-tutorials/one-brief.md)
     + [从简报到情节提要：在生产之前探索视频方向](cce/ai-tutorials/brief-to-storyboard.md)
     + [加快修饰速度并保留原始像素](cce/ai-tutorials/retouch-faster.md)
