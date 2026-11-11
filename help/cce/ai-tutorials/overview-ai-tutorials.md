@@ -5,9 +5,9 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-23021
-source-git-commit: a6486cb4cee2b1de98ecabfe23a80ceb95b378f9
+source-git-commit: 230e8dcc3d293a7d9e3382b3604dda7466c6d739
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '412'
 ht-degree: 0%
 ---
 # 企业AI教程Creative Cloud
@@ -164,12 +164,18 @@ ht-degree: 0%
     <em>了解如何使镜头以不同的方式照亮，看起来像是属于同一编辑区域</em>
     <br>
   </td>
-  <td>
-    <img alt="间隔物" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+ <td>
+   <a href="pull-noise.md">
+      <img alt="Adobe Premiere中的新增功能：分开“拉取”对话框、环境和噪声" src="../../assets/pull-noise.png" />
+   </a>
     <div>
+   <a href="pull-noise.md"><strong>Adobe Premiere的新增功能：分开“拉取”对话框、环境和噪声</strong></a>
+    </div>
+    <em>了解如何通过拆分音频来修复对话</em>
     <br>
   </td>
 </tr>
 </table>
+
 
 
