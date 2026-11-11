@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: dac9b2dca8056ae4ef125af7d46624437f414114
+source-git-commit: 055ac3bad810a31a979a88d730e044dcda3241b7
 workflow-type: tm+mt
-source-wordcount: '976'
+source-wordcount: '982'
 ht-degree: 3%
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 3%
     + [概述](cce/ai-tutorials/overview-ai-tutorials.md)
     + [将平面矢量图转换为任意角度 — 无需重新绘制](cce/ai-tutorials/turn-flat-vector-art.md)
     + [几分钟内即可形成无缝的矢量图案，而不是几小时](cce/ai-tutorials/seamless-vector.md)
+    + [从草图到干净的可编辑矢量](cce/ai-tutorials/sketch-to-clean.md)
     + [午餐前，一个小题大做了20个方向](cce/ai-tutorials/one-brief.md)
     + [从简报到情节提要：在生产之前探索视频方向](cce/ai-tutorials/brief-to-storyboard.md)
     + [加快修饰速度并保留原始像素](cce/ai-tutorials/retouch-faster.md)
@@ -120,7 +121,7 @@ ht-degree: 3%
 + [!DNL Adobe Firefly] {#fireflyoverview}
   + [概述](firefly/overview-firefly.md)
   + 教程 {#firefly-tutorials}
-    + [&#x200B; [!DNL Adobe Firefly]概述](firefly/overview-of-firefly.md)
+    + [ [!DNL Adobe Firefly]概述](firefly/overview-of-firefly.md)
     + [发现 [!DNL Adobe Firefly]](firefly/discover.md)
     + [加速创意构想](firefly/accelerate-ideas.md)
     + [为商品创建可重复使用的场景](firefly/reusable-scenes.md)
@@ -132,11 +133,11 @@ ht-degree: 3%
     + [生成式重新着色](firefly/gen-recolor.md)
     + [如何使用 [!DNL Firefly]的示例](firefly/examples.md)
     + [提高创意效率](firefly/enable-creative-efficiency.md)
-    + [&#x200B; [!DNL Photoshop]中的横幅广告变体](firefly/web-banner-ad.md)
-    + [&#x200B; [!DNL Photoshop]中的生成式填充](firefly/generative-fill.md)
-    + [&#x200B; [!DNL Illustrator]中的生成式重新着色](firefly/generative-recolor.md)
+    + [ [!DNL Photoshop]中的横幅广告变体](firefly/web-banner-ad.md)
+    + [ [!DNL Photoshop]中的生成式填充](firefly/generative-fill.md)
+    + [ [!DNL Illustrator]中的生成式重新着色](firefly/generative-recolor.md)
   + 创意作品教程 {#firefly-creative-production}
-    + [&#x200B; [!DNL Adobe Firefly] 创意作品概述](firefly/creative-production/overview-firefly-creative-production.md)
+    + [ [!DNL Adobe Firefly] 创意作品概述](firefly/creative-production/overview-firefly-creative-production.md)
     + [背景移除和替换](firefly/creative-production/background.md)
     + {hide-from-toc}[摄影预视化](firefly/photoshoot-pre-visualization.md)
     + {hide-from-toc}[无需会议、标记和模型即可探索产品创意](firefly/explore-product-ideas.md)
@@ -176,7 +177,7 @@ ht-degree: 3%
       + {hide-from-toc}[生成大头照](firefly/graph/templates/headshots-generation.md)
   + 网络研讨会 {#firefly-webinars}
     + [尝试Adobe Firefly](firefly/webinar-experimenting.md)
-    + [大声思考：将您的想法转换为醒目的视觉效果](https://experienceleague.adobe.com/zh-hans/on-demand-events/turn-ideas-into-striking-visuals)
+    + [大声思考：将您的想法转换为醒目的视觉效果](https://experienceleague.adobe.com/en/on-demand-events/turn-ideas-into-striking-visuals)
 + [!DNL Adobe Stock] {#stockoverview}
   + [概述](stock/overview-stock.md)
   + 教程 {#stocktutorials}
