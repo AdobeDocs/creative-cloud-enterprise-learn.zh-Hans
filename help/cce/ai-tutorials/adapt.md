@@ -16,4 +16,4 @@ ht-degree: 0%
 
 在本教程中，了解如何使用“生成式扩展”和“生成式填充”扩展场景并将被屏蔽的人物带入其中，然后图层蒙版如何在您需要的时候恢复原始像素。
 
->[!VIDEO](https://video.tv.adobe.com/v/3508142?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3508169?captions=chi_hans&quality=12&learn=on&hidetitle=true)
