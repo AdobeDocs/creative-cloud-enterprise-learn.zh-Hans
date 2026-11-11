@@ -14,4 +14,4 @@ ht-degree: 0%
 
 那个有风的屋顶采访很难听到。 你不必切它。 了解如何使用Premiere“Essential Sound”（基本声音）面板中的AI增强工具修复录制的风中访谈音频。 将声音向前拉出并减少背景噪声，增强音轨，然后使用您拥有的剪辑完成编辑。
 
->[!VIDEO](https://video.tv.adobe.com/v/3508131?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3508150?captions=chi_hans&quality=12&learn=on&hidetitle=true)
