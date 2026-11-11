@@ -5,9 +5,9 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-23021
-source-git-commit: 013ef02968a0b1319d001476d8594099798f55cd
+source-git-commit: a73cdb356c783a0c3bdc6d53fb458cc9934ac044
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '480'
 ht-degree: 0%
 ---
 # 企业AI教程Creative Cloud
@@ -49,8 +49,13 @@ ht-degree: 0%
     <br>
   </td>
   <td>
-    <img alt="间隔物" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="vector-to-layout.md">
+      <img alt="将矢量图移动到InDesign布局中并将其打包以交接" src="../../assets/package.png" />
+   </a>
     <div>
+   <a href="vector-to-layout.md"><strong>将矢量图移入InDesign布局中并将其打包以便交接</strong></a>
+    </div>
+    <em>通过询问InDesign中的AI Assistant了解如何检查打印布局</em>
     <br>
   </td>
 </tr>
