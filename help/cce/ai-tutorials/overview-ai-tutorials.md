@@ -5,9 +5,9 @@ feature: Image Editing, Gen AI
 role: User
 level: Intermediate
 jira: KT-23021
-source-git-commit: 055ac3bad810a31a979a88d730e044dcda3241b7
+source-git-commit: a73cdb356c783a0c3bdc6d53fb458cc9934ac044
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '480'
 ht-degree: 0%
 ---
 # 企业AI教程Creative Cloud
@@ -49,8 +49,13 @@ ht-degree: 0%
     <br>
   </td>
   <td>
-    <img alt="间隔物" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="vector-to-layout.md">
+      <img alt="将矢量图移动到InDesign布局中并将其打包以交接" src="../../assets/package.png" />
+   </a>
     <div>
+   <a href="vector-to-layout.md"><strong>将矢量图移入InDesign布局中并将其打包以便交接</strong></a>
+    </div>
+    <em>通过询问InDesign中的AI Assistant了解如何检查打印布局</em>
     <br>
   </td>
 </tr>
@@ -118,8 +123,13 @@ ht-degree: 0%
     <br>
   </td>
   <td>
-    <img alt="间隔物" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="adapt.md">
+      <img alt="使用生成式工具清理和调整图像" src="../../assets/adapt.png" />
+   </a>
     <div>
+   <a href="adapt.md"><strong>使用生成工具清理和调整图像</strong></a>
+    </div>
+    <em>了解如何使用Generative Expand和Generative Fill Extend来强化您的创意</em>
     <br>
   </td>
   <td>
@@ -149,22 +159,33 @@ ht-degree: 0%
       <img alt="更快地获得粗剪" src="../../assets/rough-cut.png" />
    </a>
     <div>
-   <a href="rough-cut.m"><strong>更快地获得粗剪</strong></a>
+   <a href="rough-cut.md"><strong>更快地获得粗剪</strong></a>
     </div>
     <em>了解如何在Premiere中更快地从访谈和B形滚动中构建粗剪，而无需划动每个剪辑</em>
     <br>
   </td>
   <td>
-    <img alt="间隔物" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+   <a href="match-color.md">
+      <img alt="跨镜头匹配颜色 — 无需色轮" src="../../assets/match-color.png" />
+   </a>
     <div>
+   <a href="match-color.md"><strong>镜头间颜色匹配 — 无需色轮</strong></a>
+    </div>
+    <em>了解如何使镜头以不同的方式照亮，看起来像是属于同一编辑区域</em>
     <br>
   </td>
-  <td>
-    <img alt="间隔物" src="../../assets/acrobat_PDF_whitespacer_96.png" />
+ <td>
+   <a href="pull-noise.md">
+      <img alt="Adobe Premiere中的新增功能：分开“拉取”对话框、环境和噪声" src="../../assets/pull-noise.png" />
+   </a>
     <div>
+   <a href="pull-noise.md"><strong>Adobe Premiere的新增功能：分开“拉取”对话框、环境和噪声</strong></a>
+    </div>
+    <em>了解如何通过拆分音频来修复对话</em>
     <br>
   </td>
 </tr>
 </table>
+
 
 

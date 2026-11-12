@@ -9,9 +9,9 @@ role: User
 type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 055ac3bad810a31a979a88d730e044dcda3241b7
+source-git-commit: a73cdb356c783a0c3bdc6d53fb458cc9934ac044
 workflow-type: tm+mt
-source-wordcount: '982'
+source-wordcount: '1021'
 ht-degree: 3%
 ---
 
@@ -29,8 +29,12 @@ ht-degree: 3%
     + [从简报到情节提要：在生产之前探索视频方向](cce/ai-tutorials/brief-to-storyboard.md)
     + [加快修饰速度并保留原始像素](cce/ai-tutorials/retouch-faster.md)
     + [构建预设，使整个拍摄的颜色保持一致](cce/ai-tutorials/build-presets.md)
+    + [使用生成式工具清理和调整图像](cce/ai-tutorials/adapt.md)
+    + [将矢量图移动到InDesign布局中并将其打包以交接](cce/ai-tutorials/vector-to-layout.md)
     + [填充剪切中的空隙：B形、音频以及结束太快的剪辑](cce/ai-tutorials/fill-gaps.md)
     + [更快地获得粗剪](cce/ai-tutorials/rough-cut.md)
+    + [跨镜头匹配颜色 — 无需色轮](cce/ai-tutorials/match-color.md)
+    + [Adobe Premiere中的新增功能：分开“拉取”对话框、环境和噪声](cce/ai-tutorials/pull-noise.md)
   + 教程 {#ccetutorials}
     + [适用于内容创作者的Acrobat](cce/acrobat-content-creators.md)
     + [使用CC Libraries改进CC工作流](cce/cc-workflows-cc-libraries.md)
